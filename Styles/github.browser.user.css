@@ -1,0 +1,146 @@
+
+
+/* NOTE  !!!!!  Remember to edit
+/home/jw/books/tholonia/Styles/common_book_prod_header.css.less  NOTE: less file controls alignment
+/home/jw/books/tholonia/Styles/epub_prod.css
+
+also, for "text-align: center" (but this appears to be controleld by the .less file)
+/home/jw/books/tholonia/chapters/.parts/header.html
+
+*/
+
+h1 {
+    font-size:18pt;
+    text-align:center;
+}
+
+h2 {
+    font-size:16pt;
+}
+
+h4 { /* this is the CLAIM format */
+    font-family: Tahoma,Verdana,Segoe,sans-serif !important;
+    border:1px solid lightgrey !important;
+    background-color:#ddd !important;
+    font-size: 1rem !important;
+    font-weight: 200 !important;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-left:10px;
+    margin-right: 10px;
+}
+
+h5 { /* this is the SYNOPSIS format */
+    font-size: 10pt;
+    font-weight:100;
+/*     font-style: italic; */
+    color:#343434 !important;
+    text-align: center !important;
+    position:relative !important;
+    right:0 !important;
+    border: 0px solid white;
+    margin-top: -1em;
+    margin-left: 3em;
+    margin-right: 3em;
+    border-bottom:1px solid black !important;
+}
+
+h6 { /* this is the SUB-HEADING format */
+    font-family: Tahoma,Verdana,Segoe,sans-serif !important;
+    text-align: center !important;
+/*     color: black; */
+    font-size:12pt;
+    border-top:1px solid black !important;
+    border-bottom:1px solid black !important;
+    font-weight:100;
+    border: 0px solid white;
+}
+
+
+body {
+    size: 6.69in 9.61in;
+    font-family: "Times New Roman", Times, serif;
+    color:black;
+    background-color: white;
+    margin-right:35% !important;
+    margin-left:5% !important;
+    margin: 1pt;
+    padding: 0;
+    height: auto;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    font-size: 10pt;
+    /*line-height: 1.42857;*/
+    /* removed as it breaks princexml, but still exists is parent git css used    by typora
+     overflow-x: hidden;*/
+/*     background: inherit; */
+    tab-size: 4;
+    line-height: 14pt;
+
+}
+p { font-family: "Times New Roman", Times, serif;}
+#write h1 { text-align:center;}
+
+.break {/*page-break-before:always;*/}
+
+blockquote {
+    margin-left: 1em;
+}
+blockquote p {
+    font-style: italic;
+    color:grey;
+    text-indent:0;
+}
+
+
+.md-toc-h1 { font-size:14pt;}
+.md-toc-h2 { font-size:12pt;}
+.md-toc-h3 { font-size:10pt;}
+.md-toc-h6 { display: none;}
+.md-toc-h5 { display: none;}
+.md-toc-h4 { display: none;}
+a.md-toc-inner { font-size: 14pt !important; color: black !important; }
+
+/* hide book title in TOC */
+.md-toc-inner strong { display:none;}
+
+/* footnotes */
+.footnote-ref { text-decoration: none; font-size: 8pt;}
+.footnotes { font-size: 8pt;}
+.typora-export .footnote-line, .typora-export li {white-space:pre-wrap;}
+
+
+/* hide the anchor HTML */
+a[name]:empty + .md-raw-inline {
+  display:none;
+}
+a[name]:empty {
+  text-decoration: none;
+}
+a[name]:empty:before {
+ content:"⚓";
+}
+/* show the anchor HTML when cursor is inside */
+.md-expand .md-raw-inline {
+    display: inline !important;
+}
+
+/* no underline for links */
+a { text-decoration: none; }
+
+/* OVERRIDES for DARK THEME */
+xxxbody {
+    background-color:#121212; !important;
+    color: white; !important;
+}
+
+
+/* CALLOUTS */
+
+/* NOTE !!!!!!!!!!!!!!!
+ * CALLOITS do not work when generating PDFs
+ * !!!!!!!!!!!!!!!! */

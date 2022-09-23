@@ -1,0 +1,60 @@
+
+.desc {
+  color: #000000;
+  font-weight: 600;
+}
+.heading {
+  color: #000000;
+  font-weight: 600;
+  font-size: 10pt;
+  height: 13px;
+  padding-top: 4px;
+  margin-bottom: 6px;
+}
+.line {
+  margin-left: 10px;
+  border-left: black;
+  height: 14px;
+  border-left: 3px solid lightgray;
+}
+.word {
+  position:fixed;
+  background-color: blue;
+  width:fit-content;
+  height:300px;
+  float:left;
+  background-color:red;
+}
+
+  /* color: black;
+  font-size: 10pt;
+  margin-left: 6px; */
+/* } */
+.pages {
+  background-color: green;
+  width:100%;
+  height:300px;
+  float:right;
+  background-color:green;
+}
+  /* color: #5b5b5b;
+  font-size: 8pt;
+  margin-left: 12px;
+} */
+.chapter {
+  color: #000000;
+  padding-top: 12px;
+  margin-bottom: 3px;
+  font-size: 18pt;
+}
+
+.lbox {
+  margin-left: 0px;
+  /* border:1px solid green; */
+}
+.hbox {
+  /* border:1px solid red; */
+  margin-left: 16px;
+}
+
+div {display:inline;}

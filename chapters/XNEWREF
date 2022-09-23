@@ -1,0 +1,2 @@
+sh ./XMAKEREFS
+tail -1 references_out

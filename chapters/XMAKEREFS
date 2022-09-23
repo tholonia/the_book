@@ -1,0 +1,3 @@
+rm references_out &&  find -maxdepth 1 -name "*.md" -exec grep -F "]:" {} \; |awk -F"]" '{print $1"@@@"$0}'|perl -p -e 's/^\[\^//gmi'|sort -nu |awk -F"@@@" '{print $2}' > references_out
+
+
