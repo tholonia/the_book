@@ -154,3 +154,9 @@ archive
 
 
 __pycache__
+Images/
+PUSH
+chapters/INDEX.html
+chapters/tmp/
+code/
+images

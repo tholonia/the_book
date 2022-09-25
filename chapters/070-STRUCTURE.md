@@ -1,12 +1,17 @@
 <div style='page-break-after: always; break-after: always;'></div>
 # Part II
 
-Part II of this book brings together the ideas and concepts of Part I either directly or indirectly, to describe the tholonic model.  ~~These are not esoteric or niche concepts, but the most fundamental concepts known to science, such as energy, chaos, order, waves, and Newton’s Laws.  As we review these basic concepts, we also expand on them and build new concepts that will be critical in describing what role awareness plays in the theater of existence, how and why consciousness *had* to evolve, and the nature of intelligence; artificial, human, or otherwise.~~
+##### **Synopsis:** Part II of this book brings together the ideas and concepts of Part I either directly or indirectly.  This chapter on Structure look at the structure of reality and our concepts of how it operates.  It is these same structures that also define the concepts data, information, knowledge, and understanding.
+
+Keywords:   
+
+
+
 <div style='page-break-after: always; break-after: always;'></div>
 # 7: STRUCTURE
 
 ###### Knowledge and information, like form, have structures that follow the same rules as form.
-##### **Synopsis:** Structure is the relationship between elements, so anything that relates to anything has a structure.  Our perception of structure is limited and defined by order, context and application.  Information, knowledge, understanding, and concepts have structure because they are formed by relationships.  Structure is self-similar, therefore is it hierarchical and all instances of structure share the same fundamental properties.   
+##### **Synopsis:** Structure is the relationship between elements, so anything that relates to anything has a structure.  This is also true the conceptual structures of data, information, knowledge, and understanding, all of which are limited and defined by order, context and application and all of which are formed by relationships.  Structure is self-similar, therefore it hierarchical in nature.  All instances of a structure share the same fundamental properties of that structure.   
 
 ##### **Keywords:** structure, hierarchy, dimensions, form, geometry, knowledge, holons, tholons
 
@@ -54,6 +59,9 @@ If the tetrahedron is the first thing that can be created, this would suggest al
 
 > In our 3D quasicrystalline reality, the tetrahedron is the smallest, indivisible unit.  A 3D pixel of reality, if you will.  Each tetrahedron is the smallest possible 3D shape that can exist in this reality: the length of each of its edges is the Planck length (the shortest possible length known in physics – over 10<sup>35</sup> times smaller than a meter).  These 3D pixels combine with one another according to specific, geometric rules, to populate all of space.  **~ “Emergence Theory Overview”.  Quantum Gravity Research[^53]**
 
+[^52]: “**Quantum Gravity Research**”. Quantum Gravity Research, <https://www.quantumgravityresearch.org>.
+[^53]: "**Emergence Theory Overview.**" Quantum Gravity Research. Accessed August 07, 2020. https://quantumgravityresearch.org/lay-person-overview.
+
 The tholonic model that this book describes suggests that the rules that apply to these 3D pixels that populate all of space extent beyond space to all of reality, including the invisible worlds of ideas, archetypes, and all forms and expressions of energy.
 
 ## On the Small Side
@@ -76,6 +84,8 @@ What about something that is 5D, or 6D or 7D? Each one would be bigger by an ord
 
 So, there’s this magic 248-dimensional crystal (actually, it’s 8 dimensional with 248 not-necessarily-spatial, but not *not*-necessarily-spatial, dimensional symmetries, but as an algebraic expression it is considered to have 248 dimensions&hellip; at least that is what I am told[^320]) called the *E8 crystal*, and this reality of ours is, presumably, the result of a number of 3D refractions of energy created by the various facets of this crystal that are cast upon the 3D canvas of the void that is our universe from the higher dimensions of magic-crystal-land.  As modern as this sounds, this was first proposed in the late 1800s, but it has only been recently that we have the computing power to give it a test drive.  This sounds pretty compatible with the Simulation Hypothesis.  Maybe these two theories should get together for coffee sometime.
 
+[^320]: Interestingly, there is a relatively unknown young man, Matias De Stefano,  who was born in 1987 in a small town outside of Buenos Aries, Argentina, where he still lives, and who claims that not only was he born with full memory of his existence prior to being born, but that his "job" in his pre-incarnate reality was that of an "information specialist" or "librarian" of sorts, collecting, managing and disseminating information from all realities and dimensions.  He claims he has returned to earth to finish a mission he began thousands of years ago but failed to complete. Whether one believes his claims or not, it is hard not to be impressed with his detailed, clear, rational, and somewhat technical explanation regarding the structure and nature of reality.  He is mentioned here because, coincidentally, he explains: *"The 8th dimension is where you can see everything from one spot. The 8th dimension has the information of everything,  of every second over millions of years, from every perspective of the universe".*  For what it's worth, he also says each dimension has its own form of technology, and the 9th dimension is a black hole, *"The place and time where there is no place or time"*, and the last dimension that exists in the physical reality.  Theosophists and anthroposophists call this 8 dimensional reality the *Akashic Records*, which is described as a compendium of all universal events, thoughts, words, emotions, and intentions ever to have occurred in the past, present, or future. Here we have a Magic Crystal that is hypothesized as the source of all creation, past, and future and also happens to also be 8 dimensions.  This is mentioned not to lend or remove any validity to these various models of reality but to show how similar conceptual patterns are expressed via different philosophies and perspectives; scientific, mathematical, metaphysical, or mystical. I also mention him here because his explanation of reality is entirely compatible with the Tholonic model, albeit less technically detailed but more complex, so for those more meta-physically aligned, his perspective may be valuable.
+
 As crazy as this theory sounds, it’s a real thing.  Just do an Internet search for “*emergence theory tetrahedron”* and *“The theory of everything quantum symmetry E8 lattice”* and browse through the million-plus links that discuss it in painful detail, emphasis on the *painful* part, because most of the content is unintelligible to those not intimately familiar with the algebra of differentiable manifolds, quantum gravity and a bunch of other stuff I don’t even know how to reference.  However, that is not important to know for our purposes.
 
 It should be stated that this theory is not accepted by all, and some scientists are definitely in the “swarming with worms of heretical perversity” camp regarding the magic crystal of reality.  I don’t have any opinion about the Emergence Theory (ET) other than it sounds fascinating, mainly because I am not qualified to have an opinion.  The only reason it is being mentioned is because ET supports many of the claims that are made here, which were arrived at with no knowledge of ET.
@@ -88,15 +98,22 @@ Obviously, it is impossible to visualize such a crystal as it has countless patt
 
 As you can see, the whole space-time part of the E8 lattice is just a small part of one of the 3D projections of an 8D slice of a 248D super-thing, leading one to wonder what other forms of reality it has the magic power to conjure up.  Not surprisingly, this E8 lattice can be deconstructed to (or perhaps is constructed by) a series of tetrahedrons.[^54]<sup>,</sup>[^56]
 
+[^54]: Smith, F. D. (n.d.). **E8 Root Vectors from 8D to 3D** - Valdosta, Georgia. <http://www.valdostamuseum.com/hamsmith/E8to4Dand3D.pdf>
+[^56]: Jgmoxness. (n.d.). **Visualizing a Theory of Everything**! <http://theoryofeverything.org/theToE/tags/e8>
+
 A significant aspect of *Emergence Theory* (for us) is their claim that:
 
 > &hellip;all of reality is made of information.  What is information? Information is meaning conveyed by symbols.  Languages and codes are groups of such symbols that convey meaning.  The various possible arrangements of these symbols are governed by rules.[^55]
+> 
+[^55]: What **is Reality? Emergence Theory Tries to Explain**. (2017, March 11). <http://www.deepstuff.org/what-is-reality-emergence-theory-tries-to-explain>
 
 Just as a fun comparison, check out the following cymatic patterns.  With very little effort we can imagine how reality and the Universe is like a 248D drum filled with energy and vibrating in all frequencies.
 
 <center><img src='../Images/040-cymaticscolor.png' style='width:100%'/></center>
 
 The E8 crystal of *quantum symmetry* and *emergence theory* hypothesize that all matter is a projection of countless “pixels” that are really, really small tetrahedrons[^57], each about 1.61 x 10<sup>-35</sup> meters in size.  Remember the size of a quark, 10<sup>-17</sup>? This is a *lot* smaller.
+
+[^57]: Amazing description of how the E8 crystal can be defined as tetrahedrals. <https://quantumgravityresearch.org/portfolio/a-deep-link-between-3d-and-8d>
 
 It might sound like this is mixing apples and multidimensional oranges, using definitions from *emergence theory* on one side of the scale, and definitions from *quantum symmetry* on the other side, but both of these theories integrate quantum mechanics, general and special relativity, the standard model and other mainstream physics theories to form a complete, fundamental picture of a universe unfolding from implicity to explicity.  The main difference between these two models is that the *E8 Crystal* describes the mechanics of creation, while the *emergence theory* attempts to describe the syntax of its operation using the language of geometry.
 
@@ -136,11 +153,15 @@ The story of the I-Ching and Gottfried Wilhelm von Leibniz, the co-inventor (a
 
 When the Jesuits, reputed to be the intellectuals among Christian missionaries, traveled to China, they were so fascinated by the I-Ching that they brought it back to Europe in the late 1600s.  It was here that Leibniz saw the I-Ching and claimed it to be sent to him by God.[^58]
 
+[^58]: **Gottfried Wilhelm Leibniz**. (n.d.). <http://www.wikiwand.com/en/Gottfried_Wilhelm_Leibniz>**, Leibniz and the I-Ching**. (n.d.). <http://www.wikiwand.com/en/Binary_number#/Leibniz_and_the_I_Ching>
+
 Prior to seeing the I-Ching, Leibniz had been developing (discovering?) a number system since 1679 that he considered sacred and which he described in his 1703 article, *Explication de l'Arithmétique Binaire*.  It was the binary system of 0s and 1s, much like the Yin/Yang of the I-Ching.  It was of no real practical use to anyone at the time, but that was not why he developed it.  Leibniz, a very pious man, thought that if all values could be expressed in terms of only something and nothing, on and off, yes and no, positive and negative, etc., then truly, this would be the language of life, for, as he thought, God the Creator was represented as 1, while the void was represented as 0.
 
 Leibniz's principal work on this topic was his ideas on *monism*, as he called it.  In short, he describes how each substance is *programmed* to act in a predetermined way and is integrated with all other substances according to a preexisting *archetypal* harmony. The most, and only essential substance was the simplest, which he described as  “that which is one, has no parts and is therefore indivisible" and from which all other substances emerged from, i.e. God.
 
 At the same time he was inventing this *divine math* meant to explore the hidden secrets of reality, he was also inventing the first mechanical calculator suitable not only for addition and subtraction but for multiplication as well.  His dream was to make a logical thinking device.[^59]
+
+[^59]: **Gottfried Leibniz**. (n.d.). Retrieved from <http://history-computer.com/Dreamers/Leibniz.html>
 
 Leibniz was creating tools for exoteric and esoteric understanding, both based on the same logic, but within two very different contexts.  Leibniz's sacred math was lost to obscurity, until it was (coincidentally) resuscitated some 300-years later at the pre-dawn of the digital computer.  
 
@@ -151,6 +172,8 @@ If Leibniz was alive today to see his sacred binary math of 1s and 0s being used
 ### The Source of Ideas
 
 We like to think we come up with ideas, but perhaps this is no truer than a flower “deciding” to change colors when exposed to different light, or a river “deciding” to change course because the wolf population has increased.[^60]
+
+[^60]: Abrantes, R. (2018, November 19). **How Wolves Change Rivers** \| Ethology Institute \| Read and Watch Now. Retrieved from <https://ethology.eu/how-wolves-change-rivers>
 
 Although currently not a mainstream theory, the understanding that Ideas are more like expressions of living intelligences that we have a symbiotic relationship with is currently alive and well, and has been around for thousands of years.  Traditionally, these forms of intelligence and intention were anthropomorphized into deities, angels, demons, spirits, etc., and it was understood that we use them for our purposes, noble and otherwise, and they use us for their purposes, noble or otherwise.  Today we have new evidenced-based hypotheses of this same concept in the forms of panpsychism, morphic fields, collective (un)consciousness, Universal mind, etc.  From this perspective, all forms of life are simply instances of various Ideas and concepts that have instantiated themselves.
 
@@ -170,9 +193,13 @@ Humans are sort of stuck with the language we have been using for thousands of y
 
 This applies to intentionally designed languages as well.  In 1968, Aristid Lindenmayer, a Hungarian theoretical biologist and botanist at the University of Utrecht, designed a symbolic language called *L-system* that incorporated various symbols that were bound by a set of rules.  He developed this language as a way to model and describe the behavior of plants and a variety of other organisms[^61].  The philosophy and architecture of the language were based on the observed logic of growth, i.e. life.  Not coincidentally, this language describes self-similar systems.  This is the language of the future, but sadly, only for our digital offspring, at least not until we do some major gray matter rewiring upstairs.
 
+[^61]: Grzegorz Rozenberg and Arto Salomaa. **The mathematical theory of L systems** (Academic Press, New York, 1980). ISBN 0-12-597140-0
+
 <center><img src='../Images/043-l-system-trees.png' style='width:100%'/></center>
 
 Granted, L-System language is mainly used as a modeling language, but has an alphabet, grammatical roots, and rules, like human language[^62].  This is brought up to show that organically evolved systems that have survived the challenges of sustainability, such as human language, exhibit similar characteristics to the highly ordered, structured, and hierarchical systems that describe life itself.
+
+[^62]: In that it applies the syntactic features of natural languages. This is mentioned in the book: Prusinkiewicz, Przemyslaw, et al. **The Algorithmic Beauty of Plants**. Springer, 1996. This book is also available online. The relevant chapter is http://algorithmicbotany.org/papers/abop/abop-ch1.pdf. This site in general is an excellent resource for algorithms of nature.
 
 Although human language is surprisingly efficient and operates with the same structure that naturally exists in ideas and concepts, its efficiency is greatly due to our brain’s ability to apply context and instantly run through many interpretations of words and sentence structure until it finds the most contextually applicable interpretation.  This is entropy in action, as each possible interpretation is a microstate that the brain has to instantly field-test.  Take the sentences:
 
@@ -182,7 +209,7 @@ Although human language is surprisingly efficient and operates with the same str
 
 Say the first sentence 5 times, each time putting the stress on a different word.  This sentence has the equivalent of 5 microstates, and depending on the context of who/what/where/when/why, the brain will calculate the highest probability of its intended meaning.  Likewise, the second sentence has potentially 16 microstates, as there are 8 different interpretations based on stress, and 2 possible meanings as to whether the man had a stick or a stick was or wasn’t used, to hit him with.  Applying the concept of entropy in this scenario, *finding meaning* in the sentence equates to the *balancing of energy* between two states.  But what is imbalanced that needs balancing?  The imbalance is one of knowledge, as the information provided by each interpretation is quite different, and that information might be important to know.  To get the answers, the brain as a built-in *intention-drive*, which is the neurology that makes one need to, or desire to find answers.  This is not a well-understood process, but it is being studied[^341].  The brain’s built-in intention-drive is wired specifically for the purpose of discerning significance and increasing knowledge, which it has learned is a critical competitive and survival skill.  Even when there is no actual information to discern, the brain can create significance.  I suspect that delusional disorders are somehow related to a hyperactive intention-drive.
 
-JWFIX:proof here
+[^341]:Kidd, C., & Hayden, B. Y. (2015). **The Psychology and Neuroscience of Curiosity**. *Neuron*, *88*(3), 449–460. https://doi.org/10.1016/j.neuron.2015.09.010, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4635443/pdf/nihms722442.pdf
 
 How does this cognitive wiring and processing work?   While the physiological details of the wiring are not known, it’s an educated guess that the intention-drive is a result of, and proportional to, the electrical charge in the ions that create neural signals.  One clue is to look at the processing involved.
 
@@ -200,6 +227,8 @@ There is such a language which was developed to specifically optimize the transm
 
 <center><img src='../Images/044-ithlang.png' style='width:30%'/></center>
 
+[^63]: Quijada, John. **A Grammar of the Ithkuil Language**. John Quijada, 2011.
+
 Another is *Ygyde*, for example:
 
 <center><img src='../Images/ygyde.png' style='width:70%'/></center>
@@ -213,6 +242,8 @@ Regardless of the language, they all depend on semantics, which is what makes an
 ### Semantics
 
 Semantics is the branch of linguistics and logic concerned with meaning, but there are two kinds of meaning, according to the *Theory of Meaning*[^64].  The first kind is the more common definition of semantics.
+
+[^64]: Speaks, Jeff. **“Theories of Meaning”**. Stanford Encyclopedia of Philosophy, Stanford University, 27 June 2019,<https://plato.stanford.edu/entries/meaning>
 
 > The description of possible languages or grammars as abstract semantic systems whereby symbols are associated with aspects of the world.  (a more objective view)
 
@@ -244,9 +275,15 @@ Predicates can be just about anything: “lives in”, “has a”, “enjoys”
 
 How does a computer know what “*is interested in*” or what a “*person*” is? It doesn’t “know” the way you or I know, but it does know that a *person* is a type of *agent*, has a *family name*, a *first name* and that a person *knows things*.  So, as far as a computer is concerned, a person is just a data-set with a bunch of specific properties and relationships to other data-sets.[^65] These definitions and relationships are defined hierarchically into the “that which is” ontology maps.  
 
+[^65]: Example of a “person” as defined by the semantic web: <http://xmlns.com/foaf/spec/#term_Person>
+
 There are thousands of these ontologies of definitions run by corporations, governments, individuals, schools, the military, etc., that cover an incredible array of data in areas of geography, life sciences, linguistics, media, social networking, medicine, catfish, diseases, road-maps, accommodations in Tuscany, etc., and they can all talk to each other by linking *triplets* together*.*[^66]
 
+[^66]: McCrae, J. P. (n.d.). **The Linked Open Data Cloud**. <https://www.lod-cloud.net>
+
 As you can imagine, a computer can create millions of connections between triplets with little effort and in a very short time.  With all these connections, we can ask the computer typical questions like “*How many romantic comedy Hollywood movies are directed by a person who is born in a city that has an average temperature above 15&deg;?*” Of course, social media companies, who have their own ontologies that they aggressively build from their user-base, can ask questions like “*Give me a list of all the boys who are eligible to vote in the next election, and who listen to Seattle grunge bands, are politically left-wing, and have friends and family that are politically progressive.*” More worrying are the queries of the near future, such as “*Tell me all the names of people that are likely to commit a crime in the next week.*” That may sound like paranoia about a dystopian future, but AI systems in China have an 80% success rate in predicting who is a criminal just by looking at them.  At Stanford University they have developed an AI system that has a 91% accuracy rate of determining if someone is gay or straight[^67], and that is just the beginning.
+
+[^67]: Wang, Y., & Kosinski, M. (in press). **“Deep neural networks are more accurate than humans at detecting sexual orientation from facial images”**. Journal of Personality and Social Psychology; Newspaper article on this research: Levin, Sam. **“New AI Can Work out Whether You’re Gay or Straight from a Photograph”.** The Guardian, Guardian News and Media, 7 Sept. 2017, <http://www.theguardian.com/technology/2017/sep/07/new-artificial-intelligence-can-tell-whether-youre-gay-or-straight-from-a-photograph>
 
 Language is based on rules of nature and can be deconstructed into triplets, and we can see these same rules applied to both the physiology required to support language, and the language itself.  In fact, Stuart Hameroff, the American doctor and professor at the University of Arizona known for his studies relating consciousness and quantum mechanics, has directly mapped the formation of sentences onto the relationships of microtubules via *tubulin proteins*.
 
@@ -383,6 +420,8 @@ There is one more, far less obvious attribute to consider as well, and that is *
 
 We see this same concept, that of creation being the result of A&I, in the spiritual texts of every major belief system.  For example, in Jewish, Christian, and Islamic lore[^356], when God spoke to Moses, God was quite specific about its name and not only told Moses its name was “I Am (Who/Which/That) I Am” (<img src='../Images/iamthatiam.png' style='height:10px'/>) but also informed Moses that the voice he was hearing was but a messenger of “I AM” (<img src='../Images/iam.png' style='height:10px'/>), a messenger of the most fundamental form of Awareness.  
 
+[^356]: Genesis 3.14 “And God said to Moses, ‘Ehyeh-Asher-Ehyeh,” *(‘Ehyeh-Asher-Ehyeh’ Meaning of Heb. uncertain; variously translated: “I Am That I Am”; “I Am Who I Am”; “I Will Be What I Will Be”; etc.)* ‘Thus shall you say to the Israelites, ‘Ehyeh’ *(‘Ehyeh’ meaning “I Am” or “I Will Be.”)* “sent me to you.’”, <img src='../Images/quote.png' style='height:15px'/>
+
 Buddhists appear to have cut out the middle-man (or perhaps “middle-god”) as they do not have the concept of a divine being, but they do have the concept of a primal awareness, as suggested in the Buddhist proverb: *A person asked Buddha: Are you a God? Buddha's reply was No. Are you an Angel? No. Then what are you? I am awake.*  
 
 We can also see the concepts of A&I in the context of physics.  Take the example of energy, mass, and light, as we briefly addressed earlier.  Light has no mass, and without movement, it also has no energy and only exists as the concept of a 0-dimensionless point.  Without movement there would be nothing to measure nor would it interact with anything.  This conceptual point, a result of *awareness*, only has properties when it moves (speed, frequency, amplitude), and this movement is an expression of *intention*, making light (or any form of radiation) a primal expression of A&I.  It also suggests that awareness may be the purest form of energy, but it is intention that makes it manifest through movement.  Awareness and Intention, being the only two properties of this non-existent dot, always exist as two aspects of the primal dot, and therefore always exist together, similar to an electromagnetic field in how the magnetic field can only exist if there is movement of charges (intention), while the electric field surrounds the charge whether moving or stationary (awareness).
@@ -491,6 +530,8 @@ The idea of modeling reality on the movement of energy rather that the *things* 
 
 > The thesis of the Reciprocal System, however, is that the universe is not a universe of matter, but a universe of motion, one in which the basic reality is motion, and all entities - photons, particles, atoms, fields, forces, and all forms of energy - are merely manifestations of motion.[^68]
 
+[^68]: “**Reciprocal Theory**” RationalWiki, <https://rationalwiki.org/wiki/Reciprocal_Theory>.
+
 Like every theory, it has its fans, but also its critics.  In any case, it applies perfectly here.
 
 Newton’s Laws of Motion are similar in this regard, as the laws of motion describe the energy that relates to mass, not any particular instance of mass.  Because of this, we can show a direct relationship between these tholonic concepts and Newton’s laws:
@@ -525,6 +566,8 @@ The order of the laws assigned by Newton shows the concept of *balancing* (verb)
 -    *Contribution/Negotiation*: This is the spectrum of **work, enablement, service, supply**.  Society as an organism in its own right has certain needs that must be met to survive, and it is the responsibility of its members to address those needs.  This is also the supply side of supply and demand, as production is certainly a contributing factor, involves work, provides a service, and enables further growth.
 
 This trigram of relationships are present in every instance of creation and will be expressed according to the context and scope of its instantiation.  In the context of society, we have *laws*, *service*, and *cooperation*, and in social theory, such as Adam Smith’s  *Theory of the Invisible Hand*[^75], which is predicated on the idea of cooperation based on voluntary exchange that benefits both parties as well as the society.  In another context, such as the atomic world, *laws* would refer to the limits that an atom must exist within.  *Cooperation/conflict* could describe how the atom’s negative and positive forces work with, and against, each other, or perhaps how atoms fuse (unify, as in nuclear fusion) and “fiss” (break apart, as in nuclear fission).  *Dedication* describes the aspects of an atom that enhances the ability or properties of its parent tholon, that being the realm from which it was created, which in the tholonic view would be the realm of subatomic particles, such as electron protons and neutrons.  How useful would subatomic particles be is there weren’t any atoms?
+
+[^75]: Adam Smith, "An Inquiry into the Nature and Causes of the Wealth of Nations", 1776, London
 
 #### **Key 52:** Stable patterns/instances form dynamic relationships/movement of energy which form stable patterns/instances.
 
@@ -565,28 +608,5 @@ At the most abstract levels, this describes the Big Bang Theory, biological repr
 
 <hr>
 
+[^69]: As a relevant aside, this reversing effect has a material analog called the *Janibekov effect*, (among other names). It is well established in the field of mechanics and is most easily observed in space where there is no gravity. On observing it for the first time one would think the impossible is happening, but in fact, it is a basic law of energy that we rarely get to see here on Earth because of gravity. Imagine an asymmetrical rigid body, like a wing-nut or a or handle, rotating around one of its axis, then suddenly, it flips 180&deg;, and continues to rotate around the same axis, but in a reverse position. After a few moments, it flips again, and continues flipping back and forth indefinitely. It does this because the lowest energy state, which is the state that all matter seeks, requires the maximum amount of inertia, and the maximum amount of inertia will always be where the most mass is. Given that the object is asymmetrical, the amount of mass for each axis will change, causing the object to change position. A quick search for “Janibekov effect” will yield many fascinating videos on this phenomena. This phenomena is worth mentioning because it is a perfect example of how energy operates in form, and, presumably, in the archetypes of form as well, which, at least tholonically, are asymmetrical tholons.
 
-[^52]: “**Quantum Gravity Research**”. Quantum Gravity Research, <https://www.quantumgravityresearch.org>.
-[^53]: "**Emergence Theory Overview.**" Quantum Gravity Research. Accessed August 07, 2020. https://quantumgravityresearch.org/lay-person-overview.
-[^54]: Smith, F. D. (n.d.). **E8 Root Vectors from 8D to 3D** - Valdosta, Georgia. <http://www.valdostamuseum.com/hamsmith/E8to4Dand3D.pdf>
-[^55]: What **is Reality? Emergence Theory Tries to Explain**. (2017, March 11). <http://www.deepstuff.org/what-is-reality-emergence-theory-tries-to-explain>
-[^56]: Jgmoxness. (n.d.). **Visualizing a Theory of Everything**! <http://theoryofeverything.org/theToE/tags/e8>
-[^57]: Amazing description of how the E8 crystal can be defined as tetrahedrals. <https://quantumgravityresearch.org/portfolio/a-deep-link-between-3d-and-8d>
-[^58]: **Gottfried Wilhelm Leibniz**. (n.d.). <http://www.wikiwand.com/en/Gottfried_Wilhelm_Leibniz>**, Leibniz and the I-Ching**. (n.d.). <http://www.wikiwand.com/en/Binary_number#/Leibniz_and_the_I_Ching>
-[^59]: **Gottfried Leibniz**. (n.d.). Retrieved from <http://history-computer.com/Dreamers/Leibniz.html>
-[^60]: Abrantes, R. (2018, November 19). **How Wolves Change Rivers** \| Ethology Institute \| Read and Watch Now. Retrieved from <https://ethology.eu/how-wolves-change-rivers>
-[^61]: Grzegorz Rozenberg and Arto Salomaa. **The mathematical theory of L systems** (Academic Press, New York, 1980). ISBN 0-12-597140-0
-[^62]: In that it applies the syntactic features of natural languages. This is mentioned in the book: Prusinkiewicz, Przemyslaw, et al. **The Algorithmic Beauty of Plants**. Springer, 1996. This book is also available online. The relevant chapter is http://algorithmicbotany.org/papers/abop/abop-ch1.pdf. This site in general is an excellent resource for algorithms of nature.
-[^63]: Quijada, John. **A Grammar of the Ithkuil Language**. John Quijada, 2011.
-[^64]: Speaks, Jeff. **“Theories of Meaning”**. Stanford Encyclopedia of Philosophy, Stanford University, 27 June 2019,<https://plato.stanford.edu/entries/meaning>
-[^65]: Example of a “person” as defined by the semantic web: <http://xmlns.com/foaf/spec/#term_Person>
-[^66]: McCrae, J. P. (n.d.). **The Linked Open Data Cloud**. <https://www.lod-cloud.net>
-[^67]: Wang, Y., & Kosinski, M. (in press). **“Deep neural networks are more accurate than humans at detecting sexual orientation from facial images”**. Journal of Personality and Social Psychology; Newspaper article on this research: Levin, Sam. **“New AI Can Work out Whether You’re Gay or Straight from a Photograph”.** The Guardian, Guardian News and Media, 7 Sept. 2017, <http://www.theguardian.com/technology/2017/sep/07/new-artificial-intelligence-can-tell-whether-youre-gay-or-straight-from-a-photograph>
-[^68]: “**Reciprocal Theory**” RationalWiki, <https://rationalwiki.org/wiki/Reciprocal_Theory>.
-[^69]: As a relevant aside, this reversing effect has a material analog called the *Janibekov effect,*(among other names). It is well established in the field of mechanics and is most easily observed in space where there is no gravity. On observing it for the first time one would think the impossible is happening, but in fact, it is a basic law of energy that we rarely get to see here on Earth because of gravity. Imagine an asymmetrical rigid body, like a wing-nut or a or handle, rotating around one of its axis, then suddenly, it flips 180&deg;, and continues to rotate around the same axis, but in a reverse position. After a few moments, it flips again, and continues flipping back and forth indefinitely. It does this because the lowest energy state, which is the state that all matter seeks, requires the maximum amount of inertia, and the maximum amount of inertia will always be where the most mass is. Given that the object is asymmetrical, the amount of mass for each axis will change, causing the object to change position. A quick search for “Janibekov effect” will yield many fascinating videos on this phenomena. This phenomena is worth mentioning because it is a perfect example of how energy operates in form, and, presumably, in the archetypes of form as well, which, at least tholonically, are asymmetrical tholons.
-[^75]: Adam Smith, "An Inquiry into the Nature and Causes of the Wealth of Nations", 1776, London
-
-[^320]: Interestingly, there is a relatively unknown young man, Matias De Stefano,  who was born in 1987 in a small town outside of Buenos Aries, Argentina, where he still lives, and who claims that not only was he born with full memory of his existence prior to being born, but that his "job" in his pre-incarnate reality was that of an "information specialist" or "librarian" of sorts, collecting, managing and disseminating information from all realities and dimensions.  He claims he has returned to earth to finish a mission he began thousands of years ago but failed to complete. Whether one believes his claims or not, it is hard not to be impressed with his detailed, clear, rational, and somewhat technical explanation regarding the structure and nature of reality.  He is mentioned here because, coincidentally, he explains: *"The 8th dimension is where you can see everything from one spot. The 8th dimension has the information of everything,  of every second over millions of years, from every perspective of the universe".*  For what it's worth, he also says each dimension has its own form of technology, and the 9th dimension is a black hole, *"The place and time where there is no place or time"*, and the last dimension that exists in the physical reality.  Theosophists and anthroposophists call this 8 dimensional reality the *Akashic Records*, which is described as a compendium of all universal events, thoughts, words, emotions, and intentions ever to have occurred in the past, present, or future. Here we have a Magic Crystal that is hypothesized as the source of all creation, past, and future and also happens to also be 8 dimensions.  This is mentioned not to lend or remove any validity to these various models of reality but to show how similar conceptual patterns are expressed via different philosophies and perspectives; scientific, mathematical, metaphysical, or mystical. I also mention him here because his explanation of reality is entirely compatible with the Tholonic model, albeit less technically detailed but more complex, so for those more meta-physically aligned, his perspective may be valuable.
-
-[^341]:Kidd, C., & Hayden, B. Y. (2015). **The Psychology and Neuroscience of Curiosity**. *Neuron*, *88*(3), 449–460. https://doi.org/10.1016/j.neuron.2015.09.010, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4635443/pdf/nihms722442.pdf
-[^356]: Genesis 3.14 “And God said to Moses, ‘Ehyeh-Asher-Ehyeh,” *(‘Ehyeh-Asher-Ehyeh’ Meaning of Heb. uncertain; variously translated: “I Am That I Am”; “I Am Who I Am”; “I Will Be What I Will Be”; etc.)* ‘Thus shall you say to the Israelites, ‘Ehyeh’ *(‘Ehyeh’ meaning “I Am” or “I Will Be.”)* “sent me to you.’”, <img src='../Images/quote.png' style='height:15px'/>
