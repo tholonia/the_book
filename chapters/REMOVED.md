@@ -1,4 +1,32 @@
-#060
+# 075
+
+## about 5
+
+With the reader’s indulgence&hellip; JWFIX: add to this… sounds short and weird
+
+JWFIX: teh following is wrong
+
+Pythagoras said 1 was the mother of all numbers, but if we are going to appley gender to math, the tholinic view expands on this a little and claims that 0 is the “mother” as nothingness is the infinite womb in which everything is born, starting with 1.  1 is the “father”, as it is the initial seed of all numbers, and while not infinite, it it is the unity all that is. 2 is the definer, the limiter, as is splits 1 in half, and is the number of growth. 3 is the final stable form of 0+1+2.  1, 2, and 3 is the trinity *nothignness*, *somethingness*, and *form* , which is not all that diffeent from other well-known trinities of religions and muthology, such as the Hindu’s  creator (Brahman), destroyer (Shiva), and preserver (Vishnu), of Holy Ghost, Father and Son of Christianity, in the tholonic version, the feminine and the masculine *must* come into existance simultaneously. We can even map this trinity to our understandng of energy as a trinity of subatomic particles that are negative (electrons), positive (protons), and neutral (neutrons). 
+
+If we lived in Ancient Greece, woud make 0 and 1 representative of the mother and father of all numbers, and 3 of all that follows.  This view also makes 5 is the first “pure” prime number.  The previous prime numbers serve as the primal archetypes or basis of all other numbers, making 5 the 1<sup>st</sup> prime number that is “just” a prime number.  5 is the 1<sup>st</sup> prime number that has emerged *from* the trinity, as opposed to being *in* the trinity. This makes 5 the first prime number that is exclusively in the domain of form.
+
+
+
+As prime numbers are themselves unique “seeds” that are not only core to nature [^398] and the functioning of reality, but to all number as well as every number is a product of prime numbers.  , 5 is the first prime number that is exclusively in the domain of form.  Fir this reason, we woudl expect to see 5 appear in 
+
+[^398]: Loconsole, M., Regolin, L. Are prime numbers special? Insights from the life sciences. *Biol Direct* **17**, 11 (2022). https://doi.org/10.1186/s13062-022-00326-w
+
+ which can produce ever number that exists  which all living creates seem to be able to recgonize or incorporate in some wat to core to realotyu given that nature appears to and even existance depends on them, pves seeds and does not serve as teh bas (the first “pure” seed, perhaps it is more accurate to say that the 10-base system is in use because it is the most efficient way to merge nature and form, egg and seed, chaos and order.  Contrary to the shockingly silly and, to be frank, ignorant belief that humans chose base-10 because we have 5 fingers on 2 hands, we have 5 fingers on 2 hands *because* nature, or more specifically, the natural pattern of growth, is based on a 2/5 pattern.  This is why most species of mammals (and many birds, fish, and insects) have two arms that lead to 5 digits, and this goes back *pentadactyl tetrapods* 400,000,000 years ago.  Leading experts in the field of human anatomy, developmental biology, and evolution are mystified by this 5-finger phenomena, and can only say:
+
+> “… we simply don't 100% know the 'why' or 'how' of the narrowing of hand morphology to five digit rays in the Devonian.  [Any hypothesis] would be highly speculative without a lot of data on the types of selective pressures organisms at the time were facing… [^348] 
+
+[^348]: **“Ask Evolution: Why Do We Have Five Fingers?”** Topics. Accessed July 9, 2022. https://www.sbs.com.au/topics/science/humans/article/2016/08/01/ask-evolution-why-do-we-have-five-fingers. 
+
+The tholonic view is it is these laws of creation that are the driving force of growth and change *within* the context (of selective or evolutionary pressure) they exist.  As humanity’s need for managing numbers grew, so did the need for a more efficient model, which only appeared about 1,000 years ago with the introduction of the base-10 system, thanks to the highly advanced mathematics of Hindu-Arabic cultures of that time.
+
+
+
+# 060
 
 JWFIX (below)
 
