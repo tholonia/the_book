@@ -27,7 +27,7 @@ The harmonic series is a fundamental pattern in nature and of music.  No doubt, 
 
 #### **Key 10:** Numbers represent energy and the number sequence represents the balancing of energy and the creation of all things.
 
-We don’t count in fractions, we count in whole numbers, but the difference between whole numbers and fractions is how we compare *unity* with the *parts of unity*; $\frac{whole}{part}\ vs\ \frac{part}{whole}$.  If we want to know how much of the *whole* does a *part* account for, the we divide the *whole* by the *part*, but if we want to know much of the *part* does the *whole* account for, then we divide the *part* by the *whole*.  As we humans, and all things, are *parts* of the *whole* of the Universe, we can only consider the *parts*, as we have no concept of *the* whole other than it is a *whole*, a *unity*, 1 *existence*, that all things have in common,  so $\frac{2}{1}\frac{3}{1}\frac{4}{1}$ becomes 2,3,4.
+We don’t count in fractions, we count in whole numbers, but the difference between whole numbers and fractions is how we compare *unity* with the *parts of unity*; $\frac{whole}{part}$ vs $\frac{part}{whole}$.  If we want to know how much of the *whole* does a *part* account for, the we divide the *whole* by the *part*, but if we want to know much of the *part* does the *whole* account for, then we divide the *part* by the *whole*.  As we humans, and all things, are *parts* of the *whole* of the Universe, we can only consider the *parts*, as we have no concept of *the* whole other than it is a *whole*, a *unity*, 1 *existence*, that all things have in common,  so $\frac{2}{1}\frac{3}{1}\frac{4}{1}$ becomes 2,3,4.
 
 #### **Key 11:** From a Universal perspective, numbers only get smaller.  From an individual perspective, numbers only get larger.
 
@@ -64,7 +64,7 @@ For example, if we being 1 mile tall we can see perfectly ordered patches and ci
 
 Another example might be how we destroy the order of a tree to create the order of lumber.  All that was exclusively the part of the order of the tree comes to an end, and the order that is created exclusively by the lumber, such as a chair, comes into being.  These are 2 scopes of order that do not overlap, but they are both children an order that remains in both tree and lumber, such as the structure of wood (cellulose, homocelluloses, and lignin).  This tells us that the order of lumber and trees are subsets or, or dependent upon, or within, the structure of wood.  When that wood is burnt, its order and the order of anything that is within its order, such as a desk or tree, disappears via pyrolysis, or thermal degradation, and the hydrocarbons are broken down to carbon dioxide, water vapor, and carbon (ash), each of which abiding by the order within the scope it now exists.
 
-You can easily imagine the never ending series of $chaos\rightarrow order\rightarrow chaos\rightarrow order\rightarrow chaos\rightarrow order$  
+You can easily imagine the never ending series of *chaos $\rightarrow$ order $\rightarrow$ chaos $\rightarrow$ order $\rightarrow$ chaos $\rightarrow$ order* &hellip…  
 
 For this reason we also claim:
 

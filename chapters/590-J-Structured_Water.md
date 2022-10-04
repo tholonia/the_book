@@ -49,6 +49,24 @@ Pursanova is a company that makes complete water processing system for residenti
 
 *Disclaimer: I have no relationship with any of these companies and am not promoting any of their products.  I refer to them simply because my research seems to indicate they are legitimate products in an industry filled with wild and dubious claims.*
 
+## My Experiments
+
+I performed some of my own experiments as well.  The idea was that if the claim is that the properties of water are enhanced with structure, then we can test for whatever those qualities are.  One of the most basic properties of water is that it is a solvent, as it dissolves things.  My tests were to determine if SW dissolved things differently from common water (CW).
+
+The images below are 1-page are a brief review of my results.
+
+<img src='../Images/awtest1.png' style='width:100%'>
+
+*Explanations:*  The images with a yellow border highlight the SW elements, and the blue border are the CW elements.  The pH test is not very exact, but enough to detect any significant change.  The bottom-most images are from a test that was carried out a number of times, all with the same result.  Results with Type-2 collagen tablets were varied (not shown), but the tablets dissolved so quickly they made for very bad test samples.  These samples were chosen solely based on whatever I had in my house that was organic.  These tests, while controlled for temperature and contamination, are not legitimate science-level tests, but sufficient to at least get an answer worthy of more investigation, which was:
+
+Structured water is a more powerful solvent that common water.
+
+Hypothesis:   The pH shows no change, the temperature is the same, and the water is from the same source, so what could account for this different results? SW water appears to have more microstates, more ways for energy to be distributed, which creates higher entropy states than CW, as evidenced by the more chaotic states of the test pills.  How can water have more microstates? One way is via more chemical bonds, but we know this is not happening for if that was the case, the pH, and probably the substance, of the water would change. Another way might be that the water forms larger patterns when it is moving, and these larger patterns would naturally be conducive to the transfer of energy, as that is the purpose of patterns created by energy.  Exactly what these patterns are, I can’t say, but I suspect they would either be something like “chains” of water molecules, or perhaps even some macro order imposed by the whirlpool, which may be something tetrahedral based, like a cone shape.  There is no question that the whirlpool is a state of order that does not exist in stationary water; the question is, how does that order assist in the distribution and balancing of energy, and for how long.
+
+My test results are consistent with the blood panel tests results of animals previously mentioned, because as a solvent of proteins and organic substances, it would likely have an effect on lipids (cholesterol and triglycerides), which do not interact appreciably with CW.  SW may even be able to penetrate cell walls better, as suggested by the larger strawberries that resulted from using 25% less SW than typical CW.  As a solvent, it may also have an effect on arterial plaque, which is made up of lipids, fats, blood cells (dead protein), scar tissue (proteins), and other substances in the blood.
+
+It’s probably legally necessary to state that I am not a doctor and this is not medical advice, but it is still legal for me to advise the reader to do their own research.
+
 <hr>
 
 [^191]: The use of magnetic water in agriculture to increase harvest and save up to 25% water. Live testimonials by biggest Australian farmers. <https://www.youtube.com/watch?v=YVL6tfGhr8M>

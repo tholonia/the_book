@@ -1,3 +1,21 @@
+For in Him all things were created: things in heaven and on earth, visible, and invisible… all things have been created through him and for him.
+
+All things exist within the thologram, from concepts to forms.  All things come in to existence through the movement of energy for the sole purpose attaining balance.
+
+----
+
+god, glory and majesty to him, does not do thongs by direct contact.  god burns things by means of fire; fire is moved by the motion of the sphere; the sphere is moved by means of a disembodied intellect, thgesxe intellects being ‘aggels ’
+
+https://merrimackvalleyhavurah.wordpress.com/philosophy-theology/maimonides/maimonides-view-of-miracles/
+
+
+
+
+
+---
+
+https://merrimackvalleyhavurah.wordpress.com/philosophy-theology/maimonides/maimonides-view-of-miracles/
+
 # 075
 
 ## about 5
@@ -16,13 +34,19 @@ As prime numbers are themselves unique “seeds” that are not only core to nat
 
 [^398]: Loconsole, M., Regolin, L. Are prime numbers special? Insights from the life sciences. *Biol Direct* **17**, 11 (2022). https://doi.org/10.1186/s13062-022-00326-w
 
- which can produce ever number that exists  which all living creates seem to be able to recgonize or incorporate in some wat to core to realotyu given that nature appears to and even existance depends on them, pves seeds and does not serve as teh bas (the first “pure” seed, perhaps it is more accurate to say that the 10-base system is in use because it is the most efficient way to merge nature and form, egg and seed, chaos and order.  Contrary to the shockingly silly and, to be frank, ignorant belief that humans chose base-10 because we have 5 fingers on 2 hands, we have 5 fingers on 2 hands *because* nature, or more specifically, the natural pattern of growth, is based on a 2/5 pattern.  This is why most species of mammals (and many birds, fish, and insects) have two arms that lead to 5 digits, and this goes back *pentadactyl tetrapods* 400,000,000 years ago.  Leading experts in the field of human anatomy, developmental biology, and evolution are mystified by this 5-finger phenomena, and can only say:
+ which can produce every number that exists  which all living creates seem to be able to recgonize or incorporate in some wat to core to realotyu given that nature appears to and even existance depends on them, pves seeds and does not serve as teh bas (the first “pure” seed, perhaps it is more accurate to say that the 10-base system is in use because it is the most efficient way to merge nature and form, egg and seed, chaos and order.  
+
+<NEW> SECTION>
+
+The relationship between 2 and 5 is very close, so close, that 5 may be the closest value to 2 in how is function.  The reason for this is obvious once we see it.  Whenever we divide anything by 2, it is the same as multiplying by 5 and diving by 10, because 5/10 = $\frac{1}{2}$.  This is why we have a base-10 system today
+
+This 2/5 relationship defines a fundamental pattern in math and in nature which we can see in many instances, including our own 5 fingers in 2 hands; a trait which is common among most species of mammals, and exists in many birds, fish, and insects, going back *pentadactyl tetrapods* Devonian Age 400,000,000 years ago.  Leading experts in the field of human anatomy, developmental biology, and evolution are mystified by this 5-finger phenomena, and can only say:
 
 > “… we simply don't 100% know the 'why' or 'how' of the narrowing of hand morphology to five digit rays in the Devonian.  [Any hypothesis] would be highly speculative without a lot of data on the types of selective pressures organisms at the time were facing… [^348] 
 
 [^348]: **“Ask Evolution: Why Do We Have Five Fingers?”** Topics. Accessed July 9, 2022. https://www.sbs.com.au/topics/science/humans/article/2016/08/01/ask-evolution-why-do-we-have-five-fingers. 
 
-The tholonic view is it is these laws of creation that are the driving force of growth and change *within* the context (of selective or evolutionary pressure) they exist.  As humanity’s need for managing numbers grew, so did the need for a more efficient model, which only appeared about 1,000 years ago with the introduction of the base-10 system, thanks to the highly advanced mathematics of Hindu-Arabic cultures of that time.
+The tholonic view is it is these laws of creation and the patterns they create are the driving force of growth and change *within* the context (of selective or evolutionary pressure) they exist.  
 
 
 

@@ -12,7 +12,7 @@
 
 We start with 0, nothingness, which, as explained earlier, also creates the concept of somethingness, which we will call *unity*, or 1.  When there exists only 0 and 1, the only possible instance of a value is 1.  There are no other options.  It is similar to entropy in that energy only moves in one direction, that which is the least resistant, most efficient, and results in a more balanced state.  0, of course, has no entropy at all.  For energy to move beyond 1 there needs to be a new instance of a value, and as the only value that exists is 1, the only value that can be instantiated is 1+1.  Now that we have 2 we can create 2 more numbers, 2+1 and 2+2, and they will be created in that order because 1, being *lower in entropy* than 2, will naturally offer less “resistance” than 2.  As entropy always increases, so 1 must expand to 2.  With 1 and  2, we now have 3 as well. We have created the numbers 0,1,2,3 in that order, and have also created the first tetrahedral structure, the first numerical tholon, which can produce all integers from 0 to 11. 
 
-One way to think about numbers in general is to imagine *value* as a conceptual form of energy, and a particular value, like 1 or 2, is an instance of that concept. This should not be too difficult as this is pretty much a description that even Platonists (*“numbers are non-physical, non-sensible things that exist in an objective realm beyond time and space”*) and Nominalists (*“numbers don’t exist outside of abstract man-made concepts”*) would agree on.  As concepts themselves are energetic, they also have stable and unstable patterns.  The concept of *integers* is one such stable pattern that discovered from the stable patterns in nature.  From the tholonic perspective, it does not matter if the Platonist’s or Nominalist’s theories are correct; all that matters is that the concept of *integer* exists, but in the case of integers, even though the Platonist’s ideas may not be accurate, the Nominalist’s ideas are certainly inaccurate.
+whiel 0 and that are considered  is teh number of definitons, One way to think about numbers in general is to imagine *value* as a conceptual form of energy, and a particular value, like 1 or 2, is an instance of that concept. This should not be too difficult as this is pretty much a description that even Platonists (*“numbers are non-physical, non-sensible things that exist in an objective realm beyond time and space”*) and Nominalists (*“numbers don’t exist outside of abstract man-made concepts”*) would agree on.  As concepts themselves are energetic, they also have stable and unstable patterns.  The concept of *integers* is one such stable pattern that discovered from the stable patterns in nature.  From the tholonic perspective, it does not matter if the Platonist’s or Nominalist’s theories are correct; all that matters is that the concept of *integer* exists, but in the case of integers, even though the Platonist’s ideas may not be accurate, the Nominalist’s ideas are certainly inaccurate.
 
 <img src="../Images/harmonic-shell.png" style='float:right;width:20%'/>One way to consider the progression of values from 0 to &infin; is to consider integers as the most stable pattern for a conceptual form of energy that is represented as a value,  This is similar to how planets orbit only at certain stable distances from the sun or how electrons can only exist at stable distances, or within *shells*, of the nucleus. If we think about numbers as energy, and we accept the basic law that says energy can not be created or destroyed, then we can imagine the number 1 as 1 *unit* of energy where *unit* is defined as the *unity* of all energy.  The number 2 is then 2 units of energy, where both units equal 1, which is the same as each unit having $\frac{1}{2}$ energy.  If we continue this, we have what is called the *harmonic series* of $\frac{1}{2}\frac{1}{3}\frac{1}{4}\frac{1}{5}\frac{1}{6}\frac{1}{7}\frac{1}{8}...$ The harmonic series is a fundamental pattern is nature, and of music, which adds some context to the Pythagorean concept that “Physical matter is music solidified”, or the Sanskrit *Nada Brahma*, “Existence is sound” (literally “god sound”) or the legends of Native Americans, Judeo-Christians, Hindu cosmology, Egyptian, Aboriginals, Mayans, Norse, and many other cultures that have a story of sound shattering the void of nothingness.  The harmonic series $\frac{1}{1}\frac{1}{2}\frac{1}{3}\frac{1}{4}$ rather than 1,2,3,4, (or what could also accurately be written as $\frac{1}{1}\frac{2}{1}\frac{3}{1}\frac{4}{1}$), represent an *internal expansion* of energy which describes natural patterns of energy that are perfectly represented with the concept of integers.  
 
@@ -40,9 +40,33 @@ and from that we end up with 0,1,1,1
 
 we don't start getting into actual numbers, as we commonly understand them, until the number 2, which is the first prime number.  So the first trigram sets the stage for all numbers, but just as a 3 pointed trigram needs a 4<sup>th</sup> point to actually exist in the real world, so too do these 3 numbers need a 4<sup>th</sup> number, which, as was shown with the 4<sup>th</sup> point of a tetrahedron, it must be a number that is compatible with the other 3 numbers, so it must be the product or sum (depending on context) of those 3 numbers.  That number is 3, the only prime number that exists in the center column, and as the center column is &times;3, its functional value must be 1. 
 
+## Qualities of numbers
 
+0, nothingness, infinity
 
-## The Thologram and Prime Numbers
+1, somethingness, unity, subjective, concept, 0D
+
+2, division, polarity, objective, line, 1D
+
+3, stability, laws, archetype, area, 2D
+
+4, form, instantiation, holon, space, 3D
+
+5, deployment, time, 4D
+
+6, completion, perfection, death, 5D?
+
+7, spectrum between poles, 6D?
+
+8, creations, holon and parton, 7D?
+
+9, perfection, 8D?
+
+10, metamorphosis, change in scope, new nothingness within unity
+
+11, unity within unity, compcept withn a concept, simethingness within somethinmgsness, 0D within 0D
+
+## Thologram and Prime Numbers
 
 <img src="../Images/primechart.png" style='float:right;width:50%'/>Another fascinating pattern of the thologram is how, when using this sequential numbering system (*Sequential Numbering*, right image), we end up with 3 columns of values; center, right, and left.  For example, the left column has the numbers 1, 5, 7, 11, &hellip;,  the center column has the numbers 0, 3, 6, 9, &hellip;, and the right column has the numbers 2, 4, 6, 10, &hellip;  
 

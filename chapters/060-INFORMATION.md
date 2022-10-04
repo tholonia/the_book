@@ -3,7 +3,7 @@
 
 ###### Information follows the same rules as everything else in nature.
 
-##### **Synopsis:** Just as there an unfolding of reality via $chaos\rightarrow pattern\rightarrow order\rightarrow integration$, there is an unfolding of $data\rightarrow information\rightarrow knowledge\rightarrow understanding$ or $sound\rightarrow notes\rightarrow scales\rightarrow music$. Order, being self-similar, naturally forms hierarchies, and the most stable of these hierarchies will be found at the optimal balance of the duality it exists within.  This not only applies to the emergence of awareness, but to the biological structure through which awareness is expressed as individual consciousness which inherits these same properties and processes.
+##### **Synopsis:** Just as there an unfolding of reality via *chaos $\rightarrow$ pattern $\rightarrow$ order $\rightarrow$ integration*, there is an unfolding of *data $\rightarrow$ information $\rightarrow$ knowledge $\rightarrow$ understanding* or *sound $\rightarrow$ notes $\rightarrow$ scales $\rightarrow$ music*. Order, being self-similar, naturally forms hierarchies, and the most stable of these hierarchies will be found at the optimal balance of the duality it exists within.  This not only applies to the emergence of awareness, but to the biological structure through which awareness is expressed as individual consciousness which inherits these same properties and processes.
 
 ##### **Keywords:** data, information, knowledge, understanding, noise, holarchies, memes
 <center><img src='../Images/skinningchant.png' style='width:100%'/></center>

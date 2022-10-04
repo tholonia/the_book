@@ -4,7 +4,7 @@
 the CSS files to edit are
 
 ../Styles/common_book_dev.css.less
-../Styles/common_book_prod.css.less
+../Styles/common_book_prod.css.less xxx
 '''
 
 import publish_lib as pl
@@ -12,6 +12,8 @@ import os
 import sys
 import getopt
 import datetime
+from colorama import init, Fore, Back
+init()
 
 now = datetime.datetime.now()
 timestamp = now.strftime('%Y-%m-%dT%H:%M:%S') + ('-%02d' % (now.microsecond / 10000))
@@ -25,7 +27,12 @@ rb = "}"
 bs = "\\"
 
 
+def report(s):
+    print(Fore.RED+f"██████████████████████████████████████████████████████████████████ [{s}]"+Fore.YELLOW)
+def status(s):
+    print(Fore.GREEN+f"██████████████████████████████████████████████████████████████████ [{s}]"+Fore.YELLOW)
 def get_version():
+    report("get_version()")
     with open(f"{H}/inc/version.txt") as f:
         rs = f.readline().strip()
     f.close()
@@ -33,6 +40,7 @@ def get_version():
 
 
 def update_ver():
+    report("update_ver()")
     vernum_before = get_version()
     os.system(f"{H}/bin/UPDATE_VERDATE.sh")
     vernum_after = get_version()
@@ -55,6 +63,7 @@ def update_ver():
 # ----------------------------------------------------------------------------------
 
 def mkcss():
+    report("mkcss()")
     os.system(f"rm {H}/Styles/common_book_*.css")
     os.system(f"rm {H}/Styles/epub_*.css")
 
@@ -113,6 +122,7 @@ def mkcss():
 
 
 def rebuildmd(testname=""):
+    report("rebuildmd(testname='')")
     mdall = ""
     idx = 0
     chapters = pl.chapters
@@ -138,6 +148,7 @@ def rebuildmd(testname=""):
 
 
 def html2pdf(chapter):
+    report(f"chapter({chapter})")
     vernum = get_version()
     cx = "prince-books"
     cx += f" --pdf-title='THOLONIA v.{vernum}'"
@@ -153,11 +164,12 @@ def html2pdf(chapter):
     cx += f" -i html5"
     cx += f" -o {H}/chapters/{chapter}.pdf"
     cx += f" {H}/chapters/__temp.html"
-    print(f"EXECUTING html->pdf:  {cx}")
+    status(f"EXECUTING html->pdf:  {cx}")
     os.system(cx)
 
 
 def md2html(chapter):
+    report(f"md2html({chapter})")
     vernum = get_version()
     cx = "pandoc"
     cx += f" --pdf-engine=xelatex"
@@ -167,6 +179,7 @@ def md2html(chapter):
     cx += f" --to=html5"
     cx += f" --metadata-file={H}/inc/metadata.yaml"
     cx += f" --standalone"
+    cx += f" --mathjax"
     cx += f" --verbose"
     cx += f" --top-level-division=chapter"
     # cx += f" --lua-filter={H}/inc/pagebreak.lua" #using HTML instead
@@ -176,11 +189,12 @@ def md2html(chapter):
     cx += f" -o {H}/chapters/__temp.html"
     cx += f" {H}/chapters/{chapter}.md"
 
-    print(f"EXECUTING html->html:  {cx}")
+    status(f"EXECUTING html->html:  {cx}")
     os.system(cx)
 
 
 def md2epub(chapter):
+    report(f"md2epub({chapter})")
     vernum = get_version()
     cx = "pandoc"
     cx += f" --include-in-header=file:///home/jw/books/tholonia/Styles/epub{STATE}_header.css"
@@ -190,19 +204,23 @@ def md2epub(chapter):
     cx += f" --to=epub3"
     cx += f" --epub-cover={H}/Images/publish/epub/i6.69x9.61_Front-Only.jpg"
     cx += f" --standalone"
-    cx += f" --self-contained"
+    cx += f" --mathjax"
+    # cx += f" --self-contained"
+    cx += f" --embed-resources --standalone"
     cx += f" --verbose"
+    cx += f" --metadata title='THOLONIA:The Book'"
     cx += f" --top-level-division=chapter"
     cx += f" --toc"
     cx += f" --toc-depth=2"
     cx += f" -o {H}/chapters/{chapter}.epub"
     cx += f" {H}/chapters/{chapter}.md"
 
-    print(f"EXECUTING md->epub:  {cx}")
+    status(f"EXECUTING md->epub:  {cx}")
     os.system(cx)
 
 
 def convert_all():
+    report("convert_all()")
     # manualy export each chapter to HTML in Typora
 
     idx = 0
@@ -224,57 +242,66 @@ def convert_all():
 
 
 def pub_prep():
-    print("PUBLISHING PREP\n-----------------------------------------\n")
+    report("pub_prep()")
+
+    # print("PUBLISHING PREP\n-----------------------------------------\n")
     cx = f'''\
-    rm -rf {HOME}/tmp >{H}/log 2>&1 #empty tmp fir used to make zip
+    rm -rf {HOME}/tmp >{H}/log 2>&1 #empty tmp dir used to make zip
     rm  {H}/{L}/*   #remove all in Latest
 '''
     #    find {H}/{L} -type l -exec rm {lb}{rb} {bs};  #remove all linked versions
 
     print(cx)
     res = os.system(cx)
-    print(res)
+    print(f"return={res}")
+
 
 
 def pub_pdf():
+    report("pub_pdf()")
     vernum = get_version()
     #    {H}/bin/DELIMG.sh {H}/chapters/THOLONIA_THE_BOOK.pdf
-    print("PUBLISHING PDF\n-----------------------------------------\n")
+    # print("PUBLISHING PDF\n-----------------------------------------\n")
     cx = f'''\
     cp {H}/chapters/THOLONIA_THE_BOOK.pdf {H}/Latest
     cp {H}/{L}/THOLONIA_THE_BOOK.pdf {H}/{L}/THOLONIA_THE_BOOK_v{vernum}.pdf
     '''
     print(cx)
     res = os.system(cx)
-    print(res)
+    print(f"return={res}")
+
 
 
 def pub_epub():
+    report("pub_epub()")
     vernum = get_version()
-    print("PUBLISHING EPUB\n-----------------------------------------\n")
+    # print("PUBLISHING EPUB\n-----------------------------------------\n")
     cx = f'''\
     cp {H}/chapters/THOLONIA_THE_BOOK.epub {H}/Latest
     cp {H}/{L}/THOLONIA_THE_BOOK.epub {H}/{L}/THOLONIA_THE_BOOK_v{vernum}.epub
     '''
     print(cx)
     res = os.system(cx)
-    print(res)
+    print(f"return={res}")
 
 
 def pub_md():
+    report("pub_md()")
     vernum = get_version()
-    print("PUBLISHING MD\n-----------------------------------------\n")
+    # print("PUBLISHING MD\n-----------------------------------------\n")
     cx = f'''\
     cp {H}/chapters/THOLONIA_THE_BOOK.md {H}/Latest
     cp {H}/{L}/THOLONIA_THE_BOOK.md {H}/{L}/THOLONIA_THE_BOOK_v{vernum}.md
     '''
     print(cx)
     res = os.system(cx)
-    print(res)
+    print(f"return={res}")
+
 
 
 def pub_html():
-    print("PUBLISHING HTML\n-----------------------------------------\n")
+    report("pub_html()")
+    # print("PUBLISHING HTML\n-----------------------------------------\n")
     vernum = get_version()
     cx = f'''\
     cp {H}/chapters/__temp.html {H}/Latest/THOLONIA_THE_BOOK.html
@@ -283,11 +310,13 @@ def pub_html():
     '''
     print(cx)
     res = os.system(cx)
-    print(res)
+    print(f"return={res}")
+
 
 
 def pub_zip():
-    print("MAKE/PUBLISHING ZIP\n-----------------------------------------\n")
+    report("pub_zip()")
+    # print("MAKE/PUBLISHING ZIP\n-----------------------------------------\n")
     vernum = get_version()
     cx = f'''\
 
@@ -305,10 +334,13 @@ def pub_zip():
     '''
     print(cx)
     res = os.system(cx)
-    print(res)
+    print(f"return={res}")
+
 
 
 def mkdocs(testname=""):
+    report("mkdocs(testname='')")
+
     rebuildmd(testname)  # make new complete MD file
     md2html("THOLONIA_THE_BOOK")
     html2pdf("THOLONIA_THE_BOOK")
@@ -316,6 +348,7 @@ def mkdocs(testname=""):
 
 
 def mkpub():
+    report("mkpub()")
     mkdocs()
     pub_prep()
     pub_epub()
@@ -326,6 +359,7 @@ def mkpub():
 
 
 def cleanold():
+    report("cleanold()")
     os.system(f"rm {H}/chapters/THOLONIA_THE_BOOK.html")
     os.system(f"rm {H}/chapters/THOLONIA_THE_BOOK.md")
     os.system(f"mv {H}/chapters/*.pdf {H}/chapters/.pdf")

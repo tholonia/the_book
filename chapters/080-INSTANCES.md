@@ -2,7 +2,9 @@
 # 8: INSTANCES
 
 ###### Examples of how tholonic archetypes instantiate
+##### **Synopsis:** ~~This chapter contains detailed explanations of how the thologram came into existence from nothingness, and the structures of, and within, the thologram with real-world instances.  We explain and explore the thologram using geometry, math, colors, fractals, and numbers and apply some ancient and moderns concepts to validate the redundancy of the thologram.~~
 
+##### **Keywords:** ~~generations, iterations, N-states, entropy, matrices, dimensionality, tholons, virtuality, binary,~~ 
 ## Archetypes
 
 An instance of an archetype can only exist within the limitations of its context.  That context can vary wildly, and there can be a lot of discussions as to what defines a context.  For our purposes, a high-level definition is that a context is defined by the *innate* limits it imposes, and we define *innate* as that which is inherent in the archetype before it is instantiated.  For example, the concept of a car has the innate property of being a ground transportation vehicle because that is how what it was designed.  Its very structure is specifically intended to be a functional, efficient, ground transportation vehicle before any parts were assembled.  The same is true for animals and plants.  Certain social constructs may be applied to the instances of these archetypes, such as the Western idea that black cats are bad luck, or the Eastern idea that pigs are good luck, or a car being used as a home, but these constructs are outside of the concept, or archetype, of something.  This is the case for gender as well, as men and woman are innately different and are formed from conception to perform differently according to their respective archetypes.  There *are* social constructs that apply to gender, but one can not change gender by adopting these constructs anymore than a Honda Civic can become a Porsche 911, no matter how much body work is done to it.  The relationship between context and concept is recursive and embedded; context applies limits to concepts, and concepts alter the context, such as how the context of gravity is a limitation to flying, but the concept of air travel changed that context, which then changed the concept of air travel, etc.  In the world of biology, context is (usually) a force of evolutionary pressure.  In the mechanical world, context is the limits of a material.
@@ -22,6 +24,8 @@ When we speak of archetypes in the context of tholons we are using a more genera
 > A pattern that expressions of energy diverge from and/or converge towards.
 
 <img src='../Images/arrow_of_time.png' style='float:right;width:45%'/>These patterns are not necessarily limited to 3 (or less) dimension.  They can be, and often are, multidimensional patterns of which we can only perceive 3 dimensions of as they pass through our reality.  The classic example of this is the well-knows “Flatland” metaphor[^349] Imagine what you would see if you were a 2-dimensional person living in a 2D world and a 3D object passed through your 2D reality.  You would see a series of 2D slices of that object that changed over time.
+
+[^349]: Abbott, Edwin A. (1884). *Flatland: A Romance in Many Dimensions*. New York: Dover Thrift Edition (1992 unabridged). p. ii., https://en.wikipedia.org/wiki/Flatland
 
 Now imagine you are a 3D person living in a 3D world (which should be pretty easy to do) and a 4D object passes through.  You will see 3D “slices” of this 4D object over time as it passes through your 3D world.  For example, if a 4D ball passed through a 3D world it would first appear as a very tiny 3D ball, and then grow to a large ball, then shrink to a small ball before disappearing.
 
@@ -83,9 +87,14 @@ Does this mean that our 3D reality is embedded within a parent 3D reality? Accor
 
 > Since physical Universe is entirely energetic, all dimension must be energetic.  Synergetics is energetic geometry since it identifies energy with number.  Energetic geometry employs 60&deg; coordination because that is nature’s way to closest-pack spheres.
 
+[^70]: Fuller, R. Buckminster, and E. J. Applewhite. ***Synergetics. Explorations in the Geometry of Thinking***. Macmillan, 1975.The entire book can be found online at <http://synergetics.info>
+
 He explains how the points and the lines of a tetrahedron (60&deg; coordinates) describe all elementary phenomena.  Moreover, he claims that synergetics can measure our experiences geometrically, and how we can employ geometry regarding both metaphysical and physical knowledge.
 
 The math of synergetics, according to Fuller, “*works omnirationally, energetically, arithmetically, geometrically, chemically, volumetrically, crystallographically, vectorially, topologically, and energy-quantum-wise*”[^71]. In addition, it is quite compatible with the empirical world where all atoms are made of tetrahedrons, octahedrons, rhombic dodecahedrons, and cubes.  One clever engineer from the Dublin School of Technology hypothesizes that thermodynamics and space-time could be unified with quadray coordinates[^308].  It is worth noting that each of the geometrical shapes that Fuller claims all atoms are made by can be made with the tetrahedron.
+
+[^71]: References to the above come from <http://synergetics.info/s02/p0000.html>
+[^308]: McGovern, Jim; "What Have Spacetime, Shape and Symmetry to Do with Thermodynamics? ", ECOS 2007, Proceedings of the 20th International Conference on Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems, Ed. Alberto Mirandola, Ozer Arnas, Andrea Lazzaretto, pp. 349-356, June 25-28, 2007, Padova, Italy, arXiv:0710.1242, Available at: https://arxiv.org/pdf/0710.1242.pdf
 
 <img src='../Images/083-3cubeprob.png' style='float:right;width:30%'/>The thologram, which is based entirely on the tetrahedron and synergetic quadray coordinates, is a model of knowledge, thought, and ideas.  It’s important to remember that the map is not the territory.  These models of reality are like maps that describe the terrain.  There are elevation maps, density maps, road maps, water maps, contour maps, temperature maps, population maps, economy maps, crime maps, San Francisco even has human feces maps! They all describe the same territory from different perspectives.  The thologram is one of these perspectives, but even this one perspective can be seen in a number of ways.  How many ways are there? I don’t know, but the extremely simple *three square geometry problem* (“what is the total of the angles *α*,*β*,*γ* ?”) has 54 possible solutions, and that is just with three simple squares (the answer is 90&deg;)!  As you can imagine, there is virtually no end to the relationships, patterns, rules, etc., that can be discovered.  
 
@@ -164,7 +173,7 @@ This is what we would expect to see if we were looking at one perspective of a h
 
 <center><img src='../Images/quarks.png' style='width:100%'/></center>
 
-
+[^73]: Siegel, Ethan. “**Ask Ethan: Can Free Quarks Exist Outside Of A Bound-State Particle?**” Forbes. Forbes Magazine, August 3, 2019. <https://www.forbes.com/sites/startswithabang/2019/08/03/ask-ethan-can-free-quarks-exist-outside-of-a-bound-state-particle>
 
 Does this mean that everything that exists is somehow based on a self-similar trigram, conceptually at least?  This would suggest that is the case.  
 
@@ -217,6 +226,8 @@ The Fibonacci formula is especially tholonic.  For details, see “*Fibonacci Th
 
 An example of how any system can be reduced to a tholon is presented in an insightful article on the effectiveness of batteries, titled “The Unfortunate Tetrahedron”[^74] .  This may seem fairly niche, but it turns out to be very relevant, which is not surprising considering that batteries are all about the movement and balancing of energy.  From this perspective, a simple battery is a microcosm of the Universe, from beginning to end.  In this article, the author shows how the systems of a simple battery can be modeled as a tetrahedron, and how these fundamental aspects of a system relate to one another.  The author looks at the four aspects of batteries; *energy density*, *power density*, *operating cost* and *capital cost*, where:
 
+[^74]: Steingart, Dan. “**The Unfortunate Tetrahedron**.” Medium. the unfortunate tetrahedron, May 30, 2017. https://medium.com/the-unfortunate-tetrahedron/the-unfortunate-tetrahedron-ce1e44d0b961.
+
 - **Energy density** (E) is how much energy a battery can store in its mass (like a dam).  This is the *N-source* as the energy destiny is the maximum potential of a battery’s usability, and energy is the whole point of a battery. This can also equate to *volts* as volts, N-sources, and energy density  all represent the *potential* of energy.
 
 - **Capital cost** (C) is the cost of the battery.  This is a *defining* point because it is a point of *resistance*.  The cost will define if it gets bought.
@@ -241,7 +252,7 @@ The highly respected and published team of Donald David Hoffman (cognitive psych
 
 <center><img src='../Images/cagents-tholon.png' style='width:90%'/></center>
 
-
+[^77]: Hoffman DD, Prakash C. **Objects of consciousness.** Front Psychol. 2014;5 577. doi:10.3389/fpsyg.2014.00577. PMID: 24987382; PMCID: PMC4060643.
 
 ### Circuits and the “God Formula”
 
@@ -251,6 +262,8 @@ There are many examples of how concepts and processes follow the tholonic model:
 - **Calculus**, with is two concepts of differentiation and integration that join to create a new value.
 - **The stock exchange**, with is opposing forces that negotiate to arrive at a price.
 - **Faith and belief** in how it integrates the existential trinity of *all*, *all that is possible*, and *all that is*, or trinity of knowledge; the *known known*, *known unknown* and the *unknown unknown*.  
+
+[^76]: Institute, Santa Fe. "**Economic Complexity: A Different Way to Look at the Economy.**" Medium. November 03, 2014. Accessed August 02, 2020. https://medium.com/sfi-30-foundations-frontiers/economic-complexity-a-different-way-to-look-at-the-economy-eae5fa2341cd.
 
 Really,  just about any ordered system can be seen in a tholonic perspective.  We won’t go though them all, obviously, but the following example is especially interesting and informative.
 
@@ -315,7 +328,7 @@ This beautiful formula is fundamental to the continuous exchange of energy that 
 
 If <IMG src="../Images/math/345.svg" style="vertical-align:middle;height:12pt"/>= -1 then <IMG src="../Images/math/372.svg" style="height:12pt"/>, and we apply the concepts of of ***e*** and ***ln( )***, as described above, then **&pi;*i*** equates to time, and the spectrum of ***e*** represents the growth.  Does this also suggest that the originating energy of everything, including the universe, started with a negative movement? There is more evidence to suggest that is the case, and later it is shown why and what that really means.
 
-<img src='../Images/1tt.png' style='float:right;width:30%'/>There is yet another supporting argument for ***e*** which we can see when we map the original formula for ***e*** that was discovered by Bernoulli in the 17<sup>th</sup> century (right) to the tholonic trigram, which shows a remarkably compatible pattern.  
+<img src='../Images/1tt.png' style='float:right;width:40%'/>There is yet another supporting argument for ***e*** which we can see when we map the original formula for ***e*** that was discovered by Bernoulli in the 17<sup>th</sup> century (right) to the tholonic trigram, which shows a remarkably compatible pattern.  
 
 If we go in the forward direction using the three values of ***1***, ***1/x*** and ***x***, we arrive at ***e***, the value of *growth*.  If we got in the reverse direction, we arrive at ***1***, the value of unity (and no growth).  What is so interesting about this is that the N-state is ***1***, as in not 0, not *nothing*, , representative of *something*.  The *Definition* point, the point of resistance and limitation, or low entropy chaos, is ***1/x***, or *something that is limited*. The final *Contribution* point, the point of the *integration*, the final state of balance, high entropy chaos, is ***x***.   We could easily translate the math to say “unity plus the chaos of its infinite divisions creates new systems on its way to its final state of total balance”.  
 
@@ -360,6 +373,8 @@ As mentioned above, we would expect to see the same laws expressed in different 
 For example, if we claim that a **society** is based on its **ethics** and we also posit that **ethics** are to be measured by **laws**, we can say ***society=ethics&div;laws***, and likewise, ***ethics=laws&times; society***.  If we measure the **power** of a **society** by its ability to function or “**work**”, and the measure of a **society** by its **sustainability**, then, according to these formulas, a **society** with a lot of **laws** and very little **ethics** will **work** less and be less **sustainable**.  On the other hand, a **society** that has a lot of **ethics** and very few **laws** will be far more **sustainable** and produce even more **work**.
 
 Here, we interpret “laws” as *limiting factors* with regard to its members.  Those limits could even be limits on limits, e.g., The 1<sup>st</sup> amendment of the U.S. Constitution guaranteeing the right to free speech is a law, but it is a limitation on a limitation, in that it limits the State from limiting an individual's right.  For context, an example of a society with a lot of limiting laws and very little ethics would be North Korea or Syria.  An example of a society with fewer limiting laws and higher ethics would be Norway or Sweden.  *Note: These rankings are according to institutions that rank countries* [^309].
+
+[^309]: **Freedom in the World** (2018), published by Freedom House, **Democracy Index** (2017), published by The Economist Intelligence Unit, **V-Dem Annual Democracy Report** (2018), published by the V-Dem Institute
 
 If we claim that individuals interacting with each other (commerce, culture, aid, community) represents the strength of a society, then we might say this interaction correlates with *current*.  If *ethics* represents the arena in which individuals operate, then we could correlate *ethics* with *voltage*.  *Laws*, which define limits, would then reasonably be correlated to *resistance*.  All together, individuals, ethics, and laws form a *society*.
 
@@ -430,25 +445,3 @@ DNA’s relationship with tetrahedrons is particularly unique given the creation
 
 Our simple trigrams of relationships, such as Newton’s  2<sup>nd</sup> Law, becomes a *tetrahedron* or *tholon* of relationships.  Whereas before it was stated that every piece of knowledge can be deconstructed into a trigram, by the same token, every piece of knowledge forms a tetrahedron. With this more expanded tetrahedral model in mind, let’s briefly jump back to the examples of deconstruction mentioned earlier.  
 
-
-
-<hr>
-
-[^70]: Fuller, R. Buckminster, and E. J. Applewhite. ***Synergetics. Explorations in the Geometry of Thinking***. Macmillan, 1975.The entire book can be found online at <http://synergetics.info>
-[^71]: References to the above come from <http://synergetics.info/s02/p0000.html>
-[^73]: Siegel, Ethan. “**Ask Ethan: Can Free Quarks Exist Outside Of A Bound-State Particle?**” Forbes. Forbes Magazine, August 3, 2019. <https://www.forbes.com/sites/startswithabang/2019/08/03/ask-ethan-can-free-quarks-exist-outside-of-a-bound-state-particle>
-[^74]: Steingart, Dan. “**The Unfortunate Tetrahedron**.” Medium. the unfortunate tetrahedron, May 30, 2017. https://medium.com/the-unfortunate-tetrahedron/the-unfortunate-tetrahedron-ce1e44d0b961.
-[^76]: Institute, Santa Fe. "**Economic Complexity: A Different Way to Look at the Economy.**" Medium. November 03, 2014. Accessed August 02, 2020. https://medium.com/sfi-30-foundations-frontiers/economic-complexity-a-different-way-to-look-at-the-economy-eae5fa2341cd.
-[^77]: Hoffman DD, Prakash C. **Objects of consciousness.** Front Psychol. 2014;5 577. doi:10.3389/fpsyg.2014.00577. PMID: 24987382; PMCID: PMC4060643.
-[^78]: <http://hexagonalwater.com>
-[^79]: Ptok, Fabian, “**Alternative Irrigation Methods: Structured Water in the context of a Growing Global Food Crisis due to Water Shortages**” (2014). Undergraduate Honors Theses. 182. <https://scholar.colorado.edu/honr_theses/182>
-[^80]: Fonseca, Giuseppe, and Giuseppe Fonseca. “**Dr Pollack The Fourth Phase of Water.**” Academia.edu, <https://www.academia.edu/18516517/Dr_Pollack_The_Fourth_Phase_Of_Water>
-[^81]: Chara, et al. “**Crossover between Tetrahedral and Hexagonal Structures in Liquid Water.**” Physics Letters A, <http://www.academia.edu/21730774>
-[^82]: Staff, Science X. "**Tetrahedrality Is Key to the Uniqueness of Water.**" Phys.org. March 27, 2018. Accessed July 28, 2020. https://phys.org/news/2018-03-tetrahedrality-key-uniqueness.html.
-[^301]: http://marcelvogel.org/LabNotesMarcelVogel.pdf
-[^302]: **Structure of hydrogen-stuffed, quartz-like form of ice revealed.** (2017, January 04). Retrieved October 10, 2020, from https://gl.carnegiescience.edu/news/structure-hydrogen-stuffed-quartz-form-ice-revealed
-[^303]: Lee, H., & Kang, M. (2013). **Effect of the magnetized water supplementation on blood glucose, lymphocyte DNA damage, antioxidant status, and lipid profiles in STZ-induced rats**. *Nutrition Research and Practice,* *7*(1), 34. doi:10.4162/nrp.2013.7.1.34
-[^304]: Gerald Pollack. (n.d.). Retrieved October 19, 2020, from http://wiki.naturalphilosophy.org/index.php?title=Gerald_Pollack
-[^308]: McGovern, Jim; "What Have Spacetime, Shape and Symmetry to Do with Thermodynamics? ", ECOS 2007, Proceedings of the 20th International Conference on Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems, Ed. Alberto Mirandola, Ozer Arnas, Andrea Lazzaretto, pp. 349-356, June 25-28, 2007, Padova, Italy, arXiv:0710.1242, Available at: https://arxiv.org/pdf/0710.1242.pdf
-[^309]: **Freedom in the World** (2018), published by Freedom House, **Democracy Index** (2017), published by The Economist Intelligence Unit, **V-Dem Annual Democracy Report** (2018), published by the V-Dem Institute
-[^349]: Abbott, Edwin A. (1884). *Flatland: A Romance in Many Dimensions*. New York: Dover Thrift Edition (1992 unabridged). p. ii., https://en.wikipedia.org/wiki/Flatland
