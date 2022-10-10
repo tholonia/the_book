@@ -9,7 +9,7 @@ Part I of this book introduces the ideas and concepts that form the vocabulary l
 
 ###### Everything begins and ends in chaos.
 
-##### **Synopsis:** In the fundamental trinity of reality, that of chaos, energy and order, chaos comes first.  By definition, it exists before any *thing* exists.  It is the engine of creation and annihilation, and the always-present foundation of all existence.  Chaos exists across a spectrum that stretches between the 0 of nothingness and the &infin; of somethingness.  This is 1<sup>st</sup> duality of creation from which all that ever was, is, or will be emerges.  
+##### **Synopsis:** In the fundamental trinity of reality, that of chaos, energy and order, chaos comes first.  By definition, it exists before any *thing* exists.  It is the engine of creation and annihilation, and the always-present foundation of all existence.  chaos exists across a spectrum that stretches between the 0 of nothingness and the &infin; of somethingness.  This is 1<sup>st</sup> duality of creation from which all that ever was, is, or will be emerges.  
 
 ##### **Keywords:** chaos, randomness, pattern, duality, creation, zero, infinity
 
@@ -139,12 +139,12 @@ This single number of 0 represents the antithesis of all other numbers just as t
 
 The truth is, or rather *a* truth is,  the numbers 0 and 1 are remarkably flexible as they are two concepts that encapsulate the idea of the nothing of nothingness and the totality of somethingness; the two poles that define the arena or spectrum wherein all things exist.  What happens inside this arena?  In a word: *order*.  There is no order in the *nothing of nothingness* for there is nothing to order, and there is no order in the totality of somethingness as there is no form, structure, sequence, etc.  If 0 is the mathematical concept of nothingness, then 1 is the ultimate mathematical black hole, and in that sense, 1 *does* represent  &infin;.  0 and 1 (or 0 and &infin; if you prefer) are two states of chaos.  Order only exists *between* these two states, and it is our understanding, discovery, and invention of order that allows us to know this.
 
-#### **Key 1:** Chaos is a state lacking any order, time or energy;  total nothingness;  0.
+#### **Key 1:** chaos is a state lacking any order, time or energy;  total nothingness;  0.
 
 
-#### **Key 2:** Chaos is a state of total energy and matter; total somethingness; &infin;
+#### **Key 2:** chaos is a state of total energy and matter; total somethingness; &infin;
 
-## Order and the Chaos of 0 and &infin;
+## Order and the chaos of 0 and &infin;
 
 It was Newton’s contemplation of $\frac{0}{0}$ that lead to his invention of calculus, and while we are taught that equations with 0 or &infin; are problematic and best to stay away from, calculus can prove that &infin;<sup>&infin;</sup>,1<sup>&infin;</sup>,0<sup>0</sup>,$\frac{\infty}{\infty}$,0&times;&infin;,&infin;-&infin; all equal $\frac{0}{0}$ , and yet, even today, we are not sure what $\frac{0}{0}$ actually is.  We can see evidence of this in current research, such as the research of the Chief Editor of of the publication *Causation*, Ilija Barukčić, titled “*Zero Divided by Zero Equals One*”[^367], which starts out with:
 
@@ -175,12 +175,12 @@ The definition of chaos that works for both is *“the degree that order is pres
 
 [^6]: Thomas, Ciza, et al. “**Introduction to Complex Systems, Sustainability and Innovation.**” *Complex Systems, Sustainability and Innovation*, 2016, doi:10.5772/66453.
 
-> Chaos explores the transitions between order and disorder.  An order arises from the ever growing disorder of the Universe - chaos and order together.
+> chaos explores the transitions between order and disorder.  An order arises from the ever growing disorder of the Universe - chaos and order together.
 
 But this is still too vague for our purposes because it is more reasonable to consider *chaos* as a spectrum from 0 to &infin;.  More correctly, the spectrum of *chaos* is the inverse of the spectrum of *order* (which is further defined later on), because just as there is no such *thing* as darkness, only a lack of the the *thing* that is is light, chaos is the lack of order.  For this reason, we initially define using a slightly inaccurate definition shown below, however, we will be refining this concept as we continue.
 
 
-#### **Key 3:** Chaos as a measure of pattern, order, and predictability.
+#### **Key 3:** chaos as a measure of pattern, order, and predictability.
 
 Chaos is not the same as randomness.  A random event is *non-deterministic*, meaning it can’t be determined when it will happen because it has no pattern, rule, or reason (that we can discover) and no known immediate cause.  At least that is how we are defining the word as it is used in this book.    It may be the case that the concept of randomness simply exists to label unexplainable events that are actually chaotic in nature but far beyond our current abilities to understand, like a super-chaotic event.  An example of this is from the website RANDOM.ORG, which generates random numbers, but in order to make them more-truly random, they use the atmospheric noise as an input.  That ambient noise is not random, but is chaotic.  Another example is how computer random number generators use electrical noise and heat as inputs to their number generator.  Again, these are chaotic inputs.  
 
@@ -210,7 +210,7 @@ One of the classic “truly random” events in the Universe is radioactive deca
 
 A more common example of this is the idea of a stock market.  The price of a stock is unpredictable, but it is not truly random, as the price is determined by the individual actions of the thousands of buyers and sellers, each one of them making non-random decisions based on their own financial interests (i.e. cause/effect chains).  Each of these chains is a systems in and of itself, and all these systems combined form the larger system of a stock market.  
 
-<img src='../Images/L-sys-2.png' style='float:right;width:25%'/>Chaos is *deterministic* because it adheres to rules, and even has a pattern, but the effects over time create unpredictable results.  Chaos does not happen in one moment.  It happens over time, and what happens next depends on what happened before, making chaos a self-similar, or self-referencing, process.  Because it is *change* that happens over time, there are two components to consider; a *growth factor* and a *limiting factor*.  For example, in the image to the right, we start with a simple pattern that never changes but can replicate itself in its children, and after 10 generations it turns into a tree.  The *growth factor* is that it is self-generating, and the *limiting factor* is the fact that all of the variables (length, angle, color) are permanently fixed.  Popular real-world chaotic systems are things like the weather, economics, growth patterns, etc., but in actuality, everything that grows, moves, or has energy moving through it has elements of chaos in its system that is influenced by millions of variables forever changing.  
+<img src='../Images/L-sys-2.png' style='float:right;width:25%'/>Chaos is *deterministic* because it adheres to rules, and even has a pattern, but the effects over time create unpredictable results.  chaos does not happen in one moment.  It happens over time, and what happens next depends on what happened before, making chaos a self-similar, or self-referencing, process.  Because it is *change* that happens over time, there are two components to consider; a *growth factor* and a *limiting factor*.  For example, in the image to the right, we start with a simple pattern that never changes but can replicate itself in its children, and after 10 generations it turns into a tree.  The *growth factor* is that it is self-generating, and the *limiting factor* is the fact that all of the variables (length, angle, color) are permanently fixed.  Popular real-world chaotic systems are things like the weather, economics, growth patterns, etc., but in actuality, everything that grows, moves, or has energy moving through it has elements of chaos in its system that is influenced by millions of variables forever changing.  
 
 Below are some diagrams to help make this concept clearer.  
 

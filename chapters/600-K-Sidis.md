@@ -61,12 +61,12 @@ While the idea of black holes goes back to  Karl Schwarzschild, astronomer and c
 
 William then goes on to conclude that the universe must have been created by two “halves” of the Universe, each a universe unto itself, both at rest and at 0&deg; in temperature, colliding into each other, and it was at this point only that the 2<sup>nd</sup> law of thermodynamics came into effect.   While this is not how modern science understands the Big Bang, his ideas were based purely on reason, and he came pretty close to what we understand today.  Given the questions that still remain unanswered, who can say that he won’t be proved correct in the future?  It is also interesting that his ideas are perfectly in-line with the tholonic concept of creation being two opposing forces, in its initial and all subsequent creation.
 
-William posts the ideas that within this Universe, there exists instance where the 2nd law does exist in reverse.  This is not impossible, as the 2nd law is not actually a physical law, but rather a highly probable statistical result, and therefore, not being a law, is capable of being violated.  Where such a inversion of the law might exist, it would have the effect of reversing entropy, of concentrating energy rather that dispersing it.  William explains how and why this is a reasonable assumption, and even gives example of how we migth recognize such a process.  Today we know at least one way that can actually happen[^365], although how it happens is probably a bit different from the way William was suggesting.
+William posts the ideas that within this Universe, there exists instance where the 2nd law does exist in reverse.  This is not impossible, as the 2nd law is not actually a physical law, but rather a highly probable statistical result, and therefore, not being a law, is capable of being violated.  Where such a inversion of the law might exist, it would have the effect of reversing entropy, of concentrating energy rather that dispersing it.  William explains how and why this is a reasonable assumption, and even gives example of how we migth recognize such a process.  Today we know at least one way that can actually happen[^407], although how it happens is probably a bit different from the way William was suggesting.
 
 <hr>
 
 
 [^365]: Jared L. Manley, James Thurber. “Where Are They Now?” The New Yorker. The New Yorker, August 7, 1937. https://www.newyorker.com/magazine/1937/08/14/where-are-they-now-5. 
 [^364]: https://archives.newyorker.com/newyorker/1937-08-14/flipbook/022
-[^365]: Xing Xiu-San, “”Spontaneous entropy decrease and its statistical formula”, Department of Physics,Beijing Institute of Technology,Beijing ,China; https://arxiv.org/pdf/0710.4624.pdf
+[^407]: Xing Xiu-San, “”Spontaneous entropy decrease and its statistical formula”, Department of Physics,Beijing Institute of Technology,Beijing ,China; https://arxiv.org/pdf/0710.4624.pdf
 

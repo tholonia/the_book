@@ -171,7 +171,7 @@ While it is true that all numbers can be reduced to a product of primes, just as
 
 We can see there is definitely a pattern of prime-based numbers.  The question is, is there a pattern to prime products, like 25, 35, 49, etc.  It seems inconceivable that we can’t determine where 5&times;5 or 7&times;5 will land in row of numbers, but, I am not a mathematician.  Nevertheless, given the fractal nature of the thologram, I suspect there is more to be discovered on this matter.
 
-And speakign of te hfractial nature of numners, the following image of teh wavefoems of values crated by the firct 16 prime numbers demonstrat exacely how this fractal expansion works.
+And speakign of te hfractial nature of numners, the following image of teh waveforms of values crated by the firct 16 prime numbers demonstrat exacely how this fractal expansion works.
 
 <center><img src='../Images/hiprimes1.png' style='width:100%'/></center>
 
@@ -308,7 +308,7 @@ While it is true that all numbers can be reduced to a product of primes, just as
 
 We can see there is definitely a pattern of prime-based numbers.  The question is, is there a pattern to prime products, like 25, 35, 49, etc.  It seems inconceivable that we can’t determine where 5&times;5 or 7&times;5 will land in row of numbers, but, I am not a mathematician.  Nevertheless, given the fractal nature of the thologram, I suspect there is more to be discovered on this matter.
 
-And speakign of te hfractial nature of numners, the following image of teh wavefoems of values crated by the firct 16 prime numbers demonstrat exacely how this fractal expansion works.
+And speakign of te hfractial nature of numners, the following image of teh waveforms of values crated by the firct 16 prime numbers demonstrat exacely how this fractal expansion works.
 
 <center><img src='../Images/hiprimes1.png' style='width:100%'/></center>
 
@@ -440,8 +440,8 @@ Why is it subjective? Because when we say *a&times;b*, we are saying we are coun
 
 This is effectively the same distinction between *quantitative* and *qualitative*.  Here are those definitions again:
 
-- **Quantitative** data can be counted, measured, and expressed using numbers.
-- **Qualitative** data is descriptive and conceptual.  Qualitative data can be categorized based on traits and characteristics.
+- **Quantitative** data can be counted, measured, and expressed using numbers.  Quantitative data has an objective agreed upon value.
+- **Qualitative** data that is descriptive and conceptual.  Qualitative data can be categorized based on traits and characteristics.
 
 This is metaphorically equivalent to something using its own properties to evaluate its own existence, not unlike the first dot that became aware of itself through the second dot, creating the two states of objective and subjective.  Remember, this is referring to the non-math contexts, so none of these claims have any mathematical relevance (probably).
 

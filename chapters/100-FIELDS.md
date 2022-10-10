@@ -247,9 +247,9 @@ Another model to look at might be the way we have learned to transmit informatio
 
 Like my grandmother used to say “when you can’t find something, you need to look everywhere.”
 
-## Dark Matter
+## Dark-Matter
 
-One candidate is dark energy/dark matter.
+One candidate is dark-energy/dark-matter.
 
 Before I describe this idea, I want to make it very clear that I am not a cosmologist, physicist, or scientist of any kind, so this idea may be ridiculously naive and laughable to anyone who is knowledgeable on the subject.  That said, let’s give it a whirl.
 
@@ -279,7 +279,7 @@ How does this theory fit into the tholonic model? Surprisingly well!
 
 <center><img src="../Images/infos.png" style="width:80%"/></center>
 
-The similarity between the three properties of both are astounding.  You can see the formulas follow Newton’s laws, and, in tholonic fashion, the qualities of &div; define the 2 corners of the <u>CD</u> spectrum, and that of &times; define the <u>CD</u> spectrum itself.  It also aligns such that *mass* in the child of the N-source, implies that mass is the instance of energy, which we know is true.  Why aren’t the values of *energy*, *mass* and *infobit* mapped to the N, D, C corners, but rather to the sides of the tholon? This is the ‘holarchic’ format, rather the the tholonic format, as explained in chapter 7, “Structure”:   
+The similarity between the three properties of both are astounding.  You can see the formulas follow Newton’s laws, and, in tholonic fashion, the qualities of &div; define the 2 corners of the CD spectrum, and that of &times; define the CD spectrum itself.  It also aligns such that *mass* in the child of the N-source, implies that mass is the instance of energy, which we know is true.  Why aren’t the values of *energy*, *mass* and *infobit* mapped to the N, D, C corners, but rather to the sides of the tholon? This is the ‘holarchic’ format, rather the the tholonic format, as explained in chapter 7, “Structure”:   
 
 > The primary reason why the properties or movement and energy are the key points in a thologram rather than the instantiated elements, as in the holarchy, is because it is the properties of movement and energy that are consistent at every level of creation. 
 
@@ -314,7 +314,7 @@ If we do the math, we see all of Newton’s formulas work out correctly for grav
 - <img src="../Images/gmm.png" style="float:right;width:20%"/>**S&rarr;I**: The the distance between *observer* and *observed* equates to **current**, or the strength of energy.  As the distance lessens, the force increases, as **S** and **F** are inversely proportional.  *Note:  The terms observer and observed are the actual technical terms used, and not terms used here to add validity to the tholonic theory that reality itself emerged from the primal observer, the 0-dimensional concept of SAI, and the observed, the first creation of the SAI.*
 - **G&rarr;V**: The **gravitational constant**, which is measured in newtons, equates to **volts**, or the pressure of energy that is inherent in all mass in the form of gravity.  However, the value arrived at by the calculations is 62,772,597.14, while the GC is measured as 6.67×10<sup>−11</sup>.  That is a bit off, by a factor of 9.41&times;10<sup>17</sup> to be exact.  The only real difference between these two values is the units of measure.  The GC value is *newtons&times;meters<sup>2</sup>&div;kilograms<sup>2</sup>*, but this calculated value is obviously using much smaller, yet unknown units… perhaps something related to *Planck’s force&times;Planck’s length<sup>2</sup>&times;Planck’s mass<sup>2</sup>*  ?
 
-There is another correlation as well.  The limits of an electrical circuit are defined by the amount of charge, or current (amps), that is allowed to pass through a system at any given moment.  This is controlled by a fuse.  In the *E=mc<sup>2</sup>* equivalency we saw previously, it is *c*, the speed of light, that defines the limits of the system we call the Universe, but unlike amps, *c* can never change.  Here, in the gravity example, the defining limitation of the system is *S*, the distance between two fields.  So . let’s replace ***<u>I</u>*** (or *c)* with ***S*** and see if there is a reasonable correlation between gravity and consciousness when applied to Newton’s 2<sup>nd</sup> and tholons?
+There is another correlation as well.  The limits of an electrical circuit are defined by the amount of charge, or current (amps), that is allowed to pass through a system at any given moment.  This is controlled by a fuse.  In the *E=mc<sup>2</sup>* equivalency we saw previously, it is *c*, the speed of light, that defines the limits of the system we call the Universe, but unlike amps, *c* can never change.  Here, in the gravity example, the defining limitation of the system is *S*, the distance between two fields.  So . let’s replace ***I*** (or *c)* with ***S*** and see if there is a reasonable correlation between gravity and consciousness when applied to Newton’s 2<sup>nd</sup> and tholons?
 
 For example: 
 

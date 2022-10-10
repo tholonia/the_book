@@ -41,18 +41,19 @@ merge_dups()
 reformpg()
 
 entries = get_pages(False)
+
+# pprint(entries)
+
 # + final output
-make_xall(entries)
-make_xfla(entries)
-make_xflc(entries)
-make_xcha(onlychap)
+make_Index_by_Category(entries)
+make_Index(entries)
+# make_xflc(entries)
+# make_xcha(onlychap)
 
 print('''
 Output files:
-file:///home/jw/books/tholonia/bin/indexer/xcha.html
-file:///home/jw/books/tholonia/bin/indexer/xall.html
-file:///home/jw/books/tholonia/bin/indexer/xfla.html
-file:///home/jw/books/tholonia/bin/indexer/xflc.html
+brave file:///home/jw/books/tholonia/bin/indexer/Index-by-Category.html
+brave file:///home/jw/books/tholonia/bin/indexer/Index.html
 
 Browser PDF margin setting:
 ----------------------------

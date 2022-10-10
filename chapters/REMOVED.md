@@ -16,6 +16,36 @@ https://merrimackvalleyhavurah.wordpress.com/philosophy-theology/maimonides/maim
 
 https://merrimackvalleyhavurah.wordpress.com/philosophy-theology/maimonides/maimonides-view-of-miracles/
 
+
+
+<IMG src="../Images/math/367.svg" style="vertical-align:middle;height:70pt"/>
+
+
+
+<IMG src="../Images/math/368.svg" style="vertical-align:middle;height:25pt"/>
+
+
+
+<IMG src="../Images/math/369.svg" style="vertical-align:middle;height:80pt"/>
+
+
+
+# 590
+
+I personally experienced similar results to those reviewed in the animal studies. In my own experiments I created SW simply by spinning 1 liter of water with a chemical stirrer in a magnetic field made of 6 equidistant, and opposing, magnets glued to the outside of the water jar, which was about 6 inches at its widest part.  Each magnet (15mm x 3mm NbFeB 42 MGOe) has a strength 2335 *Gauss* at the closet point inside the jug, which drops to 3 *Gauss* at the center of the jar 3 inches from the magnet, and which drops to about 8 *Gauss* in-between the magnets (which are about 3.5 inches apart each. ) These are a bit weak, considering a magnetic field strength of 1000 to 3000 ie required, but the *Gauss*  drops below 1000 after 7 mm inside the jar.  The water is spinning, so all the water is exposed to the stronger fields, but as it is constantly rotating, that exposure is temporary.   
+
+This was the only water I drank for close to a year, and neither my diet and lifestyle changed in that time.  The difference in the before and after blood tests were compatible with the tests on animals.  My blood panel was generally better regarding cholesterol levels, but the most dramatic change was my triglycerides dropped from 750 to 150.  This is anecdotal, but considering my results matched those of controlled tests on animals, it was enough for me to accept that structured water should be at least be seriously studied.
+
+
+
+# 080
+
+<img src="../Images/ascdesc.png" style='float:right;width:50%' />If we look at the thologram, we see that *ascending* trigrams always create *virtual* tholons, anmd descending trigrams always create real tholons
+
+.  But it we move in a *descending* directions by taking a single trigram and making the smaller tholons inside, then it will always be a *real* tholon.  You can see how these 2 types of tholons are different (image right, the colors used are the result of additively merging the overlapping colors of the trigrams).
+
+<img src="../Images/fig-q1a.png" style='float:left;width:50px' /><img src='../Images/spacer.png' style='float:left;height:40px'/>This is significant because only a real tholon can create 3 points of creation (the N-states) that are exposed to the outside reality.  These N-sates are represented by the three black dots in ***Fig. q1a***, and would represent where an electron field would most likely instantiate.
+
 # 075
 
 ## about 5

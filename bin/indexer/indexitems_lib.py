@@ -18,9 +18,10 @@ cfg = toml.load("index.toml")
 from colorama import init, Fore, Back
 init()
 
-def make_xall(entries):
-    out = open(r"xall.html", "w")
-    out.write(makedocstart("1: By Book - with categories"))
+def make_Index_by_Category(entries):
+    print("Preparing index 1: By Book - with categories")
+    out = open(r"Index-by-Category.html", "w")
+    out.write(makedocstart("Index by Category"))
     for heading in entries:
         if entries[heading]:
             out.write("<span class='hbox'>")
@@ -33,15 +34,17 @@ def make_xall(entries):
     out.write(docend)
     out.close()
 
-def make_xfla(entries,**kwargs):
+def make_Index(entries,**kwargs):
+    print("Preparing index 1: By Book")
+
     colors = False
     try:
         colors = kwargs['colors']
     except:
         pass
 
-    out = open(r"xfla.html", "w")
-    out.write(makedocstart("2: By Book"))
+    out = open(r"Index.html", "w")
+    out.write(makedocstart("Index"))
     flat = []
     for heading in entries:
         for e in entries[heading]:
@@ -56,54 +59,54 @@ def make_xfla(entries,**kwargs):
     out.write(docend)
     out.close()
 
-def make_xflc(entries,**kwargs):
-    colors = True
-
-    out = open(r"xflc.html", "w")
-    out.write(makedocstart("3: By Book - category colored words", colors=colors))
-    flat = []
-    for heading in entries:
-        for e in entries[heading]:
-            flat.append(e)
-    flat.sort(key=lambda x: x[0].lower())
-    out.write("<span class='lbox'>")
-
-    for line in flat:
-        pr_line(out, line, colors=colors)
-    out.write("</span>")
-    out.write("</span>")
-    out.write(docend)
-    out.close()
-
-def make_xcha(onlychap):
-    chnames = cfg["chapter_titles"]
-    out = open(r"xcha.html", "w")
-    out.write(makedocstart("4: By Chapter - catagories by chapters"))
-    # pr_desc(out, "BY CHAPTER")
-    from_chapter = 1
-    chapters = 7  # int(to_list(sqlex("select max(ch) from words"))[0])
-    # print(chapters)
-
-    # + override chapters
-    if onlychap:
-        from_chapter = onlychap
-        chapters = onlychap + 1
-
-    for i in range(from_chapter, chapters):
-        pr_chapter(out, f"Chapter {i}: {chnames[i]}")
-        entries = get_pages(i + 1)
-        # # + final output
-        for heading in entries:
-            if entries[heading]:
-                out.write("<span class='hbox'>")
-                pr_heading(out, heading, chapter=i)
-                out.write("<span class='lbox'>")
-                for line in entries[heading]:
-                    pr_line(out, line)
-                out.write("</span>")
-                out.write("</span>")
-    out.write(docend)
-    out.close()
+# def make_xflc(entries,**kwargs):
+#     colors = True
+#
+#     out = open(r"xflc.html", "w")
+#     out.write(makedocstart("3: By Book - category colored words", colors=colors))
+#     flat = []
+#     for heading in entries:
+#         for e in entries[heading]:
+#             flat.append(e)
+#     flat.sort(key=lambda x: x[0].lower())
+#     out.write("<span class='lbox'>")
+#
+#     for line in flat:
+#         pr_line(out, line, colors=colors)
+#     out.write("</span>")
+#     out.write("</span>")
+#     out.write(docend)
+#     out.close()
+#
+# def make_xcha(onlychap):
+#     chnames = cfg["chapter_titles"]
+#     out = open(r"xcha.html", "w")
+#     out.write(makedocstart("4: By Chapter - catagories by chapters"))
+#     # pr_desc(out, "BY CHAPTER")
+#     from_chapter = 1
+#     chapters = 7  # int(to_list(sqlex("select max(ch) from words"))[0])
+#     # print(chapters)
+#
+#     # + override chapters
+#     if onlychap:
+#         from_chapter = onlychap
+#         chapters = onlychap + 1
+#
+#     for i in range(from_chapter, chapters):
+#         pr_chapter(out, f"Chapter {i}: {chnames[i]}")
+#         entries = get_pages(i + 1)
+#         # # + final output
+#         for heading in entries:
+#             if entries[heading]:
+#                 out.write("<span class='hbox'>")
+#                 pr_heading(out, heading, chapter=i)
+#                 out.write("<span class='lbox'>")
+#                 for line in entries[heading]:
+#                     pr_line(out, line)
+#                 out.write("</span>")
+#                 out.write("</span>")
+#     out.write(docend)
+#     out.close()
 
 
 def get_active_words():
@@ -122,11 +125,11 @@ def rebuilddb():
     lines_ary, words_ary = loadpages(cfg['file'])
     for pagenum in range(len(words_ary)):
         for word in words_ary[pagenum]:
-            cmd = f"INSERT IGNORE into pages (word,pagenum) VALUES ('{word}','{pagenum}')"
+            cmd = f"INSERT IGNORE into pages (word,pagenum) VALUES ('{word}','{pagenum+1}')"
             # print(Fore.CYAN+cmd+Fore.RESET)
             sqlex(cmd)
     for pagenum in range(len(lines_ary)):
-        cmd = f"INSERT IGNORE into pages (page,pagenum) VALUES ('{lines_ary[pagenum]}','{pagenum}')"
+        cmd = f"INSERT IGNORE into pages (page,pagenum) VALUES ('{lines_ary[pagenum]}','{pagenum+1}')"
         # print(Fore.BLUE + cmd + Fore.RESET)
         sqlex(cmd)
     sqlex("SET autocommit=1;",commit=True)
@@ -304,22 +307,22 @@ def reformpg():
         # print(Fore.YELLOW+cmd+Fore.RESET)
 def cleanold():
     sqlex("delete from results")
-    try:
-        os.unlink("xcha.html")
-    except:
-        pass
-    try:
-        os.unlink("xall.html")
-    except:
-        pass
-    try:
-        os.unlink("xfla.html")
-    except:
-        pass
-    try:
-        os.unlink("xflc.html")
-    except:
-        pass
+    # try:
+    #     os.unlink("xcha.html")
+    # except:
+    #     pass
+    # try:
+    #     os.unlink("xall.html")
+    # except:
+    #     pass
+    # try:
+    #     os.unlink("xfla.html")
+    # except:
+    #     pass
+    # try:
+    #     os.unlink("xflc.html")
+    # except:
+    #     pass
 
 import shlex
 # 100000 words -> https://www.mit.edu/~ecprice/wordlist.10000
@@ -884,7 +887,6 @@ def get_pages(ch):
     query_results = sqlex("select heading,display,pages from results order by display", dict=True)
 
     # pprint(query_results)
-    # exit()
     for k in range(len(query_results)-1):
         r = query_results[k]
         entries[r['heading']].append([r['display'], r['pages']])

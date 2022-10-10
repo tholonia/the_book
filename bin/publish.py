@@ -12,6 +12,7 @@ import os
 import sys
 import getopt
 import datetime
+import subprocess
 from colorama import init, Fore, Back
 init()
 
@@ -55,7 +56,7 @@ def update_ver():
         {H}/Images/titlepagev.png \
         {H}/Images/titlepage.png
     '''
-
+    p=subprocess.Popen(cmd.split(" "))
     os.system(cx)
     return [vernum_before, vernum_after]
 
@@ -129,12 +130,12 @@ def rebuildmd(testname=""):
     if testname:
         chapters = [testname]
 
+
     for chapter in chapters:
         if (idx >= pl.limit_fr) and (idx <= pl.limit_to):
             # if idx < pl.limit:
             # print(f"Reading chapter {chapter}.md")
             fname = f'{H}/chapters/{chapter}.md'
-            print(f"\t{idx}  {fname}")
             file = open(fname, mode='r')
             chap = file.read()
             mdall += chap
@@ -372,18 +373,50 @@ def cleanold():
 STATE = "_prod"
 # STATE = "_dev"
 
+# + ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+
+def help():
+    print("\t")
+    print(f"\t-h|--help (this)")
+    print(f"\t-n|--new  (new versions)")
+    print(f"\t-f|--full (all chapters")
+    print("\t")
 
 argv = sys.argv[1:]
 
-try:
-    opts, args = getopt.getopt(argv, "n")
+# try:
+#     opts, args = getopt.getopt(argv, "n")
+#
+# except:
+#     print("Error")
+#
+# for opt, arg in opts:
+#     if opt in ['-n']:
+#         print(f"NEW VERSION: {update_ver()}")
 
-except:
-    print("Error")
+pl.chapters = pl.chapters_test
+try:
+    opts, args = getopt.getopt(argv, "hnf",["help","new","full"])
+except getopt.GetoptError as err:
+    sys.exit(2)
 
 for opt, arg in opts:
-    if opt in ['-n']:
+    if opt in ("-h", "--help"):
+        help()
+        exit()
+    if opt in ("-n", "--new"):
         print(f"NEW VERSION: {update_ver()}")
+    if opt in ("-f", "--full"):
+        pl.chapters = pl.chapters_prod
+
+
+# + ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+
+cmd="/home/jw/books/tholonia/bin/indexer/make_regex.py -u"
+p=subprocess.Popen(cmd.split(" "))
+p.wait()
+
+
 
 mkcss()
 

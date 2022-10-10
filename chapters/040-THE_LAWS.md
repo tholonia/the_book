@@ -129,7 +129,7 @@ Of course, in the quantum world, the coin flip is like a Schrödinger’s Cat sc
 
 [^335]: Albrecht, Andreas, and Daniel Phillips. “**Origin of Probabilities and Their Application to the Multiverse.**” *Physical Review D* 90, no. 12 (2014). https://doi.org/10.1103/physrevd.90.123514.  https://arxiv.org/pdf/1212.0953
 
-The laws we live in are, for now, stable enough, but they may be changing as you are reading this.  We know, at least according to our current understanding, that even the most basic laws, like Newton’s Laws of Motion, will completely break down as the universe approaches *statistical equilibrium*, which means there is an equal probability that energy will move in any direction in a reality where all matter, which has decomposed into atomic dust, just wiggles around like 10<sup>86</sup> lost atomic-sized bugs in space as they slowly wait to get sucked into a black hole.  The speed of light, Planck’s Constant, and every other constant, may be changing due to the expansion of the universe, quantum changes, increasing dark matter, and who knows how many other things we haven’t even discovered yet.  Many scientists have not only theorized this, but there is some evidence to support this idea.  The problem is, on a cosmic time scale (using the new theory that the universe will come to an end in a mere 4 billion years[^333]),  if the universe lasted 100 years, we humans have only been measuring things for the equivalent of 43 millionths of a second (5,000 years), so we can only speculate about the other 99.9999995% of existence.
+The laws we live in are, for now, stable enough, but they may be changing as you are reading this.  We know, at least according to our current understanding, that even the most basic laws, like Newton’s Laws of Motion, will completely break down as the universe approaches *statistical equilibrium*, which means there is an equal probability that energy will move in any direction in a reality where all matter, which has decomposed into atomic dust, just wiggles around like 10<sup>86</sup> lost atomic-sized bugs in space as they slowly wait to get sucked into a black hole.  The speed of light, Planck’s Constant, and every other constant, may be changing due to the expansion of the universe, quantum changes, increasing dark-matter, and who knows how many other things we haven’t even discovered yet.  Many scientists have not only theorized this, but there is some evidence to support this idea.  The problem is, on a cosmic time scale (using the new theory that the universe will come to an end in a mere 4 billion years[^333]),  if the universe lasted 100 years, we humans have only been measuring things for the equivalent of 43 millionths of a second (5,000 years), so we can only speculate about the other 99.9999995% of existence.
 
 [^333]: Bousso, Raphael, Ben Freivogel, Stefan Leichenauer, and Vladimir Rosenhaus. “**Eternal Inflation Predicts That Time Will End.**” *Physical Review D* 83, no. 2 (2011). https://doi.org/10.1103/physrevd.83.023525. https://arxiv.org/pdf/1009.4698v1.pdf
 
@@ -455,7 +455,7 @@ Related to concepts of reasoning is how we look at numbers.  Typically, a number
 
 For clarity, here is how we understand the concepts of *quantitative* and *qualitative*:
 
-- **Quantitative** data can be counted, measured, and expressed using numbers.
+- **Quantitative** data can be counted, measured, and expressed using numbers.  Quantitative data has an objective agreed upon value.
 - **Qualitative** data that is descriptive and conceptual.  Qualitative data can be categorized based on traits and characteristics.
 
 Lay persons tend not to think of numbers as having qualitative properties.  How would you describe the number 1?  Most people would not say “It’s that number which when multiplied by anything has no effect”, or “It’s its own square root”.  When you see the number 7, how often do you think “I wonder why its inverse is an infinite recurring pattern of all the numbers not divisible by 3, yet add up to 3<sup>3</sup>&times;3?”  (1/7=0.142857 142857 142857 142857 ad *infinitum*).  In ancient times, numbers were far more qualitative; Greeks considered 3 the number of man, 2 of woman, and among the Pythagoreans, 9 was too sacred a number to even be uttered.  Of course, most qualitative values of numbers will be cultural, which doesn’t mean they are invalid, but are only valid within that context, such as how Plato and Socrates, both eugenicists, believed in the qualitative values of numbers when it came to breeding.  Plato even went so far as to suggest that people should only be allowed to listen to certain music based on its harmonics.
@@ -500,7 +500,7 @@ There are many matching patterns between cells and the universe, and it is a sub
 -   Vacuoles vs. galaxies.
 -   Nuclear holes vs. asteroids.
 -   Vesicles vs. Earth itself.
--   Lysosomes vs. dark energy.
+-   Lysosomes vs. dark-energy.
 -   Endoplasmic reticulum vs. wormholes.
 -   Cell membrane vs. edge of the universe.
 -   Ribosomes vs. molecular clouds.
