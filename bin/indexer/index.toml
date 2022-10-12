@@ -1,0 +1,138 @@
+file = "/home/jw/books/tholonia/Latest/THOLONIA_THE_BOOK.pdf"
+#ch_beg_pg = [0, 6, 8, 18, 22, 34, 70, 107, 123, 160, 185, 218, 241, 280, 309, 324, 325, 328, 341, 369, 374, 376, 393, 469, 474]
+ch_beg_pg = [6,8,9,21,25,37,73,110,130,131,166,199,231,255,293,294,323,337,338,341,355,383,388,391,408,413,419,425]
+firstpage = 6
+lastpage = 427
+
+#file = "/home/jw/books/tholonia/bin/indexer/src.pdf"
+#ch_beg_pg = [5,15,19,33,67]
+#firstpage = 5
+#lastpage = 66
+#
+
+
+
+heading_titles = [
+    'Archetypes',
+    'Chaos',
+    'Energy',
+    'Instances',
+    'Models',
+    'Order',
+    'People'
+]
+
+chapter_titles = [
+    "Introduction",
+    "Part 1",
+    "Chaos",
+    "Energy",
+    "Order",
+    "The Laws",
+    "Reason",
+    "Information",
+    "Part II",
+    "Structure",
+    "The Thologram",
+    "Instances",
+    "Mind",
+    "Fields",
+    "Part III",
+    "Application of Awareness",
+    "Predeterminism",
+    "Part IV",
+    "Appendix A: About This Book",
+    "Appendix C: Tholonic Math",
+    "Appendix D: Greek Gods",
+    "Appendix E: Hidden Images",
+    "Appendix F: An Unexpected Pattern",
+    "Appendix J: Structuring Water",
+    "Appendix K: William Sidis",
+    "Appendix L: the Thologram and Religion",
+    "Appendix X: Indexes"
+]
+
+chapter_meta = [
+    ["Introduction","0","000-Intro.md"],
+    ["Chaos","1","010-CHAOS.md"],
+    ["Energy","2","020-ENERGY.md"],
+    ["Order","3","030-ORDER.md"],
+    ["The Laws","4","040-THE_LAWS.md"],
+    ["Reason","5","050-REASON.md"],
+    ["Information","6","060-INFORMATION.md"],
+    ["Structure","7","070-STRUCTURE.md"],
+    ["The Thologram","7.1","075-The_Thologram.md"],
+    ["Instances","8","080-INSTANCES.md"],
+    ["Mind","9","090-MIND.md"],
+    ["Fields","10","100-FIELDS.md"],
+    ["Application of Awareness","11","110-APPLICATION_OF_AWARENESS.md"],
+    ["Predeterminism","12","120-PREDETERMINISM.md"],
+    ["Appendix A: About This Book","A","510-A-About_This_Book.md"],
+    ["Appendix C: Tholonic Math","C","520-C-Tholonic_Math.md"],
+    ["Appendix D: Greek Gods","D","530-D-Greek_Gods.md"],
+    ["Appendix E: Hidden Images","E","540-E-Hidden_Images.md"],
+    ["Appendix F: An Unexpected Pattern","F","550-F-An_Unexpected_Pattern.md"],
+    ["Appendix J: Structuring Water","J","590-J-Structured_Water.md"],
+    ["Appendix K: William Sidis","K","600-K-Sidis.md"],
+    ["Appendix L: The Thologram and Religion","L","610-L-Thologram_and_Religion.md"],
+    ["Appendix X: The Indexes","X","700-X-indexes.md"]
+]
+
+chapter_meta_test = [
+    ["Introduction","0","000-Intro.md"],
+]
+
+chapter_numbers = [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "7.1",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "A",
+    "C",
+    "D",
+    "E",
+    "F",
+    "J",
+    "K",
+    "L",
+    "X"
+]
+#
+#chapter_colors = [
+#    "Bright Lilac",
+#    "Pastel Violet",
+#    "Carnation Pink",
+#    "Deep Rose",
+#    "Pastel Orange",
+#    "Light Salmon Rose",
+#    "Bullet Shell",
+#    "Bee Yellow",
+#    "Camel Brown",
+#    "Cardboard Brown",
+#    "Mint Green",
+#    "Sage Green",
+#    "Emerald",
+#    "DarkTurquoise",
+#    "Electric Blue",
+#    "Blue Koi",
+#    "Blue Gray",
+#    "",
+#    "",
+#    "",
+#    "",
+#    ""
+#]
+
+[[chapter]]
+    [[chapter.1]]
+        start=8
+        end = 18

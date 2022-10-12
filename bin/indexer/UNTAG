@@ -1,0 +1,6 @@
+#!/bin/bash
+rsync -avr /home/jw/books/tholonia/chapters/INDEXED/ /home/jw/books/tholonia/chapters/ 
+#chmod 600 /home/jw/books/tholonia/chapters/*md
+perl -pi -e 's/<u>//gmi' /home/jw/books/tholonia/chapters/*md
+perl -pi -e 's/<\/u>//gmi' /home/jw/books/tholonia/chapters/*md
+#chmod 400 /home/jw/books/tholonia/chapters/*md

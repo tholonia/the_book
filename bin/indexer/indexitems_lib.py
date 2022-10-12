@@ -13,7 +13,7 @@ import toml
 import hashlib
 from operator import itemgetter
 import fitz
-cfg = toml.load("index.toml")
+cfg = toml.load("/home/jw/store/books/tholonia/bin/indexer/index.toml")
 
 from colorama import init, Fore, Back
 init()

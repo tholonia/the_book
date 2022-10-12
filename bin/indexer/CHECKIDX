@@ -1,0 +1,45 @@
+#!/bin/bash
+
+cd /home/jw/books/tholonia/bin/indexer/pdf
+rm *
+
+cd /home/jw/books/tholonia/chapters
+rm Index*
+
+
+cd /home/jw/books/tholonia/chapters/INDEXED
+rm Index*
+
+
+cd /home/jw/books/tholonia/bin/indexer
+./indexitems.py -r
+./indexitems.py
+
+brave file:///home/jw/books/tholonia/bin/indexer/Index-by-Category.html &
+brave file:///home/jw/books/tholonia/bin/indexer/Index.html &
+
+
+
+read -p "SAVE PDF INDEXES to tholonia/bin/indexer/pdf/"
+./croppng.py
+rm *.html
+./make_regex.py -u
+./make_regex.py -m
+
+cd /home/jw/books/tholonia/bin
+./publish.py -f
+
+cd /home/jw/books/tholonia/bin/indexer
+./indexitems.py -r
+./indexitems.py
+
+brave file:///home/jw/books/tholonia/bin/indexer/Index-by-Category.html &
+brave file:///home/jw/books/tholonia/bin/indexer/Index.html &
+
+read -p "SAVE PDF INDEXES to tholonia/bin/indexer/pdf/"
+./croppng.py
+
+cd /home/jw/books/tholonia/bin
+./publish.py -f
+
+ 
