@@ -17,7 +17,7 @@ The same patterns that we see in the world around us we can find in the data fro
 
 To begin to answer that, we can deduce that there is no data in the void of nothingness.  Data can only exist within a duality, which implies that there is energy, which implies oscillation within finite boundaries in accordance with specific laws of existence.  So, what is the difference between data and existence itself? 
 
-#### **Key 38:** Data is the static byproduct of the movement of energy.
+#### **Key 50:** Data is the static byproduct of the movement of energy.
 
 Data is static because all data is *stateful*, which means data has no dependence on, or relationship to, anything in the past.  The process that generates the data may have such dependencies or relationships, which would make it a *stateless* process, but the data produced can only represent the *state* of a system and any given moment.  Flipping a coin is *stateful*, as there is a 50/50 chance it will be heads or tails regardless of the result of the last 100 flips, but the odds of flipping 101 heads is a row is about 4&times;10<sup>-31</sup> because all the *states* of the 101 flips are seen as a larger *system*.
 
@@ -25,7 +25,7 @@ In its most basic form, data is numbers, words, units of measure, and other conc
 
 If we accept the premise that everything that exists does so within the laws of creation, then we also need to accept that nothing exists that is not in perfect harmony with these laws because if they were not in perfect harmony with the laws they would not exist.  Therefore, everything that can exist does, and everything that cannot exist does not, which implicitly tells us that:
 
-#### **Key 39:** All data is valid.
+#### **Key 51:** All data is valid.
 
 Depending on what theory of reality you prefer, “everything” can mean all of that which exists as this moment, or, if you subscribe to the *Block Theory* of the Universe,  *Special Relativity*, or *Quantum Theory*, “everything” *must* mean everything that every did, does, or will exist.  
 
@@ -69,7 +69,7 @@ In the temporal case, data is produced in the *present*, the *now*.  In the spat
 
 All this was a fairly wide detour to simply say that what *does* exist exists in *here-how*, and what *can* exists exists in *here-when*.  In terms of data, we know we can splice the genes of a human toe into mouse genetics and we’d get a mouse with a human toe growing out of its back, but a back-toed mouse does not exist (hopefully) in *here-now* and therefore is not currently producing data, so a back-toed-mouse *could* exist, but currently does *not* exist.  As there is no *state* of back-toed-mouse, and as data is *stateful* and requires a *state* to exist, no data exists. 
 
-#### **Key 39:** All data is valid, is only created in the present, and is stateful.
+#### **Key 52:** All data is valid, is only created in the present, and is stateful.
 
 What, then, is information? The classic and simplest definition is “*data that we can use to understand something*”, which is just another way of saying “*Information is data that has meaning*”, but we need to first understand what “understand” means before we can understand what “information” means.  What we could say about information here, which we mentioned earlier, is that information must be *stateless* because it consists of data of many *states*, giving it a “memory” of previous states and “knowledge” of their relationships.  So we can at least say that *information* is the relationship between *data*.
 
@@ -86,6 +86,8 @@ In the world of philosophy, this knowledge-as-projection is exemplified in the *
 > A farmer is concerned his prize cow has gotten lost.  A neighbor comes to the farmer and tells him he saw the cow in his field.  Just to double-check,  the farmer visits the neighbor’s field and sees the familiar black and white shape of his cow.  Satisfied, he goes home.  The neighbor also decided to check.  The cow is in the field, but it’s hidden behind some large bushes.  Caught in the bushes, however, is a large sheet of black and white paper.  It is clear that the farmer saw this and thought it was his cow.  The question is then: even though the cow was in the field, was the farmer correct when he said he knew it was there?
 
 This was meant as a criticism of the popular definition of *knowledge* as *justified true belief*, meaning, if you believe something and it is both factually true and verifiable, then that is *knowledge*.  This is a terribly misguided post-modern idea of knowledge, in my humble opinion, because by this definition the dancing-woman-in-the-dots *is* knowledge, as it satisfies all three conditions.  By this definition, *understanding* is vulnerable to subjective perception, which has its own merits, but is worthless, even destructive, when it comes to understanding the objective aspects of the laws of existence.
+
+By the way, this critique also applies to science, because if “Something is real when it is a necessary ingredient of a theory that correctly describes what we observe”, then in the *cow in the field* problem, scientifically speaking, the cow *was* in the field… but, it wasn’t.
 
 Simply *knowing* the details of a situation is not the same as *understanding* them.  We can see this in the countless cases of confusing or challenging situations that demand critical decisions that inevitably fall prey to our conscious or unconscious beliefs, desires, and fears.  We can see this difference even in less dramatic situations, such as knowing all the details about camping, and actually camping, or the difference between the map and the terrain.
 
@@ -121,7 +123,7 @@ In many animals there are *accumulator* or *counting* neurons whose job is to se
 
 Knowing how man bananas there are, or knowing that 5+1 croaks are necessary, is the application of information to some context, such as food or mating, and that is the definition of knowledge.
 
-#### **Key 40:** Knowledge is the application of relevant information to a context.
+#### **Key 53:** Knowledge is the application of relevant information to a context.
 
 Imagine how humans might count if/when our neurology is far more evolved and interconnected.  Will numbers seem quaint?   Will we one day be able to process information in an analog fashion rather than with discrete digits?  Nature is analog (or at least appears so), and analog systems solve problems as fast as physics allow.  Perhaps one day numbers will no longer be necessary.
 
@@ -129,13 +131,13 @@ Reality, as we know it, depends on the context of not only what is happening, bu
 
 So, let’s modify the meaning of understanding to the following claim:
 
-#### **Key 40:** Understanding is the knowledge of something sufficient enough to be able to make verifiably accurate statements regarding said thing within the context of its current application.
+#### **Key 54:** Understanding is the knowledge of something sufficient enough to be able to make verifiably accurate statements regarding said thing within the context of its current application.
 
 With this definition, Bob, Carol, Ted and Alice can all make statements based on their understanding, but none of them are verifiable unless we know why the question was asked.  If the point was to see if they had reasoning abilities, they are all right, and so was the little girl, according to their relative reasoning abilities, and the specific question itself is irrelevant as any number of questions could be asked to get the same results.  If the point of the question was to try and recover the last digit of a telephone number, there’s a 10% chance any one answer is correct, including the little girl’s answer, and the question was still meaningless.
 
 We can now answer the question “How do we define *information*?” If we accept that all data is valid and is therefore *information* that is merely undiscovered due to our limited understanding of its relevance to context, *information* now can be defined as the following claim:
 
-#### **Key 41:** Information is relevant data that we know how, when and where to apply given our understanding of the applicable context.
+#### **Key 55:** Information is relevant data that we know how, when and where to apply given our understanding of the applicable context.
 
 
 In short, information is *relevant data*.
@@ -144,7 +146,7 @@ In short, information is *relevant data*.
 
 Data, being an abstract byproduct of everything, is, by itself, meaningless, just as the existence of matter is, by itself, meaningless.  Data alone is the conceptual equivalent of chaos.  It creates nothing, has no energy, meaning, direction, form or pattern.
 
-#### **Key 42:** Data alone is chaos.
+#### **Key 56:** Data alone is chaos.
 
 Information, at least one form of it, is when we can find patterns or laws in the chaos of data, or when we can apply data to an existing pattern or law.  We can go so far as to say *information* is the result of energy being applied to data.
 
@@ -200,7 +202,7 @@ He warned that the senses give us false information as they only sense the illus
 
 In other words, nothing can come from nothing.  The tholonic model, as will be explained in painful detail, is exactly the opposite: everything comes from nothing.  Ironically, the tholonic model uses many of the same arguments and reasoning as Parmenides.
 
-#### **Key 43:** All information is hierarchical.
+#### **Key 57:** All information is hierarchical.
 
 Needless to say, there has been a lot of discussing, researching, and testing over the past thousands of years on the best way to organize “that which is”.
 
@@ -221,7 +223,7 @@ The most fundamental properties of a holons are:
 
 - Holons, or archetypes, are interdependent on one another, as well as independent.
 
-#### **Key 44:** The structure of information is fractal (self-similar and redundant)
+#### **Key 58:** The structure of information is fractal (self-similar and redundant)
 
 The holarchy is meant to be a map of all the concepts of archetypes we have collected and it attempts to organize these concepts in a hierarchical fashion where each parton is a child of a holon.  Here we apply our concept of a scope as each parent has properties that the child inherits, i.e, within the holon of *person,* you will only find *person* things and not *planet* things.  Each holon then has a unique scope, and this scope is what defines the spectrum of possibilities for the partons of that holon. Now that we have a scope, we can also apply the Bell curve of probability for any particular holon.  
 
@@ -284,3 +286,4 @@ These Bell curves of probability are not shown, or even defined, in the holarchi
 What happens if we incorporate the idea of dualities into the holarchy?  Let’s see, but first let’s look at some important concepts behind *structure*.
 
 <hr>
+

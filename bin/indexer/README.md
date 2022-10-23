@@ -19,7 +19,7 @@ Process:
   - `-n` new version
   - `-f` full publish (defaults to test-publish)
 
-**Build index**‘’“”
+**Build index**
 
 - notes:
 

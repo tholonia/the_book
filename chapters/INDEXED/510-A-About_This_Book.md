@@ -12,7 +12,7 @@ For those readers who are sticklers about writing style conventions in the U.S.,
 
 ## Low-Tech Issues
 
-<img src="../Images/colorwheelchart.png" style="float:right;width:50%;"/>My apologies for the sometimes crude layout of the book in general. Once-upon-a-time I was myself a young typographer back in the days when the job often included the re-melting of lead “pigs” that were used to set the type using the Linotype machines of the day. Today, that drudgery has been replaced with endlessly tweaking semi-compatible markup languages such as Markdown, LaTex, PDF, HTML, CSS, and JavaScript (I was much better at melting “pigs”).
+<img src="../Images/colorwheelchart.png" style="float:right;width:50%;"/>My apologies for the sometimes crude layout of the book in general. Once-upon-a-time I was myself a young typographer back in the days when the job often included the re-melting of xlead “pigs” that were used to set the type using the Linotype machines of the day. Today, that drudgery has been replaced with endlessly tweaking semi-compatible markup languages such as Markdown, LaTex, PDF, HTML, CSS, and JavaScript (I was much better at melting “pigs”).
 
 One of the challenges was how to get color images to appear meaningful in black and white e-book readers.  In some cases it was not possible, especially considering various e-book readers use various schemes to deal with colors.  
 

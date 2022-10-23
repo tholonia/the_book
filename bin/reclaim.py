@@ -3,11 +3,15 @@
 
 import publish_lib as pl
 import re
+import os
 
+os.chdir("/home/jw/books/tholonia/chapters/INDEXED/")
 chapters = pl.chapters
+
+
 idx = 1
 for chapter in chapters:
-    fname = f'/home/jw/books/tholonia/chapters/{chapter}.md'
+    fname = f'{chapter}.md'
     # print("-------------------------------------------------")
     print(f"{fname}")
     # print("-------------------------------------------------")

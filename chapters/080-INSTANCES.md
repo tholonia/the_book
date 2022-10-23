@@ -122,7 +122,7 @@ Some of these amalgamations of archetypes will become archetypes and parents of 
 
 So, when you see something that looks imperfect, think of it as perfect, it’s just that you are not aware of all the archetypal forces that are making it the way it is.
 
-#### **Key 53:** Everything that exists *must* be perfect.
+#### **Key 66:** Everything that exists *must* be perfect.
 
 
 ## Examples of instances

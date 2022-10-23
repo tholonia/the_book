@@ -17,7 +17,7 @@ The same <u>patterns</u> that we see in the world around us we can find in the <
 
 To begin to answer that, we can deduce that there is no <u>data</u> in the void of nothingness.  <u>Data</u> can only exist within a <u>duality</u>, which implies that there is <u>energy</u>, which implies <u>oscillation</u> within finite boundaries in accordance with specific <u>laws</u> of existence.  So, what is the difference between <u>data</u> and <u>existence</u> itself? 
 
-#### **Key 38:** <u>Data</u> is the static byproduct of the <u>movement</u> of energy.
+#### **Key 50:** <u>Data</u> is the static byproduct of the <u>movement</u> of energy.
 
 <u>Data</u> is static because all <u>data</u> is *<u>stateful</u>*, which means <u>data</u> has no dependence on, or relationship to, anything in the past.  The process that generates the <u>data</u> may have such dependencies or relationships, which would make it a *<u>stateless</u>* process, but the <u>data</u> produced can only represent the *state* of a system and any given moment.  Flipping a coin is *<u>stateful</u>*, as there is a 50/50 chance it will be heads or tails regardless of the result of the last 100 flips, but the odds of flipping 101 heads is a row is about 4&times;10<sup>-31</sup> because all the *states* of the 101 flips are seen as a larger *system*.
 
@@ -25,13 +25,13 @@ In its most basic form, <u>data</u> is <u>numbers</u>, words, units of measure, 
 
 If we accept the premise that everything that exists does so within the <u>laws</u> of creation, then we also need to accept that nothing exists that is not in perfect harmony with these <u>laws</u> because if they were not in perfect harmony with the <u>laws</u> they would not exist.  Therefore, everything that can exist does, and everything that cannot exist does not, which implicitly tells us that:
 
-#### **Key 39:** All <u>data</u> is valid.
+#### **Key 51:** All <u>data</u> is valid.
 
 Depending on what theory of <u>reality</u> you prefer, “everything” can mean all of that which exists as this moment, or, if you subscribe to the *<u>Block Theory</u>* of the <u>Universe</u>,  *Special Relativity*, or *Quantum Theory*, “everything” *must* mean everything that every did, does, or will exist.  
 
 The <u>tholonic</u> view is much simpler; if <u>data</u> is a by-product of <u>existence</u>, than something only exists if it is producing <u>data</u>, regardless of whether anyone or anything can detect that data.
 
-This view suggests that everything that ever did, is, or will exist currently exist somewhere in the grand scheme of <u>reality</u>, but in our corner of <u>reality</u>, the <u>existence</u> of that which *is* depends wholly on something’s ability to observe it.  This is true not just on a practical level, as we can’t say something exists if we have no <u>awareness</u> of that thing, but also on a technical level if there is any <u>truth</u> to the *Copenhagen interpretation of <u>quantum mechanics</u>* that the act of observation, of becoming aware of the <u>data</u> of an <u>existence</u>, is what causes the <u>wave</u> functions of quantum probability, i.e., <u>archetypes</u>, to “collapse” into material form.  We say that <u>awareness</u> causes these quantum <u>archetypes</u> to instantiate as matter, but it may also be the case that <u>archetypes</u> collapsing into matter causes <u>awareness</u>, suggesting <u>awareness</u> came into <u>existence</u> when the first instance came into <u>existence</u>, thereby making <u>awareness</u> a universal property, at least according to Roger Penrose, the mathematical physicist considered to be “the most important physicist to <u>work</u> in relativity theory except for <u>Einstein</u>”[^395].
+This view suggests that everything that ever did, is, or will exist currently exist somewhere in the grand scheme of <u>reality</u>, but in our corner of <u>reality</u>, the <u>existence</u> of that which *is* depends wholly on something’s ability to observe it.  This is true not just on a practical level, as we can’t say something exists if we have no <u>awareness</u> of that thing, but also on a technical level if there is any <u>truth</u> to the *Copenhagen interpretation of <u>quantum mechanics</u>* that the act of observation, of becoming aware of the <u>data</u> of an <u>existence</u>, is what causes the <u>wave</u> functions of quantum probability, i.e., <u>archetypes</u>, to “collapse” into material form.  We say that <u>awareness</u> causes these quantum <u>archetypes</u> to instantiate as matter, but it may also be the case that <u>archetypes</u> collapsing into matter causes <u>awareness</u>, suggesting <u>awareness</u> came into <u>existence</u> when the first instance came into <u>existence</u>, thereby making <u>awareness</u> a universal property, at least according to Roger <u>Penrose</u>, the mathematical physicist considered to be “the most important physicist to <u>work</u> in relativity theory except for <u>Einstein</u>”[^395].
 
 [^395]:Lee Smolin, a theoretical physicist and  founder of *Perimeter Institute*, and one of the most innovative theoretical physicists in the world, refers to Roger Penrose as someone who “is the most important physicist to work in relativity theory except for Einstein. He is one of the very few people I’ve met in my life who, without reservation, I call a genius.” 
 
@@ -69,7 +69,7 @@ In the temporal case, <u>data</u> is produced in the *present*, the *now*.  In t
 
 All this was a fairly wide detour to simply say that what *does* exist exists in *here-how*, and what *can* exists exists in *here-when*.  In terms of <u>data</u>, we know we can splice the genes of a human toe into mouse genetics and we’d get a mouse with a human toe growing out of its back, but a back-toed mouse does not exist (hopefully) in *here-now* and therefore is not currently producing <u>data</u>, so a back-toed-mouse *could* exist, but currently does *not* exist.  As there is no *state* of back-toed-mouse, and as <u>data</u> is *<u>stateful</u>* and requires a *state* to exist, no <u>data</u> exists. 
 
-#### **Key 39:** All <u>data</u> is valid, is only created in the present, and is stateful.
+#### **Key 52:** All <u>data</u> is valid, is only created in the present, and is stateful.
 
 What, then, is <u>information</u>? The classic and simplest definition is “*<u>data</u> that we can use to understand something*”, which is just another way of saying “*<u>Information</u> is <u>data</u> that has meaning*”, but we need to first understand what “understand” means before we can understand what “<u>information</u>” means.  What we could say about <u>information</u> here, which we mentioned earlier, is that <u>information</u> must be *<u>stateless</u>* because it consists of <u>data</u> of many *states*, giving it a “<u>memory</u>” of previous states and “<u>knowledge</u>” of their relationships.  So we can at least say that *<u>information</u>* is the relationship between *<u>data</u>*.
 
@@ -86,6 +86,8 @@ In the world of philosophy, this knowledge-as-projection is exemplified in the *
 > A farmer is concerned his prize cow has gotten lost.  A neighbor comes to the farmer and tells him he saw the cow in his field.  Just to double-check,  the farmer visits the neighbor’s <u>field</u> and sees the familiar black and white shape of his cow.  Satisfied, he goes home.  The neighbor also decided to check.  The cow is in the <u>field</u>, but it’s hidden behind some large bushes.  Caught in the bushes, however, is a large sheet of black and white paper.  It is clear that the farmer saw this and thought it was his cow.  The question is then: even though the cow was in the <u>field</u>, was the farmer correct when he said he knew it was there?
 
 This was meant as a criticism of the popular definition of *<u>knowledge</u>* as *justified true belief*, meaning, if you believe something and it is both factually true and verifiable, then that is *<u>knowledge</u>*.  This is a terribly misguided post-modern idea of <u>knowledge</u>, in my humble opinion, because by this definition the dancing-woman-in-the-dots *is* <u>knowledge</u>, as it satisfies all three conditions.  By this definition, *<u>understanding</u>* is vulnerable to subjective perception, which has its own merits, but is worthless, even destructive, when it comes to <u>understanding</u> the objective aspects of the <u>laws</u> of existence.
+
+By the way, this critique also applies to <u>science</u>, because if “<u>Something is real when it</u> is a necessary ingredient of a theory that correctly describes what we observe”, then in the *cow in the <u>field</u>* problem, scientifically speaking, the cow *was* in the field… but, it wasn’t.
 
 Simply *knowing* the details of a situation is not the same as *<u>understanding</u>* them.  We can see this in the countless cases of confusing or challenging situations that demand critical decisions that inevitably fall prey to our conscious or unconscious beliefs, desires, and fears.  We can see this difference even in less dramatic situations, such as knowing all the details about camping, and actually camping, or the difference between the map and the terrain.
 
@@ -121,7 +123,7 @@ In many animals there are *accumulator* or *counting* <u>neurons</u> whose job i
 
 Knowing how man bananas there are, or knowing that 5+1 croaks are necessary, is the application of <u>information</u> to some context, such as food or mating, and that is the definition of knowledge.
 
-#### **Key 40:** <u>Knowledge</u> is the application of relevant <u>information</u> to a context.
+#### **Key 53:** <u>Knowledge</u> is the application of relevant <u>information</u> to a context.
 
 Imagine how <u>humans</u> might count if/when our <u>neurology</u> is far more evolved and interconnected.  Will <u>numbers</u> seem quaint?   Will we one day be able to process <u>information</u> in an analog fashion rather than with discrete digits?  <u>Nature</u> is analog (or at least appears so), and analog systems solve problems as fast as <u>physics</u> allow.  Perhaps one day <u>numbers</u> will no longer be necessary.
 
@@ -129,13 +131,13 @@ Imagine how <u>humans</u> might count if/when our <u>neurology</u> is far more e
 
 So, let’s modify the meaning of <u>understanding</u> to the following claim:
 
-#### **Key 40:** <u>Understanding</u> is the <u>knowledge</u> of something sufficient enough to be able to make verifiably accurate <u>statements regarding said</u> thing within the context of its current application.
+#### **Key 54:** <u>Understanding</u> is the <u>knowledge</u> of something sufficient enough to be able to make verifiably accurate <u>statements regarding said</u> thing within the context of its current application.
 
 With this definition, Bob, Carol, Ted and Alice can all make statements based on their <u>understanding</u>, but none of them are verifiable unless we know why the question was asked.  If the point was to see if they had reasoning abilities, they are all right, and so was the little girl, according to their relative reasoning abilities, and the specific question itself is irrelevant as any <u>number</u> of questions could be asked to get the same results.  If the point of the question was to try and recover the last digit of a telephone <u>number</u>, there’s a 10% chance any one answer is correct, including the little girl’s answer, and the question was still meaningless.
 
 We can now answer the question “How do we define *<u>information</u>*?” If we accept that all <u>data</u> is valid and is therefore *<u>information</u>* that is merely undiscovered due to our limited <u>understanding</u> of its relevance to context, *<u>information</u>* now can be defined as the following claim:
 
-#### **Key 41:** <u>Information</u> is relevant <u>data</u> that we know how, when and where to apply given our <u>understanding</u> of the applicable context.
+#### **Key 55:** <u>Information</u> is relevant <u>data</u> that we know how, when and where to apply given our <u>understanding</u> of the applicable context.
 
 
 In short, <u>information</u> is *relevant <u>data</u>*.
@@ -144,7 +146,7 @@ In short, <u>information</u> is *relevant <u>data</u>*.
 
 <u>Data</u>, being an abstract byproduct of everything, is, by itself, meaningless, just as the <u>existence</u> of matter is, by itself, meaningless.  <u>Data</u> alone is the <u>conceptual</u> equivalent of chaos.  It creates nothing, has no <u>energy</u>, meaning, direction, form or pattern.
 
-#### **Key 42:** <u>Data</u> alone is chaos.
+#### **Key 56:** <u>Data</u> alone is chaos.
 
 <u>Information</u>, at least one form of it, is when we can find <u>patterns</u> or <u>laws</u> in the <u>chaos</u> of <u>data</u>, or when we can apply <u>data</u> to an existing <u>pattern</u> or law.  We can go so far as to say *<u>information</u>* is the result of <u>energy</u> being applied to data.
 
@@ -200,7 +202,7 @@ He warned that the senses give us false <u>information</u> as they only sense th
 
 In other words, nothing can come from nothing.  The <u>tholonic</u> model, as will be explained in painful detail, is exactly the opposite: everything comes from nothing.  Ironically, the <u>tholonic</u> model uses many of the same arguments and reasoning as Parmenides.
 
-#### **Key 43:** All <u>information</u> is hierarchical.
+#### **Key 57:** All <u>information</u> is hierarchical.
 
 Needless to say, there has been a lot of discussing, researching, and testing over the past thousands of years on the best way to organize “that which is”.
 
@@ -221,7 +223,7 @@ The most fundamental properties of a holons are:
 
 - Holons, or <u>archetypes</u>, are interdependent on one another, as well as independent.
 
-#### **Key 44:** The <u>structure</u> of <u>information</u> is <u>fractal</u> (self-similar and redundant)
+#### **Key 58:** The <u>structure</u> of <u>information</u> is <u>fractal</u> (self-similar and redundant)
 
 The <u>holarchy</u> is meant to be a map of all the <u>concepts</u> of <u>archetypes</u> we have collected and it attempts to organize these <u>concepts</u> in a <u>hierarchical</u> fashion where each <u>parton</u> is a child of a holon.  Here we apply our <u>concept</u> of a <u>scope</u> as each parent has properties that the child inherits, i.e, within the holon of *person,* you will only find *person* things and not *<u>planet</u>* things.  Each holon then has a unique <u>scope</u>, and this <u>scope</u> is what defines the spectrum of possibilities for the <u>partons</u> of that holon. Now that we have a <u>scope</u>, we can also apply the <u>Bell curve</u> of probability for any particular holon.  
 
@@ -237,7 +239,7 @@ Some readers may be thinking “Hey, wait a minute” those aren’t the same ax
 
 If we assume that our perceptions of <u>reality</u> are fairly compatible with <u>reality</u> as it actually exists (with all due respect to <u>Parmenides</u>) , then, as probability would have it, we <u>humans</u> happen to be in the part of the spectrum where one would most expect to find <u>life</u> popping up, so, congratulations to us, we’re where we are supposed to be&hellip; probably.
 
-Because the peak of the curve represents where the most “<u>work</u>” will be done (given the two poles that define the limits of the curve), it is also where <u>energy</u> will most likely be able to form <u>sustainable</u> patterns.  The peak of the curve also represents the most efficient expression of a holon’s purpose and function.  If we were <u>electrons</u> instead of <u>humans</u>, our archetypal holon would have the <u>electron</u> in the center, because, as the <u>electron</u> *does* exist, it would naturally occupy that point where its <u>existence</u> is most likely in the peak of the curve for the <u>electron</u> holon.  However, because <u>life</u> forms will tend to exist in the peak of the curve that spans from <u>quark</u> to <u>multiverse</u>, perhaps we can speculate that <u>life</u> itself, and the <u>consciousness</u> that evolved from <u>life</u>, to be a very efficient expression of energy.  This is not to say that there are no other forms of <u>life</u> that may excel in this regard, especially where radically different contexts may apply, but if there are other forms of <u>life</u> in our corner of the <u>universe</u>, they will most likely appear within the same range of the curve.  More then appearing in the same area of the curve, they will probably appear similar to earthly <u>life</u> forms.  If the <u>aliens</u> ever land a UFO in Central Park, we will all be surprised, and a bit disappointed I suspect, when what emerges looks like a customer service representative from Best Buy or otherwise unimpressively human.  At least that is the opinion of an University of Edinburgh's Astrobiology professor Charles S. Cockell, as he spells out in his book *The Equations of Life: How <u>Physics</u> Shapes <u>Evolution</u>*.  However, by his same reasoning, there is a good chance it could look like some of our own highly successful <u>life</u> forms, such as lice, crocodiles, duck-billed platypuses, horseshoe crabs, immortal jellyfish, or the highly intelligent octopus, to name a few.
+Because the peak of the curve represents where the most “<u>work</u>” will be done (given the two poles that define the limits of the curve), it is also where <u>energy</u> will most likely be able to form <u>sustainable</u> patterns.  The peak of the curve also represents the most efficient expression of a holon’s purpose and function.  If we were <u>electrons</u> instead of <u>humans</u>, our archetypal holon would have the <u>electron</u> in the center, because, as the <u>electron</u> *does* exist, it would naturally occupy that point where its <u>existence</u> is most likely in the peak of the curve for the <u>electron</u> holon.  However, because <u>life</u> forms will tend to exist in the peak of the curve that spans from <u>quark</u> to <u>multiverse</u>, perhaps we can speculate that <u>life</u> itself, and the <u>consciousness</u> that evolved from <u>life</u>, to be a very efficient expression of energy.  This is not to say that there are no other forms of <u>life</u> that may excel in this regard, especially where radically different contexts may apply, but if there are other forms of <u>life</u> in our corner of the <u>Universe</u>, they will most likely appear within the same range of the curve.  More then appearing in the same area of the curve, they will probably appear similar to earthly <u>life</u> forms.  If the <u>aliens</u> ever land a UFO in Central Park, we will all be surprised, and a bit disappointed I suspect, when what emerges looks like a customer service representative from Best Buy or otherwise unimpressively human.  At least that is the opinion of an University of Edinburgh's Astrobiology professor Charles S. Cockell, as he spells out in his book *The Equations of Life: How <u>Physics</u> Shapes <u>Evolution</u>*.  However, by his same reasoning, there is a good chance it could look like some of our own highly successful <u>life</u> forms, such as lice, crocodiles, duck-billed platypuses, horseshoe crabs, immortal jellyfish, or the highly intelligent octopus, to name a few.
 
 <center><img src='../Images/aliens.png' style='width:100%'/></center>
 
@@ -284,3 +286,4 @@ These Bell curves of probability are not shown, or even defined, in the holarchi
 What happens if we incorporate the idea of dualities into the <u>holarchy</u>?  Let’s see, but first let’s look at some important <u>concepts</u> behind *<u>structure</u>*.
 
 <hr>
+

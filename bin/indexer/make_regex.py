@@ -264,7 +264,10 @@ if listwords:
     difs = list(set(tagged_words) - set(expary))
     # print(Fore.RED,expary)
     # print(Fore.BLUE,tagged_words)
-    print(Fore.MAGENTA,difs)
+    print(Fore.MAGENTA)
+
+    for d in difs:
+        print(f"ins --header NA --word '{d}'")
     print(Fore.RESET)
 
 

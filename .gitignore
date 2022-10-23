@@ -124,7 +124,7 @@ Styles/epub_dev_header.css
 Styles/epub_prod.css
 Styles/epub_prod_header.css
 Styles/tholonia.epub3
-bak
+*.bak
 chapters/THOLONIA_THE_BOOK*
 
 Images/publish

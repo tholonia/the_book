@@ -117,7 +117,7 @@ The E8 crystal of *quantum symmetry* and *emergence theory* hypothesize that all
 
 It might sound like this is mixing apples and multidimensional oranges, using definitions from *emergence theory* on one side of the scale, and definitions from *quantum symmetry* on the other side, but both of these theories integrate quantum mechanics, general and special relativity, the standard model and other mainstream physics theories to form a complete, fundamental picture of a universe unfolding from implicity to explicity.  The main difference between these two models is that the *E8 Crystal* describes the mechanics of creation, while the *emergence theory* attempts to describe the syntax of its operation using the language of geometry.
 
-#### **Key 45:** Geometry and mathematics are the language of archetypes.
+#### **Key 59:** Geometry and mathematics are the language of archetypes.
 
 Here we have a duality that encompasses the entire spectrum of 3D reality, at least.  On one end, the *alphahedron*, which is the smallest structure theoretically possible, that being the tetrahedron, and on the other end, the *omegahedron*, the most complex structure in existence, which currently seems to be the 248D-ish magic crystal.
 
@@ -125,9 +125,9 @@ Here we have a duality that encompasses the entire spectrum of 3D reality, at le
 
 Now we can begin to integrate dualities into the holarchy.
 
-#### **Key 46:** Just as subatomic particles are structured energy, atoms are structured particles, and molecules are structured atoms, information is structured data, knowledge is structured information, and ideas are structured knowledge.
+#### **Key 60:** Just as subatomic particles are structured energy, atoms are structured particles, and molecules are structured atoms, information is structured data, knowledge is structured information, and ideas are structured knowledge.
 
-#### **Key 47:** The concept of a thing and the thing itself are the same things on two different levels of order.
+#### **Key 61:** The concept of a thing and the thing itself are the same things on two different levels of order.
 
 Both scopes of matter and ideas represent how a form of pure energy in its chaotic state is converted into order using the same laws as they apply to the relevant contexts of their scope.  In one case,  energy is ordered and expressed as matter and in the latter case as concepts.  This is how it relates to holarchies, as holarchies can map not only the naturally occurring hierarchy of the concepts of *reality* (atoms, plants, people, etc.) but also the concept of *concepts* (domains of science, religions, culture, etc.).
 
@@ -376,7 +376,7 @@ If our premise is that the smallest element of knowledge must conform to the sam
 
 Our revised model of hierarchical tetrahedrons will surely look and act differently than a holarchy.  To avoid confusion, we’ll refer to these *tetrahedron holons* as *tholons* (for obvious reasons), and the holarchy of tholons as the *thologram*.
 
-#### **Key 49:** Every tholon is an archetype.
+#### **Key 62:** Every tholon is an archetype.
 
 We are working from the premise that everything that exists is a product of a stable pattern existing between different states.  The simplest concept of such a duality is that of *something* and *nothing*. Not much can be said about *nothing*, but as for *something,* we don’t need to imagine something that represents everything at once, which is not only beyond our ability, but as everything has yet to come into existence (or if it has, it has not yet come into our context), it is impossible.  On the contrary, we only need to imagine the simplest form of something, for example, a singular dot.  A simple dot on a blank page is a diagram of the model on which this reality, and all knowledge, is based.  This single dot is often called the *singularity*.  In the cosmological sense, the singularity is 
 
@@ -416,11 +416,11 @@ If we accept the premise that everything that is created has the attributes of, 
 
 There is one more, far less obvious attribute to consider as well, and that is *intention*, because the awareness that conceived of a point in nothingness had to have the intention to conceive of it.  So, our point in the middle of infinite nothingness has two attributes; Awareness and Intention.  The nature of that intention is addressed further on.
 
-#### **Key 50:**  Awareness and Intention (A&I) is the source of existence.
+#### **Key 63:**  Awareness and Intention (A&I) is the source of existence.
 
-We see this same concept, that of creation being the result of A&I, in the spiritual texts of every major belief system.  For example, in Jewish, Christian, and Islamic lore[^356], when God spoke to Moses, God was quite specific about its name and not only told Moses its name was “I Am (Who/Which/That) I Am” (<img src='../Images/iamthatiam.png' style='height:10px'/>) but also informed Moses that the voice he was hearing was but a messenger of “I AM” (<img src='../Images/iam.png' style='height:10px'/>), a messenger of the most fundamental form of Awareness.  
+We see this same concept, that of creation being the result of A&I, in the spiritual texts of every major belief system.  For example, in Jewish, Christian, and Islamic lore[^356], when God spoke to Moses, God was quite specific about its name and not only told Moses its name was “I Am (Who/Which/That) I Am” (<img src='../Images/iamthatiam.png' style='height:10px'/>) but also informed Moses that the voice he was hearing was (or was sent by) “I AM” (<img src='../Images/yhvh.png' style='height:10px'/>), the most fundamental form of Awareness.  
 
-[^356]: Genesis 3.14 “And God said to Moses, ‘Ehyeh-Asher-Ehyeh,” *(‘Ehyeh-Asher-Ehyeh’ Meaning of Heb. uncertain; variously translated: “I Am That I Am”; “I Am Who I Am”; “I Will Be What I Will Be”; etc.)* ‘Thus shall you say to the Israelites, ‘Ehyeh’ *(‘Ehyeh’ meaning “I Am” or “I Will Be.”)* “sent me to you.’”, <img src='../Images/quote.png' style='height:15px'/>
+[^356]: Genesis 3.14 “And God said to Moses, ‘Ehyeh-Asher-Ehyeh,” *(‘Ehyeh-Asher-Ehyeh’ Meaning of Heb. uncertain; variously translated: “I Am That I Am”; “I Am Who I Am”; “I Will Be What I Will Be”; etc.)* ‘Thus shall you say to the Israelites, ‘Ehyeh *(“Ehyeh” meaning “I Am” or “I Will Be.”)* sent me to you.’”, <img src='../Images/quote.png' style='height:15px'/>
 
 Buddhists appear to have cut out the middle-man (or perhaps “middle-god”) as they do not have the concept of a divine being, but they do have the concept of a primal awareness, as suggested in the Buddhist proverb: *A person asked Buddha: Are you a God? Buddha's reply was No. Are you an Angel? No. Then what are you? I am awake.*  
 
@@ -556,7 +556,7 @@ The order of the laws assigned by Newton shows the concept of *balancing* (verb)
 
 3. *Force equals mass times acceleration (Force, Newton’s 2<sup>nd</sup> law)*
 
-#### **Key 51:** Relationships define the function and purpose of any instance
+#### **Key 64:** Relationships define the function and purpose of any instance
 
 <img src='../Images/tatom_desc.png' style='float:right;width:40%'/>Now that we have mapped the three properties of N, D, and C onto a trigram we can see and label a new class of attributes that are the result of these properties interacting with each other.  For example, what we would expect to see across the spectrums?
 
@@ -568,7 +568,7 @@ This trigram of relationships are present in every instance of creation and will
 
 [^75]: Adam Smith, "An Inquiry into the Nature and Causes of the Wealth of Nations", 1776, London
 
-#### **Key 52:** Stable patterns/instances form dynamic relationships/movement of energy which form stable patterns/instances.
+#### **Key 65:** Stable patterns/instances form dynamic relationships/movement of energy which form stable patterns/instances.
 
 
 ### Simple Instance

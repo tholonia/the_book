@@ -35,7 +35,7 @@ The tholonic position is simply that some patterns are more stable and efficient
 
 Even in the world of bacterial meandering, we see a pattern.  Not surprisingly, it is the inverse of a Bell curve, in that a group of bacteria released at the same time starts out relatively coherent and eventually disperses to incoherence.  It’s almost (or exactly) as if the instances of creations emerge from a tholon’s Bell curve in a manner inverse to that Bell curve, like a kind of balancing factor, much like the way a positive charge will automatically create a pairing with a negative charge, or how the amount of water that falls to the earth (rain) is equivalent to the amount of water that rises into the sky (evaporation) from the earth.  States of order create states of chaos, which create new states of order.
 
-#### **Key 66:** Archetypes tend toward order, while the instances tend toward chaos.
+#### **Key 79:** Archetypes tend toward order, while the instances tend toward chaos.
 
 
 In the early generations of the thologram, the numbers of paths are limited, and with the additional generations, the number of paths increase.  This movement may appear random, but not only does it disperse according to a Bell curve, it actually follows the same rules as the thologram itself in that it is self-similar and fractal in nature.[^179]

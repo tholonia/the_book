@@ -17,7 +17,7 @@ Keywords:
 
 <center><img src='../Images/honeycomb.png' style='width:100%'/></center>
 
-Everything up until now was to introduce some of the main <u>concepts</u> that we will be returning to and depending on as we move forward an into the main <u>ideas</u> that lead from the ultimate simplicity of a <u>duality</u> to more complex <u>structures</u> that describe the <u>reality</u> we actually live in.
+Everything up until now was to introduce some of the main <u>concepts</u> that we will be returning to and depending on as we move forward an into the main <u>ideas</u> that led from the ultimate simplicity of a <u>duality</u> to more complex <u>structures</u> that describe the <u>reality</u> we actually live in.
 
 On a practical level, this <u>complexity</u> is no different than how we deal with the physical world in our every-day lives.  When you hold a brick in your hand you are holding trillions of <u>atomic</u> particles, with countless interactions, <u>fields</u>, <u>energy</u> levels, etc., but you don’t need to know that to build a house of bricks.  When you drop the brick and it falls, you’re not thinking about the <u>nature</u> of time, <u>gravity</u>, and warped space.  Likewise, to manage the “bricks” in the realm of <u>Ideas</u>, you also don’t need to know all of the details, but it is helpful if you have an <u>understanding</u> of how they generally interact with each other so you don’t try and build a “house” made of “bricks” and “oranges”.
 
@@ -72,7 +72,7 @@ The <u>quark</u> remains the undefeated champion of tinyness, but “almost” i
 
 ## On the Big Side
 
-Jumping to the other end of the scale we have some pretty big things in the <u>universe</u>, the largest we know of being the *Hercules-Corona Borealis Great Wall.* This is a gravitationally bound galactic supercluster about 10 billion light-years wide.  That is pretty, pretty big.  What could be bigger than that? How about something with 4 dimensions? Would an extra dimension increase the size of something? Well, is a 2&times;2&times;2 cube bigger than a 2&times;2 sheet of paper, and is a 2&times;2&times;2&times;2 hyper-cube bigger that a 2&times;2&times;2 cube? What would a 2&times;2&times;2&times;2 cube look like? In the 3D world, from one perspective it would look like a regular cube, because we can only see 3 of the 4 dimensions, but turn it a little (in 4D space) and the 4D cube will appear as two 3D cubes, or a hexagonal prism, or rhombic dodecahedron, or a cuboid.
+Jumping to the other end of the scale we have some pretty big things in the <u>Universe</u>, the largest we know of being the *Hercules-Corona Borealis Great Wall.* This is a gravitationally bound galactic supercluster about 10 billion light-years wide.  That is pretty, pretty big.  What could be bigger than that? How about something with 4 dimensions? Would an extra dimension increase the size of something? Well, is a 2&times;2&times;2 cube bigger than a 2&times;2 sheet of paper, and is a 2&times;2&times;2&times;2 hyper-cube bigger that a 2&times;2&times;2 cube? What would a 2&times;2&times;2&times;2 cube look like? In the 3D world, from one perspective it would look like a regular cube, because we can only see 3 of the 4 dimensions, but turn it a little (in 4D space) and the 4D cube will appear as two 3D cubes, or a hexagonal prism, or rhombic dodecahedron, or a cuboid.
 
 Here is what a hyper-cube (4D cube) looks like when it is rotated and projected onto a 2D space, like a shadow (orthographic projection).
 
@@ -82,7 +82,7 @@ What about something that is 5D, or 6D or 7D? Each one would be bigger by an <u>
 
 ## <u>Crystal</u> Power
 
-So, there’s this magic 248-dimensional <u>crystal</u> (actually, it’s 8 dimensional with 248 not-necessarily-spatial, but not *not*-necessarily-spatial, dimensional symmetries, but as an algebraic expression it is considered to have 248 dimensions&hellip; at least that is what <u>I am</u> told[^320]) called the *E8 <u>crystal</u>*, and this <u>reality</u> of ours is, presumably, the result of a <u>number</u> of 3D refractions of <u>energy</u> created by the various facets of this <u>crystal</u> that are cast upon the 3D canvas of the void that is our <u>universe</u> from the higher dimensions of magic-crystal-land.  As modern as this sounds, this was first proposed in the late 1800s, but it has only been recently that we have the computing power to give it a test drive.  This sounds pretty compatible with the <u>Simulation</u> Hypothesis.  Maybe these two theories should get together for coffee sometime.
+So, there’s this magic 248-dimensional <u>crystal</u> (actually, it’s 8 dimensional with 248 not-necessarily-spatial, but not *not*-necessarily-spatial, dimensional symmetries, but as an algebraic expression it is considered to have 248 dimensions&hellip; at least that is what <u>I am</u> told[^320]) called the *E8 <u>crystal</u>*, and this <u>reality</u> of ours is, presumably, the result of a <u>number</u> of 3D refractions of <u>energy</u> created by the various facets of this <u>crystal</u> that are cast upon the 3D canvas of the void that is our <u>Universe</u> from the higher dimensions of magic-crystal-land.  As modern as this sounds, this was first proposed in the late 1800s, but it has only been recently that we have the computing power to give it a test drive.  This sounds pretty compatible with the <u>Simulation</u> Hypothesis.  Maybe these two theories should get together for coffee sometime.
 
 [^320]: Interestingly, there is a relatively unknown young man, Matias De Stefano,  who was born in 1987 in a small town outside of Buenos Aries, Argentina, where he still lives, and who claims that not only was he born with full memory of his existence prior to being born, but that his "job" in his pre-incarnate reality was that of an "information specialist" or "librarian" of sorts, collecting, managing and disseminating information from all realities and dimensions.  He claims he has returned to earth to finish a mission he began thousands of years ago but failed to complete. Whether one believes his claims or not, it is hard not to be impressed with his detailed, clear, rational, and somewhat technical explanation regarding the structure and nature of reality.  He is mentioned here because, coincidentally, he explains: *"The 8th dimension is where you can see everything from one spot. The 8th dimension has the information of everything,  of every second over millions of years, from every perspective of the universe".*  For what it's worth, he also says each dimension has its own form of technology, and the 9th dimension is a black hole, *"The place and time where there is no place or time"*, and the last dimension that exists in the physical reality.  Theosophists and anthroposophists call this 8 dimensional reality the *Akashic Records*, which is described as a compendium of all universal events, thoughts, words, emotions, and intentions ever to have occurred in the past, present, or future. Here we have a Magic Crystal that is hypothesized as the source of all creation, past, and future and also happens to also be 8 dimensions.  This is mentioned not to lend or remove any validity to these various models of reality but to show how similar conceptual patterns are expressed via different philosophies and perspectives; scientific, mathematical, metaphysical, or mystical. I also mention him here because his explanation of reality is entirely compatible with the Tholonic model, albeit less technically detailed but more complex, so for those more meta-physically aligned, his perspective may be valuable.
 
@@ -115,9 +115,9 @@ The E8 <u>crystal</u> of *quantum symmetry* and *emergence theory* hypothesize t
 
 [^57]: Amazing description of how the E8 crystal can be defined as tetrahedrals. <https://quantumgravityresearch.org/portfolio/a-deep-link-between-3d-and-8d>
 
-It might sound like this is mixing apples and multidimensional oranges, using definitions from *emergence theory* on one side of the scale, and definitions from *quantum symmetry* on the other side, but both of these theories integrate <u>quantum mechanics</u>, general and special relativity, the standard model and other mainstream <u>physics</u> theories to form a complete, fundamental picture of a <u>universe</u> unfolding from implicity to explicity.  The main difference between these two models is that the *E8 <u>Crystal</u>* describes the mechanics of creation, while the *emergence theory* attempts to describe the syntax of its operation using the <u>language</u> of geometry.
+It might sound like this is mixing apples and multidimensional oranges, using definitions from *emergence theory* on one side of the scale, and definitions from *quantum symmetry* on the other side, but both of these theories integrate <u>quantum mechanics</u>, general and special relativity, the standard model and other mainstream <u>physics</u> theories to form a complete, fundamental picture of a <u>Universe</u> unfolding from implicity to explicity.  The main difference between these two models is that the *E8 <u>Crystal</u>* describes the mechanics of creation, while the *emergence theory* attempts to describe the syntax of its operation using the <u>language</u> of geometry.
 
-#### **Key 45:** <u>Geometry</u> and mathematics are the <u>language</u> of archetypes.
+#### **Key 59:** <u>Geometry</u> and mathematics are the <u>language</u> of archetypes.
 
 Here we have a <u>duality</u> that encompasses the entire spectrum of 3D <u>reality</u>, at least.  On one end, the *alphahedron*, which is the smallest <u>structure</u> theoretically possible, that being the tetrahedron, and on the other end, the *omegahedron*, the most complex <u>structure</u> in <u>existence</u>, which currently seems to be the 248D-ish magic crystal.
 
@@ -125,9 +125,9 @@ Here we have a <u>duality</u> that encompasses the entire spectrum of 3D <u>real
 
 Now we can begin to integrate dualities into the holarchy.
 
-#### **Key 46:** Just as <u>subatomic particles</u> are <u>structured</u> <u>energy</u>, <u>atoms</u> are <u>structured</u> particles, and <u>molecules</u> are <u>structured</u> <u>atoms</u>, <u>information</u> is <u>structured</u> <u>data</u>, <u>knowledge</u> is <u>structured</u> <u>information</u>, and <u>ideas</u> are <u>structured</u> knowledge.
+#### **Key 60:** Just as <u>subatomic particles</u> are <u>structured</u> <u>energy</u>, <u>atoms</u> are <u>structured</u> particles, and <u>molecules</u> are <u>structured</u> <u>atoms</u>, <u>information</u> is <u>structured</u> <u>data</u>, <u>knowledge</u> is <u>structured</u> <u>information</u>, and <u>ideas</u> are <u>structured</u> knowledge.
 
-#### **Key 47:** The <u>concept</u> of a thing and the thing itself are the same things on two different levels of order.
+#### **Key 61:** The <u>concept</u> of a thing and the thing itself are the same things on two different levels of order.
 
 Both scopes of matter and <u>ideas</u> represent how a form of pure <u>energy</u> in its chaotic state is converted into <u>order</u> using the same <u>laws</u> as they apply to the relevant contexts of their scope.  In one case,  <u>energy</u> is ordered and expressed as matter and in the latter case as concepts.  This is how it relates to holarchies, as holarchies can map not only the naturally occurring <u>hierarchy</u> of the <u>concepts</u> of *<u>reality</u>* (atoms, plants, people, etc.) but also the <u>concept</u> of *<u>concepts</u>* (domains of <u>science</u>, <u>religions</u>, <u>culture</u>, etc.).
 
@@ -376,23 +376,23 @@ If our premise is that the smallest element of <u>knowledge</u> must conform to 
 
 Our revised model of <u>hierarchical</u> tetrahedrons will surely look and act differently than a holarchy.  To avoid confusion, we’ll refer to these *tetrahedron holons* as *<u>tholons</u>* (for obvious reasons), and the <u>holarchy</u> of <u>tholons</u> as the *thologram*.
 
-#### **Key 49:** Every <u>tholon</u> is an archetype.
+#### **Key 62:** Every <u>tholon</u> is an archetype.
 
 We are working from the premise that everything that exists is a product of a stable <u>pattern</u> existing between different states.  The simplest <u>concept</u> of such a <u>duality</u> is that of *something* and *nothing*. Not much can be said about *nothing*, but as for *something,* we don’t need to imagine something that represents everything at once, which is not only beyond our ability, but as everything has yet to come into <u>existence</u> (or if it has, it has not yet come into our context), it is impossible.  On the contrary, we only need to imagine the simplest form of something, for example, a singular dot.  A simple dot on a blank page is a diagram of the model on which this <u>reality</u>, and all <u>knowledge</u>, is based.  This single dot is often called the *<u>singularity</u>*.  In the <u>cosmological</u> sense, the <u>singularity</u> is 
 
 > The point in which all physical <u>laws</u> are indistinguishable from one another, where space and time are no longer interrelated realities, but merge indistinguishably and cease to have any independent meaning.
 
-These singularities were predicted by Relativity and theoretically have **<u>zero</u> volume** and **infinite density** (and therefore infinite <u>gravity</u>), and was the source of the Big Bang.  It was this crazy idea that lead to the discovery of black holes.  
+These singularities were predicted by Relativity and theoretically have **<u>zero</u> volume** and **infinite density** (and therefore infinite <u>gravity</u>), and was the source of the Big Bang.  It was this crazy idea that led to the discovery of black holes.  
 
 There is another significance to the <u>concept</u> of <u>singularity</u>, and that is the *technological <u>singularity</u>*.  This is the point in time when technological growth becomes uncontrollable and irreversible, i.e., technology has the ability to design and build itself, creating an exponential curve of advancement that results in a super-intelligence.  Ray <u>Kurzweil</u>, <u>Google</u>’s Director of Engineering, predicts this moment will happen in 2045.
 
-For our purposes, we only need to consider that the <u>singularity</u> that created this <u>universe</u> is a 0-dimensional dot. This simplest of <u>concepts</u> can explain the <u>holarchy</u>, tetrahedrons, magic <u>crystals</u>, all the <u>laws</u> of <u>physics</u> and every form of <u>intelligence</u> in existence.  
+For our purposes, we only need to consider that the <u>singularity</u> that created this <u>Universe</u> is a 0-dimensional dot. This simplest of <u>concepts</u> can explain the <u>holarchy</u>, tetrahedrons, magic <u>crystals</u>, all the <u>laws</u> of <u>physics</u> and every form of <u>intelligence</u> in existence.  
 
 ### <u>Geometry</u> I
 
 The most effective way to describe this process of emergence from a dot to everything in <u>existence</u> is with the <u>language</u> of geometry.
 
-> Philosophy [nature] is written in that great book whichever is before our eyes -- I mean the <u>universe</u> -- but we cannot understand it if we do not first learn the <u>language</u> and grasp the symbols in which it is written.  The book is written in mathematical <u>language</u>, and the symbols are triangles, circles, and other <u>geometrical</u> figures, without whose help it is impossible to comprehend a single word of it; without which one wanders in vain through a dark labyrinth.  **\~Galileo Galilee, 1564-1642**
+> Philosophy [nature] is written in that great book whichever is before our eyes -- I mean the <u>Universe</u> -- but we cannot understand it if we do not first learn the <u>language</u> and grasp the symbols in which it is written.  The book is written in mathematical <u>language</u>, and the symbols are triangles, circles, and other <u>geometrical</u> figures, without whose help it is impossible to comprehend a single word of it; without which one wanders in vain through a dark labyrinth.  **\~Galileo Galilee, 1564-1642**
 
 > It is the glory of <u>geometry</u> that from so few principles, fetched from without, it is able to accomplish so much.  **\~Sir <u>Isaac Newton</u>**
 
@@ -416,11 +416,11 @@ If we accept the premise that everything that is created has the attributes of, 
 
 There is one more, far less obvious attribute to consider as well, and that is *<u>intention</u>*, because the <u>awareness</u> that conceived of a point in <u>nothingness</u> had to have the <u>intention</u> to conceive of it.  So, our point in the middle of infinite <u>nothingness</u> has two attributes; <u>Awareness</u> and Intention.  The <u>nature</u> of that <u>intention</u> is addressed further on.
 
-#### **Key 50:**  <u>Awareness</u> and <u>Intention</u> (A&I) is the source of existence.
+#### **Key 63:**  <u>Awareness</u> and <u>Intention</u> (A&I) is the source of existence.
 
-We see this same concept, that of creation being the result of A&I, in the spiritual texts of every major belief system.  For example, in Jewish, Christian, and Islamic lore[^356], when God spoke to Moses, God was quite specific about its name and not only told Moses its name was “I Am (Who/Which/That) I Am” (<img src='../Images/iamthatiam.png' style='height:10px'/>) but also informed Moses that the voice he was hearing was but a messenger of “I AM” (<img src='../Images/iam.png' style='height:10px'/>), a messenger of the most fundamental form of Awareness.  
+We see this same concept, that of creation being the result of A&I, in the spiritual texts of every major belief system.  For example, in Jewish, Christian, and Islamic lore[^356], when God spoke to Moses, God was quite specific about its name and not only told Moses its name was “I Am (Who/Which/That) I Am” (<img src='../Images/iamthatiam.png' style='height:10px'/>) but also informed Moses that the voice he was hearing was (or was sent by) “I AM” (<img src='../Images/yhvh.png' style='height:10px'/>), the most fundamental form of Awareness.  
 
-[^356]: Genesis 3.14 “And God said to Moses, ‘Ehyeh-Asher-Ehyeh,” *(‘Ehyeh-Asher-Ehyeh’ Meaning of Heb. uncertain; variously translated: “I Am That I Am”; “I Am Who I Am”; “I Will Be What I Will Be”; etc.)* ‘Thus shall you say to the Israelites, ‘Ehyeh’ *(‘Ehyeh’ meaning “I Am” or “I Will Be.”)* “sent me to you.’”, <img src='../Images/quote.png' style='height:15px'/>
+[^356]: Genesis 3.14 “And God said to Moses, ‘Ehyeh-Asher-Ehyeh,” *(‘Ehyeh-Asher-Ehyeh’ Meaning of Heb. uncertain; variously translated: “I Am That I Am”; “I Am Who I Am”; “I Will Be What I Will Be”; etc.)* ‘Thus shall you say to the Israelites, ‘Ehyeh *(“Ehyeh” meaning “I Am” or “I Will Be.”)* sent me to you.’”, <img src='../Images/quote.png' style='height:15px'/>
 
 <u>Buddhists</u> appear to have cut out the middle-man (or perhaps “middle-god”) as they do not have the <u>concept</u> of a divine being, but they do have the <u>concept</u> of a primal <u>awareness</u>, as suggested in the <u>Buddhist</u> proverb: *A person asked Buddha: Are you a God? <u>Buddha</u>'s reply was No. Are you an Angel? No. Then what are you? <u>I am</u> awake.*  
 
@@ -528,7 +528,7 @@ These properties direct <u>energy</u>, <u>energy</u> has <u>movement</u>, and <u
 
 The idea of modeling <u>reality</u> on the <u>movement</u> of <u>energy</u> rather that the *things* themselves is not a new idea.  The *Reciprocal System theory* is built on the same premise and provides the best explanation of why we are using the <u>movement</u> of <u>energy</u> in the relationships and not the contexts of where that <u>energy</u> is coming from or going to.
 
-> The thesis of the Reciprocal System, however, is that the <u>universe</u> is not a <u>universe</u> of matter, but a <u>universe</u> of motion, one in which the basic <u>reality</u> is motion, and all entities - photons, particles, <u>atoms</u>, <u>fields</u>, forces, and all forms of <u>energy</u> - are merely manifestations of motion.[^68]
+> The thesis of the Reciprocal System, however, is that the <u>Universe</u> is not a <u>Universe</u> of matter, but a <u>Universe</u> of motion, one in which the basic <u>reality</u> is motion, and all entities - photons, particles, <u>atoms</u>, <u>fields</u>, forces, and all forms of <u>energy</u> - are merely manifestations of motion.[^68]
 
 [^68]: “**Reciprocal Theory**” RationalWiki, <https://rationalwiki.org/wiki/Reciprocal_Theory>.
 
@@ -556,7 +556,7 @@ The <u>order</u> of the <u>laws</u> assigned by Newton shows the <u>concept</u> 
 
 3. *<u>Force</u> equals <u>mass</u> times acceleration (Force, Newton’s 2<sup>nd</sup> <u>law</u>)*
 
-#### **Key 51:** Relationships define the function and purpose of any instance
+#### **Key 64:** Relationships define the function and purpose of any instance
 
 <img src='../Images/tatom_desc.png' style='float:right;width:40%'/>Now that we have mapped the three properties of N, D, and C onto a trigram we can see and label a new class of attributes that are the result of these properties interacting with each other.  For example, what we would expect to see across the spectrums?
 
@@ -568,7 +568,7 @@ This trigram of relationships are present in every instance of creation and will
 
 [^75]: Adam Smith, "An Inquiry into the Nature and Causes of the Wealth of Nations", 1776, London
 
-#### **Key 52:** Stable patterns/instances form dynamic relationships/movement of <u>energy</u> which form stable patterns/instances.
+#### **Key 65:** Stable patterns/instances form dynamic relationships/movement of <u>energy</u> which form stable patterns/instances.
 
 
 ### Simple Instance

@@ -26,7 +26,7 @@ If the concept of a thing and the thing itself are two orders of the same form o
 
 *Note: More accurately, what we are calling “intelligence” should be called “coherent intelligence” or “low-entropy intelligence”, as intelligence is innate to existence, which includes the chaos that order emerges from and returns to.  We can think of that chaotic incoherent intelligence as “high-entropy intelligence”, but for simplicity and clarity, when we refer to “intelligence” we are referring to coherent, low-entropy intelligence.*
 
-#### **Key 54:** Consciousness is a coherent form of A&I.
+#### **Key 67:** Consciousness is a coherent form of A&I.
 
 The fact that we tend to understand consciousness through our human perspective prevents us from seeing it as an attribute of existence.  Humans may ask the question “When did consciousness arise?”, but from the tholonic perspective, consciousness is a limited instance of an unlimited A&I.  As all matter and form of energy and energy *is* A&I, as explained earlier, then all limited instances of energy must me a form of consciousness.  the main difference being that A&I is incoherent and consciousness has some level of coherence.  That makes the smallest form of matter “conscious” to some degree as is it coherent enough to be sustainable.
 
@@ -34,7 +34,7 @@ This definition requires we see consciousness in a radically different way from 
 
 Being the only awareness in a nothingness void of space, time or dimension, a sole 0D dot is, by definition, limitless, so it can only be incoherent when instantiated in space-time.  Incoherent energy contains an infinite number of wavelengths and frequencies expanding in an infinite number of directions, which means that it must consist of an infinite number of “coherences”, each traveling in their own direction.  Hence, if consciousness is a coherent form of A&I, there is an infinite number of potential consciousnesses, one for every thing that can ever, has ever, or does exist.
 
-#### **Key 55:** Matter and consciousness is an instance of A&I in a limited context.
+#### **Key 68:** Matter and consciousness is an instance of A&I in a limited context.
 
 Understanding the difference between consciousness and awareness can be tricky because many languages do not even have different words for these two concepts, e.g. in Spanish, both are translated to “conciencia” .  For our purposes, we define *awareness* as a property of existence, and consciousness as that same property but when expressed through an instantiation, and therefore a definition or limitation, such as a person or even a thing. It is similar to the difference between "dotness" and "a dot" or "movement" and "1968 Chevy Impala".  In a broader sense, it is more practical to think of A&I not as personal attributes that an individual develops or has, but as a universal attribute that an individual expresses, or rather, as any individual thing that exists expresses.  In this way these attributes are more like gravity.  A large person has more weight not because they have created more “personal gravity”, but because the universal attribute of gravity is more apparent when there is more mass.  This metaphor is also applicable in that it was only 600 years ago that we discovered that gravity was a universal constant and not a property of an object, dispelling the long held belief put forth by Aristotle that objects fall at speeds proportional to their mass (a theory he obviously never bothered to test, nor did anyone else for the next 1,900 years!)
 
@@ -90,7 +90,7 @@ This topic of *intelligence*  alone has filled, and will continue to fill, count
 [^361]: Louis B. Rosenberg; July 20–24, 2015. "Human Swarms, a real-time method for collective intelligence." Proceedings of the ECAL 2015: the 13th European Conference on Artificial Life. ECAL 2015: the 13th European Conference on Artificial Life. York, UK. (pp. pp. 658-659). ASME. https://doi.org/10.1162/978-0-262-33027-5-ch117
 [^362]: Beni, G., Wang, J. (1993). Swarm Intelligence in Cellular Robotic Systems. In: Dario, P., Sandini, G., Aebischer, P. (eds) Robots and Biological Systems: Towards a New Bionics?. NATO ASI Series, vol 102. Springer, Berlin, Heidelberg. https://doi.org/10.1007/978-3-642-58069-7_38
 
-#### **Key 56:**  Intelligence exists in anything that has a sustainable pattern of energy.
+#### **Key 69:**  Intelligence exists in anything that has a sustainable pattern of energy.
 
 
 So, intelligence in this context does not mean “critical thinking” or “self-aware,” but it does mean creativity, learning, and problem-solving, which are properties that nature, and the universe, demonstrates with flying colors.  We can go further and claim that the amazing relationships in simple geometry, such as the tetrahedron array with its Fibonacci numbers, ratios, and hexagonal patterns that define the laws of nature and reality are evidence of logic.  So, let’s add *logic* to the list of properties.  What about *planning*? Does nature plan anything or do we all just happen to live in a corner of the Universe that was lucky enough to win the Cosmic Mega-Lotto? We can easily see that the simple relationships between 3 points instantly define an infinite array for order, pattern, and symmetry on many levels.  This isn’t just logic, it is *the* logic that existence is built upon.
@@ -107,7 +107,7 @@ However, this intelligence is quite different from what we would call human inte
 
 One of the attributes of a tholon, unlike its holarchic predecessor, is that the context and scope of a tholon is not only defined by the dualities of that tholon, but also by all the tholons above and below, as the children tholons are always contributing to the parent, and the parents are always defining the children.
 
-#### **Key 57:** Anything that exists, that has a sustainable pattern of energy, has some form of intelligence and is a contributing element to the larger intelligence that is shared by all existence.
+#### **Key 70:** Anything that exists, that has a sustainable pattern of energy, has some form of intelligence and is a contributing element to the larger intelligence that is shared by all existence.
 
 
 
@@ -131,7 +131,7 @@ We have a concept of a *human* collective intelligence, but we define it as some
 
 The tholonic view is that A&I are not only attributes of existence; they are the cause of it, they are the ultimate, or purest, form of energy that is forever seeking balance in a world of duality.
 
-#### **Key 58:** Every archetype has an awareness, an intention, and an intelligence appropriate for its scope.
+#### **Key 71:** Every archetype has an awareness, an intention, and an intelligence appropriate for its scope.
 
 
 

@@ -18,7 +18,7 @@ whiel 0 and that are considered  is teh <u>number</u> of definitons, One way to 
 
 While <u>numbers</u> can represent many things, they are fundamentally an abstract representation of energy.
 
-#### **Key 67:** <u>Numbers</u> represent <u>energy</u>
+#### **Key 80:** <u>Numbers</u> represent <u>energy</u>
 
   
 
@@ -376,7 +376,7 @@ So, why not start counting with 2 rather than 6? Because we assume that the chil
 
 For these, and other reasons, we can not start counting with the <u>number</u> 1, but need to start with the first <u>number</u> that represents a *product* of 1, or, a <u>number</u> that acts like a normal <u>number</u> in a practical sense.
 
-There are some interesting relationships and values below.  I can’t tell you what they mean or represent, but it would be irrational to assume they have no significance without knowing anything more about them.  Everything that leads up to these new values is quite reasonable and provable.  It is just a matter of discovering where these new values and formulas apply.  To explain these new values here would border on sadistic given what the reader has had to suffer through already, and as it qualifies as a book unto itself I will spare the reader.  However, there are just a couple I would like to share.
+There are some interesting relationships and values below.  I can’t tell you what they mean or represent, but it would be irrational to assume they have no significance without knowing anything more about them.  Everything that xleads up to these new values is quite reasonable and provable.  It is just a matter of discovering where these new values and formulas apply.  To explain these new values here would border on sadistic given what the reader has had to suffer through already, and as it qualifies as a book unto itself I will spare the reader.  However, there are just a couple I would like to share.
 
 If we look at *current* (*I*, red, 2) “dividing” *resistance* (*R*, green, 3), on the right <img src="../Images/right-div.png" style='width:20px'/>, and apply the function of division associated with the 6-2 vector, or side, we have 3<sup>2</sup>&div;2, which is <IMG src='../Images/math/386.svg' style='height:12pt' />(which we’ll call *R<sub>i</sub>*).  On the left we have *resistance* (*R*) *constrained* by *current* (*I*) <img src="../Images/left-div.png" style='width:20px'/>, which is 2<sup>2</sup>&div;3, which is <IMG src='../Images/math/385.svg' style='height:12pt' />(which we’ll call *I<sub>r</sub>*).  Neither number *seems* particularly significant, but if we multiply these numbers together, which we would because they are connected via the “base” of the trigram, the 3-2 vector, which has the property of multiplication we get *R<sub>i</sub>&times;I<sub>r</sub>*=6, which is the value for *V*, so Ohm’s Law has not been broken.  Using this same reasoning we can apply this to the three 6s, but as they are on a vector of multiplication, we would say 6<sup>3</sup>, which yields 216 (which we’ll call *V<sub>3</sub>*).  
 
