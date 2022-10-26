@@ -17,7 +17,7 @@ Keywords:
 
 <center><img src='../Images/honeycomb.png' style='width:100%'/></center>
 
-Everything up until now was to introduce some of the main concepts that we will be returning to and depending on as we move forward an into the main ideas that lead from the ultimate simplicity of a duality to more complex structures that describe the reality we actually live in.
+Everything up until now was to introduce some of the main concepts that we will be returning to and depending on as we move forward an into the main ideas that led from the ultimate simplicity of a duality to more complex structures that describe the reality we actually live in.
 
 On a practical level, this complexity is no different than how we deal with the physical world in our every-day lives.  When you hold a brick in your hand you are holding trillions of atomic particles, with countless interactions, fields, energy levels, etc., but you don’t need to know that to build a house of bricks.  When you drop the brick and it falls, you’re not thinking about the nature of time, gravity, and warped space.  Likewise, to manage the “bricks” in the realm of Ideas, you also don’t need to know all of the details, but it is helpful if you have an understanding of how they generally interact with each other so you don’t try and build a “house” made of “bricks” and “oranges”.
 
@@ -72,7 +72,7 @@ The quark remains the undefeated champion of tinyness, but “almost” infinite
 
 ## On the Big Side
 
-Jumping to the other end of the scale we have some pretty big things in the universe, the largest we know of being the *Hercules-Corona Borealis Great Wall.* This is a gravitationally bound galactic supercluster about 10 billion light-years wide.  That is pretty, pretty big.  What could be bigger than that? How about something with 4 dimensions? Would an extra dimension increase the size of something? Well, is a 2&times;2&times;2 cube bigger than a 2&times;2 sheet of paper, and is a 2&times;2&times;2&times;2 hyper-cube bigger that a 2&times;2&times;2 cube? What would a 2&times;2&times;2&times;2 cube look like? In the 3D world, from one perspective it would look like a regular cube, because we can only see 3 of the 4 dimensions, but turn it a little (in 4D space) and the 4D cube will appear as two 3D cubes, or a hexagonal prism, or rhombic dodecahedron, or a cuboid.
+Jumping to the other end of the scale we have some pretty big things in the Universe, the largest we know of being the *Hercules-Corona Borealis Great Wall.* This is a gravitationally bound galactic supercluster about 10 billion light-years wide.  That is pretty, pretty big.  What could be bigger than that? How about something with 4 dimensions? Would an extra dimension increase the size of something? Well, is a 2&times;2&times;2 cube bigger than a 2&times;2 sheet of paper, and is a 2&times;2&times;2&times;2 hyper-cube bigger that a 2&times;2&times;2 cube? What would a 2&times;2&times;2&times;2 cube look like? In the 3D world, from one perspective it would look like a regular cube, because we can only see 3 of the 4 dimensions, but turn it a little (in 4D space) and the 4D cube will appear as two 3D cubes, or a hexagonal prism, or rhombic dodecahedron, or a cuboid.
 
 Here is what a hyper-cube (4D cube) looks like when it is rotated and projected onto a 2D space, like a shadow (orthographic projection).
 
@@ -82,7 +82,7 @@ What about something that is 5D, or 6D or 7D? Each one would be bigger by an ord
 
 ## Crystal Power
 
-So, there’s this magic 248-dimensional crystal (actually, it’s 8 dimensional with 248 not-necessarily-spatial, but not *not*-necessarily-spatial, dimensional symmetries, but as an algebraic expression it is considered to have 248 dimensions&hellip; at least that is what I am told[^320]) called the *E8 crystal*, and this reality of ours is, presumably, the result of a number of 3D refractions of energy created by the various facets of this crystal that are cast upon the 3D canvas of the void that is our universe from the higher dimensions of magic-crystal-land.  As modern as this sounds, this was first proposed in the late 1800s, but it has only been recently that we have the computing power to give it a test drive.  This sounds pretty compatible with the Simulation Hypothesis.  Maybe these two theories should get together for coffee sometime.
+So, there’s this magic 248-dimensional crystal (actually, it’s 8 dimensional with 248 not-necessarily-spatial, but not *not*-necessarily-spatial, dimensional symmetries, but as an algebraic expression it is considered to have 248 dimensions&hellip; at least that is what I am told[^320]) called the *E8 crystal*, and this reality of ours is, presumably, the result of a number of 3D refractions of energy created by the various facets of this crystal that are cast upon the 3D canvas of the void that is our Universe from the higher dimensions of magic-crystal-land.  As modern as this sounds, this was first proposed in the late 1800s, but it has only been recently that we have the computing power to give it a test drive.  This sounds pretty compatible with the Simulation Hypothesis.  Maybe these two theories should get together for coffee sometime.
 
 [^320]: Interestingly, there is a relatively unknown young man, Matias De Stefano,  who was born in 1987 in a small town outside of Buenos Aries, Argentina, where he still lives, and who claims that not only was he born with full memory of his existence prior to being born, but that his "job" in his pre-incarnate reality was that of an "information specialist" or "librarian" of sorts, collecting, managing and disseminating information from all realities and dimensions.  He claims he has returned to earth to finish a mission he began thousands of years ago but failed to complete. Whether one believes his claims or not, it is hard not to be impressed with his detailed, clear, rational, and somewhat technical explanation regarding the structure and nature of reality.  He is mentioned here because, coincidentally, he explains: *"The 8th dimension is where you can see everything from one spot. The 8th dimension has the information of everything,  of every second over millions of years, from every perspective of the universe".*  For what it's worth, he also says each dimension has its own form of technology, and the 9th dimension is a black hole, *"The place and time where there is no place or time"*, and the last dimension that exists in the physical reality.  Theosophists and anthroposophists call this 8 dimensional reality the *Akashic Records*, which is described as a compendium of all universal events, thoughts, words, emotions, and intentions ever to have occurred in the past, present, or future. Here we have a Magic Crystal that is hypothesized as the source of all creation, past, and future and also happens to also be 8 dimensions.  This is mentioned not to lend or remove any validity to these various models of reality but to show how similar conceptual patterns are expressed via different philosophies and perspectives; scientific, mathematical, metaphysical, or mystical. I also mention him here because his explanation of reality is entirely compatible with the Tholonic model, albeit less technically detailed but more complex, so for those more meta-physically aligned, his perspective may be valuable.
 
@@ -115,7 +115,7 @@ The E8 crystal of *quantum symmetry* and *emergence theory* hypothesize that all
 
 [^57]: Amazing description of how the E8 crystal can be defined as tetrahedrals. <https://quantumgravityresearch.org/portfolio/a-deep-link-between-3d-and-8d>
 
-It might sound like this is mixing apples and multidimensional oranges, using definitions from *emergence theory* on one side of the scale, and definitions from *quantum symmetry* on the other side, but both of these theories integrate quantum mechanics, general and special relativity, the standard model and other mainstream physics theories to form a complete, fundamental picture of a universe unfolding from implicity to explicity.  The main difference between these two models is that the *E8 Crystal* describes the mechanics of creation, while the *emergence theory* attempts to describe the syntax of its operation using the language of geometry.
+It might sound like this is mixing apples and multidimensional oranges, using definitions from *emergence theory* on one side of the scale, and definitions from *quantum symmetry* on the other side, but both of these theories integrate quantum mechanics, general and special relativity, the standard model and other mainstream physics theories to form a complete, fundamental picture of a Universe unfolding from implicity to explicity.  The main difference between these two models is that the *E8 Crystal* describes the mechanics of creation, while the *emergence theory* attempts to describe the syntax of its operation using the language of geometry.
 
 #### **Key 59:** Geometry and mathematics are the language of archetypes.
 
@@ -142,6 +142,16 @@ Some readers might recognize this graph as looking very similar to the mystical 
 <center><img src='../Images/042-related-patterns.png' style='width:100%'/></center>
 
 ## Knowledge by any other name
+
+
+
+<center><img src='../Images/quantfurcation.png' style='width:60%'/></center>
+
+The image above is from a *Neidan* (Chinese inner alchemy) Taoist training manual of the 17<sup>th</sup> century[^443]that comes from an oral tradition dating back to the 8<sup>th</sup> century attributed to the legendary Chinese scholar Lü Dongbin of the Tang Dynasty.  We can see the same pattern here in concept, but rather then the ordered, linear, “Cartesian” bifurcating diagrams above, it uses the classically Eastern artistic, poetic, style to demonstrate a visualization technique of centering one’s self in the middle of one’s 5 “shadow-geniuses” each of which with  their own 5 “shadow-geniuses”, creating a self-similar *pentafurcating* tree.  The purpose  of this meditation is to “*crystallize the spirit in the Elixir-field, the place of energy (solar plexus)*”.
+
+*Note: “Shadow” here does not mean something negative, as in the Western concept.  The description of these “shadow-geniuses” is “The pure and light energy rises upward and floats up to heaven and becomes the five-fold present shadow-genius”, suggesting that “shadow” is synonymous with “component of”, or what we would call a “parton”.*
+
+[^443]: “**T'ai-I Chin-hua Tsung-chih (Teaching of the Golden Flower of the Supreme One**)”.  Translated by Richard Wilhelm; Translated from German by Cary F. Baynes; Published by Kegan Paul, Trench and Trubner (1931); Routledge and Kegan Paul Ltd (1965); ISBN 0 7100 2095 (c); ISBN 0 7100 7485 9 (p). https://www.lifeforcebooks.com/wp-content/uploads/2018/10/SecretGoldenFlower.pdf
 
 We tend to think that ancient ideas were not based in science, at least in the way we describe that word today.  This is partly true, in that we had not yet discovered the laws of nature to the degree, or in the manner, we now have, but we can find incredibly sophisticated reasoning and logic in some ancient ideas.
 
@@ -382,17 +392,17 @@ We are working from the premise that everything that exists is a product of a st
 
 > The point in which all physical laws are indistinguishable from one another, where space and time are no longer interrelated realities, but merge indistinguishably and cease to have any independent meaning.
 
-These singularities were predicted by Relativity and theoretically have **zero volume** and **infinite density** (and therefore infinite gravity), and was the source of the Big Bang.  It was this crazy idea that lead to the discovery of black holes.  
+These singularities were predicted by Relativity and theoretically have **zero volume** and **infinite density** (and therefore infinite gravity), and was the source of the Big Bang.  It was this crazy idea that led to the discovery of black holes.  
 
 There is another significance to the concept of singularity, and that is the *technological singularity*.  This is the point in time when technological growth becomes uncontrollable and irreversible, i.e., technology has the ability to design and build itself, creating an exponential curve of advancement that results in a super-intelligence.  Ray Kurzweil, Google’s Director of Engineering, predicts this moment will happen in 2045.
 
-For our purposes, we only need to consider that the singularity that created this universe is a 0-dimensional dot. This simplest of concepts can explain the holarchy, tetrahedrons, magic crystals, all the laws of physics and every form of intelligence in existence.  
+For our purposes, we only need to consider that the singularity that created this Universe is a 0-dimensional dot. This simplest of concepts can explain the holarchy, tetrahedrons, magic crystals, all the laws of physics and every form of intelligence in existence.  
 
 ### Geometry I
 
 The most effective way to describe this process of emergence from a dot to everything in existence is with the language of geometry.
 
-> Philosophy [nature] is written in that great book whichever is before our eyes -- I mean the universe -- but we cannot understand it if we do not first learn the language and grasp the symbols in which it is written.  The book is written in mathematical language, and the symbols are triangles, circles, and other geometrical figures, without whose help it is impossible to comprehend a single word of it; without which one wanders in vain through a dark labyrinth.  **\~Galileo Galilee, 1564-1642**
+> Philosophy [nature] is written in that great book whichever is before our eyes -- I mean the Universe -- but we cannot understand it if we do not first learn the language and grasp the symbols in which it is written.  The book is written in mathematical language, and the symbols are triangles, circles, and other geometrical figures, without whose help it is impossible to comprehend a single word of it; without which one wanders in vain through a dark labyrinth.  **\~Galileo Galilee, 1564-1642**
 
 > It is the glory of geometry that from so few principles, fetched from without, it is able to accomplish so much.  **\~Sir Isaac Newton**
 
@@ -528,7 +538,7 @@ These properties direct energy, energy has movement, and movement has direction.
 
 The idea of modeling reality on the movement of energy rather that the *things* themselves is not a new idea.  The *Reciprocal System theory* is built on the same premise and provides the best explanation of why we are using the movement of energy in the relationships and not the contexts of where that energy is coming from or going to.
 
-> The thesis of the Reciprocal System, however, is that the universe is not a universe of matter, but a universe of motion, one in which the basic reality is motion, and all entities - photons, particles, atoms, fields, forces, and all forms of energy - are merely manifestations of motion.[^68]
+> The thesis of the Reciprocal System, however, is that the Universe is not a Universe of matter, but a Universe of motion, one in which the basic reality is motion, and all entities - photons, particles, atoms, fields, forces, and all forms of energy - are merely manifestations of motion.[^68]
 
 [^68]: “**Reciprocal Theory**” RationalWiki, <https://rationalwiki.org/wiki/Reciprocal_Theory>.
 

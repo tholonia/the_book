@@ -90,7 +90,7 @@ As prime numbers are themselves unique “seeds” that are not only core to nat
 
 The relationship between 2 and 5 is very close, so close, that 5 may be the closest value to 2 in how is function.  The reason for this is obvious once we see it.  Whenever we divide anything by 2, it is the same as multiplying by 5 and diving by 10, because 5/10 = $\frac{1}{2}$.  This is why we have a base-10 system today
 
-This 2/5 relationship defines a fundamental pattern in math and in nature which we can see in many instances, including our own 5 fingers in 2 hands; a trait which is common among most species of mammals, and exists in many birds, fish, and insects, going back *pentadactyl tetrapods* Devonian Age 400,000,000 years ago.  Leading experts in the field of human anatomy, developmental biology, and evolution are mystified by this 5-finger phenomena, and can only say:
+This 2/5 relationship defines a fundamental pattern in math and in nature which we can see in many instances, including our own 5 fingers in 2 hands; a trait which is common among most species of mammals, and exists in many birds, fish, and insects, going back *pentadactyl tetrapods* Devonian Age 400,000,000 years ago.  xleading experts in the field of human anatomy, developmental biology, and evolution are mystified by this 5-finger phenomena, and can only say:
 
 > “… we simply don't 100% know the 'why' or 'how' of the narrowing of hand morphology to five digit rays in the Devonian.  [Any hypothesis] would be highly speculative without a lot of data on the types of selective pressures organisms at the time were facing… [^348] 
 

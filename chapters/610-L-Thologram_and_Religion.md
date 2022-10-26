@@ -1,7 +1,9 @@
 <div style='page-break-after: always; break-after: always;'></div>
-# Appendix L: The Thologram and Religion
+# Appendix L: The Thologram and Metaphysics
 
-###### Awareness and Intention, or God
+###### Inner workings of Awareness and Intention
+
+The concept of “religion” or “divinity” may not overlap with “metaphysics” for many people, but it that topic is place here merely for convenience.
 
 ## Tholonic Divinity
 
@@ -47,4 +49,26 @@ All tholons are expressions of energy and are created by energy.  Tholons are re
 
 The first tholon within which all other are created could be considered as the God Tholon, but that tholon itself was created by Awareness and Intention which has no traits or characteristics other than A&I. Any concept of a god or divine being that has any traits whatsoever, other than A&I, would by definition be a child tholon that has its own tholonic intelligence and therefore has an agenda of some sort as it requires its own child tholons to exist as well as having to co-exist with its peers and in accordance to its parent.
 
-​    THIS_IS_END    
+## Personal Experiments
+
+As was briefly alluded to earlier in the reference to the Taoist *Neidan* meditation practice, tholonic concepts exist in ancient mediation as a way to connect with the *inner energy* of the spirit.  This inner energy has many names such as ; spirit, chi, qi, prana.   Tholonically, this *inner energy* is the same energy that we see everyday in the material work, but in a different scope and context, and as this, and all, energy is Awareness and Intention, the scope of this energy in meditation is also awareness and intention, but within the context limits of human consciousness.  We’ll simply refer to this *inner energy*, this instance of A&I in the context of human consciousness, as a&i.
+
+There are many dimensions, techniques, and intentions when to comes to meditation, which can range from sitting to spinning in circles for hours. From a tholonic perspective, we want to look at only the single dimension of how mediation can alter the entropy of this an *inner energy*. 
+
+Mediation techniques of stilling the mind, disconnecting from the outer world, and emptying one’s self completely, are all entropy-lowering techniques.  These meditations reduce the number microstates that the mind can explore, thereby creating a less distributed, more focused mind.  This is equivalent to returning the mind to a state of singularity, which is a state of much lower entropy.  
+
+Meditations that require concentration and focus, such as the meditations of complex mandalas that contain geometric patterns, symbolism, and layers of meaning, are specifically meant to add more microstates for the mind to explore, thereby enhancing the distribution of energy, leading to a more balanced state.  
+
+For example, in Buddhism there are 2 types of meditations;  *Vipassana* (“insight”) and *Samatha* (“tranquility”).
+
+*Vipassana* (“Insight”) is a state in which the mind is singularly focused on is happening as it happens and through the use concentration of awareness, gradually chipping away at the illusion of this temporary material world that separates him eternal truth of reality.  The technique requires attention to mindful listening, seeing, self-reflection, and testing, making it a entropy-increasing practice.  As this involves the dispersion and decoherence of energy, there is a greater demand on the a&i (i.e., energy), but it coheres the mind.  Meditations that involve physical exertion and a heightened awareness of one’s surroundings, such as spinning (e.g., Whirling Dervishes) or even running, which can induce a transcendental state, are Vipassana-ish in nature.
+
+
+
+*Samatha* (“tranquility”) is a state in which the mind is brought to rest, focused only on one item, such as a prayer a light, or am image, and not allowed to wander.  This result in a state or rapture which ends when the meditation is over.  Although this is a temporary state, it is beneficial to one’s state of being and has low energy requirements.  This is an entropy-decreasing practice, as it eliminates many microstates that can dissipate one’s awareness, thus increasing the coherence of one’s a&i (i.e., energy).  Meditations that induce trance-like states and *Samatha-ish* in nature.
+
+*Samatha* is the more common form of meditation, among Buddhism and other disciplines as well, but *Vipassana* is the oldest of Buddhist meditations, dating back to the days of Buddha himself (563 to 483 B.C.), and was described in a discourse in the *Satipatthana Sutta* (“Foundations of Mindfulness”) attributed to Buddha.
+
+One path leads to the Beginning and one path leads to the End, which, from a energy perspective, both are 2 views from the same “location”, and achieving one state will usually lead to the other.  
+
+This “the end in the beginning, the beginning is the end” ideas is metaphorically similar to how new Big Bangs (singularities), and the new universe they create, occur within the “nothingness” of black holes (“nothingness” in the sense that no-thing exists in black hole, as as there is nothing or no-one to observe what is in a black hole, then everything is a just a bunch of un-collapsed wave-functions)

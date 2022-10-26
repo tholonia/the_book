@@ -438,10 +438,10 @@ When we square something, the units-of-measure and the unit-count are the same. 
 
 Why is it subjective? Because when we say *a&times;b*, we are saying we are counting *b a* times.  It says nothing about what *b* is, only that whatever it is, there are *a* of them (of course, this works in reverse as well). How do we know what *b* is? We simply assign a meaning to it.  We say *b=apples* or *b=volts*, or whatever.  The value of *a* is objective because regardless of what the units are, there are *a* of them.  The meaning of *b* is subjective in that it requires a contextual value, a personal decision, to make that assignment.  It may not be subjective in the sense that there really are 2 apples, which is objectively testable, but the assignment of those apples to the abstract <u>concept</u> of a unit is. *(Again, let me stress that in actual <u>math</u> these <u>concepts</u> don’t apply, or of they do, in ways yet unclear. We are simply applying the rules of logic to a non-mathematical context, which was the de rigueur of the inventors/discoverers of <u>math</u> and <u>geometry</u> once-upon-a-time.)*
 
-This is effectively the same distinction between *quantitative* and *qualitative*.  Here are those definitions again:
+This is effectively the same distinction between *<u>quantitative</u>* and *<u>qualitative</u>*.  Here are those definitions again:
 
-- **Quantitative** <u>data</u> can be counted, measured, and expressed using numbers.  Quantitative <u>data</u> has an objective agreed upon value.
-- **Qualitative** <u>data</u> that is descriptive and conceptual.  Qualitative <u>data</u> can be categorized based on traits and characteristics.
+- **<u>Quantitative</u>** <u>data</u> can be counted, measured, and expressed using numbers.  <u>Quantitative</u> <u>data</u> has an objective agreed upon value.
+- **<u>Qualitative</u>** <u>data</u> that is descriptive and conceptual.  <u>Qualitative</u> <u>data</u> can be categorized based on traits and characteristics.
 
 This is metaphorically equivalent to something using its own properties to evaluate its own <u>existence</u>, not unlike the first dot that became aware of itself through the second dot, creating the two states of objective and subjective.  Remember, this is referring to the non-math contexts, so none of these claims have any mathematical relevance (probably).
 
@@ -466,13 +466,13 @@ From the ancient Greeks to modern philosophers, <u>geometry</u> and <u>math</u> 
 <u>Tholonically</u>, 2 is the result when 1 recognizes itself, or reflects itself.  If <IMG src="../Images/math/324.svg" style="vertical-align: middle;height:10pt;"/> = 1.414 than that is saying that it is 1.414, not 1, that brings 2 into <u>existence</u>, but we also claim that 1+1 created 2.  We have two true statements that are different in means but have the same ends:
 
 - *1+1=2*
-- Something that has a *qualitative* or *subjective*  value of 1.414  that is measured by its *quantitative* or *objective* value of 1.414 is also 2.
+- Something that has a *<u>qualitative</u>* or *subjective*  value of 1.414  that is measured by its *<u>quantitative</u>* or *objective* value of 1.414 is also 2.
 
 What is the difference between these two true facts?  We can say that the *original* source of 2 is *1+1* because we can only know the square root of 2 *after* we have created 2, so *1+1=2* came first, then *1.414<sup>2</sup>=2* followed.  That means we add two things that are not 2 (that being 1) together to get 2 and then discover there is a 3<sup>rd</sup> value created that we can use to measure itself by to get 2 (that being 1.414).  The difference between 1 and 1.414 is the difference between creating something (1+1) and the creation itself (*1.414<sup>2</sup>*).  And what is that difference?  It appears to be 0.414 because *1.414-1=0.414* (actually, it's *0.41421356237*, but we'll just be using *0.414*).
 
 What does 0.414 represent then? If *1+1* created 2, and *1.414<sup>2</sup>* describes what was created, can we say that 0.414 is the difference between the *creator* and the *created*? Let’s go with that for now and see if it holds up.
 
-What *is* the difference between *creator* and *created*?  Is it similar to the difference between parent and child? man and god? flower and <u>seed</u>?  <u>Tholonically</u> speaking, there are two types of <u>tholons</u>, that which can create new <u>tholons</u>, and that which cannot.  When a <u>tholon</u> cannot create, it is the end of the line for that form of expression.  The difference between *creator* and *created* is simply *creation*.  Creators create, creations cannot create, that is, not until they become a creator, if they can.  This suggests that measuring the <u>number</u> 2 by *creation* would tell us about the its ability, or perhaps <u>potential</u>, to *create*.
+What *is* the difference between *creator* and *created*?  Is it similar to the difference between parent and child? man and <u>god</u>? flower and <u>seed</u>?  <u>Tholonically</u> speaking, there are two types of <u>tholons</u>, that which can create new <u>tholons</u>, and that which cannot.  When a <u>tholon</u> cannot create, it is the end of the line for that form of expression.  The difference between *creator* and *created* is simply *creation*.  Creators create, creations cannot create, that is, not until they become a creator, if they can.  This suggests that measuring the <u>number</u> 2 by *creation* would tell us about the its ability, or perhaps <u>potential</u>, to *create*.
 
 How would we define the <u>concept</u> of 2 by the difference between *creator* and *created*? We can measure 2 by the unit of *creation*, or put it another way, <IMG src="../Images/math/326.svg" style="vertical-align: middle;height:18pt;"/>.
 
@@ -510,7 +510,7 @@ The arrangement of these values on the tetrahedron do not conform to Newton’s 
 
 Additionally, if we multiply all the values of each type (the equivalent to *V*, *I*, *R* and *P*), we get the a total value for each group where *R=1*/8, *P=8*, *I=2.230*, and *V=6.309*.  With these values, the formula for *<u>volts</u>* produces <IMG src="../Images/math/307.svg" style="vertical-align: middle;height:14pt;"/>=1, and the formula for *<u>resistance</u>* produces <IMG src="../Images/math/384.svg" style="vertical-align: middle;height:14pt;"/>= 2.828.  These two values represent the N-source (1), and the N-child’s spectrum (2.828), so, clearly, there is an <u>order</u>, as can be seen in the upper-right image that shows the formulas, but not exactly the same as Newton's 2nd.  For example, the value for that vector which is the spectrum of instantiation between D and C has a value of the *Silver Ratio* (2.414)+*procreation Value* (0.414), but if we replace the values with the *Newtonian* values of 6, 2, and 3, that same vector has the value of 6, and as we pointed out, 6 is the value of the initial creation, given it must be the value of the N-state.  In once case, the value is arrived at by adding *Silver Ratio+Creation value*, and in the other, it is arrived at by multiplying a *<u>duality</u>* (2) by the *creation value* of 3, if we accept “from 3 come all things”.  *Qualitatively*, these are the same expressions with two different contexts and scopes.
 
-This value of **Λ** (lambda, 0.414) *might* be a good example of a <u>tholonic</u> *qualitative* value in that it was derived by the qualitative “formula” of *creative = created - creator*.   As we would expect, this <u>number</u> appears in <u>nature</u>, specifically, it is the ratio of the radius of a sphere that can fit in the empty space of a tetrahedron (*tetrahedral void*) created by 4 spheres.  This may sound very obscure, but it is quite critical in the way <u>atoms</u> pack themselves together.
+This value of **Λ** (lambda, 0.414) *might* be a good example of a <u>tholonic</u> *<u>qualitative</u>* value in that it was derived by the <u>qualitative</u> “formula” of *creative = created - creator*.   As we would expect, this <u>number</u> appears in <u>nature</u>, specifically, it is the ratio of the radius of a sphere that can fit in the empty space of a tetrahedron (*tetrahedral void*) created by 4 spheres.  This may sound very obscure, but it is quite critical in the way <u>atoms</u> pack themselves together.
 
 <center><img src="../Images/tvoids.png" style="width:70%"/></center>
 
@@ -532,7 +532,7 @@ If we lay out these formulas to expose the <u>pattern</u>, as shown in the lower
 
 <center><img src="../Images/phitri.png" style="width:100%"/></center>
 
-This is also <u>tholonically</u> compatible because applying the alternating Fibonacci formula results in a trigram that allows the <u>tholon</u> to be equated to the *God Formula*, as explained in Chapter 7 “*<u>Structure</u>*”.
+This is also <u>tholonically</u> compatible because applying the alternating Fibonacci formula results in a trigram that allows the <u>tholon</u> to be equated to the *<u>God</u> Formula*, as explained in Chapter 7 “*<u>Structure</u>*”.
 
 <center><img src='../Images/ipe.png' style='width:30%'/></center>
 

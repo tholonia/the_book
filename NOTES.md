@@ -1,3 +1,31 @@
+# FIXES
+
+- law of Motions -> Law of Motion
+- add “amplified effects of tiny changes in the present moment that lead to long-term unpredictabilit” t definitions of chaos
+
+# REFS/POINTS
+
+- 7 as the spectrum between 1 and 2 (why?)
+
+- hidden dimensions: https://www.youtube.com/watch?v=9If-K9R3Ka4
+
+- trithagoria: https://www.youtube.com/watch?v=Y5wiWCR9Axc
+  26:00 fir dimension stuff
+
+- **power loss = I<sup>2</sup>&times; R**
+  *Power loss = (current * current) * resistance
+  Thus as the current doubles the power loss increases by 4.**
+
+- By the Renaissance, observations had improved so that the old simple models were seen as failures, at least mathematically. With the work of Oresme, Buridan, Copernicus, Tycho, Kepler, and Galileo, we saw that Aristotle's ideas had been questioned, then debated, then jury-rigged, then dethroned and tossed aside. To physicists and astronomers, Aristotle's ideas were irrecoverably flawed. *But while Aristotle had been dethroned, he was not yet replaced.*  https://www.vanderbilt.edu/AnS/physics/astrocourses/ast203/newton.html
+
+Hermeticism (get link)
+
+SA article on tolonicx (more or less)
+
+https://blogs.scientificamerican.com/observations/the-hippies-were-right-its-all-about-vibrations-man/
+
+# OTHER STUFF
+
 for 4,2,1 initiating loop
 https://www.youtube.com/watch?v=094y1Z2wpJg
 

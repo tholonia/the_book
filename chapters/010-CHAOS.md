@@ -59,7 +59,7 @@ According to various authorities, there are various levels of nothing, but a goo
 
 [^399]: Hossenfelder, Sabine. “**What Is ‘Nothing’?**” Backreaction, September 24, 2022. https://backreaction.blogspot.com/2022/09/what-is-nothing.html. 
 
-What level would “I have nothing in my bank account” be categorized?  Having a measurable balance of 0 puts your absolutely empty bank account in Level 6, and being a measure of the non-physical entity of credit puts it in level 7.  Although being flat broke may feel like absolute nothingness, finances are a value that is derived from physical things and is the transference of energy between things (people, businesses etc.), and could even be considered a “field”, making your poverty a relative form of nothignness.
+What level would “I have nothing in my bank account” be categorized?  Having a measurable balance of 0 puts your absolutely empty bank account in Level 6, and being a measure of the non-physical entity of credit puts it in level 7.  Although being flat broke may feel like absolute nothingness, finances are a value that is derived from physical things and is the transference of energy between things (people, businesses etc.), and could even be considered a “field”, making your poverty a relative form of nothingness.
 
 *Relative nothingness* is contextual.  *Absolute nothingness* has no context because nothing exists to give it context, so there is nothing that can be said about absolute nothingness.  Even calling it *absolute nothingness* is limiting, as the concept of *absolute* implies “*to the largest degree possible*”, which implies size, measure and time, none of which exist in *absolute nothingness*, and just adding words like *super-duper-ultra-unlimited* doesn’t fix this.  Perhaps the only thing that can be said about true nothingness is that there is nothing we can say about it.  In this way, primal, true, or absolute nothingness is synonymous with the *Tao* as described by Lao Tzu when he said:
 
@@ -146,7 +146,7 @@ The truth is, or rather *a* truth is,  the numbers 0 and 1 are remarkably flexib
 
 ## Order and the chaos of 0 and &infin;
 
-It was Newton’s contemplation of $\frac{0}{0}$ that lead to his invention of calculus, and while we are taught that equations with 0 or &infin; are problematic and best to stay away from, calculus can prove that &infin;<sup>&infin;</sup>,1<sup>&infin;</sup>,0<sup>0</sup>,$\frac{\infty}{\infty}$,0&times;&infin;,&infin;-&infin; all equal $\frac{0}{0}$ , and yet, even today, we are not sure what $\frac{0}{0}$ actually is.  We can see evidence of this in current research, such as the research of the Chief Editor of of the publication *Causation*, Ilija Barukčić, titled “*Zero Divided by Zero Equals One*”[^367], which starts out with:
+It was Newton’s contemplation of $\frac{0}{0}$ that led to his invention of calculus, and while we are taught that equations with 0 or &infin; are problematic and best to stay away from, calculus can prove that &infin;<sup>&infin;</sup>,1<sup>&infin;</sup>,0<sup>0</sup>,$\frac{\infty}{\infty}$,0&times;&infin;,&infin;-&infin; all equal $\frac{0}{0}$ , and yet, even today, we are not sure what $\frac{0}{0}$ actually is.  We can see evidence of this in current research, such as the research of the Chief Editor of of the publication *Causation*, Ilija Barukčić, titled “*Zero Divided by Zero Equals One*”[^367], which starts out with:
 
 >  Objective: Accumulating evidence **indicates** that zero divided by zero equals 1
 
