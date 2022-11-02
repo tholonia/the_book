@@ -23,7 +23,10 @@ Two strangers, Bob and Carol, bump into each other at the butcher shop.  This in
 
 <img src='../Images/graphs-vertical.png' style='float:right;width:30%'/>Every path that can be traveled by any instance already exists because the fields already exist.  The path is the expression of the fields interacting.  We tend to wander through this matrix of possibilities in a manner that appears aimless, similar to the manner bacteria wander about in their puddles of plasma, but from the tholonic perspective, these paths are determined by various cooperative and competing tholonic fields.
 
-Perhaps one of the best instances of this that is easily understood is music.  Consider that a finite <u>number</u> of notes exist, but within those notes an almost infinite <u>number</u> of tunes can be written.  If we mapped every combination of notes, the tune could be seen as a path on that map.  This is more than just a thought experiment… it’s an actual undertaking by music theorist <u>Julian Cook</u>, who described in his article  “*Mapping the Music*”,[^178] how the <u>harmonic</u> path of a Beethoven sonata can be visualized on a *Tonnetz* graph (left)&hellip; a graph that happens to look just like a 2D <u>tholon</u> map.  In this example, the notes are acting like the <u>fields</u>, and the playing of those notes represents <u>energy</u> moving through these <u>fields</u>, forming music, or lightning, plants, rivers, <u>neurons</u>, and everything else.
+Perhaps one of the best instances of this that is easily understood is music.  Consider that a finite <u>number</u> of notes exist, but within those notes an almost infinite <u>number</u> of tunes can be written.  If we mapped every combination of notes, the tune could be seen as a path on that map.  This is more than just a thought experiment… it’s an actual undertaking by music theorist <u>Julian Hook</u>, who described in his article  “*Exploring Musical Space*”,[^178] how the <u>harmonic</u> path of a Beethoven sonata can be visualized on a *Tonnetz* graph (left)&hellip; a graph that happens to look just like a 2D <u>tholon</u> map.  In this example, the notes are acting like the <u>fields</u>, and the playing of those notes represents <u>energy</u> moving through these <u>fields</u>, forming music, or lightning, plants, rivers, <u>neurons</u>, and everything else.
+
+[^178]: Hook, Julian, “**Exploring Musical Space**”, 2006, Science, 49-50, V 313, 5783, doi:10.1126/science.1129300, https://www.science.org/doi/abs/10.1126/science.1129300
+
 
 Music also demonstrates how certain <u>patterns</u> can lay down the foundations upon which other <u>patterns</u> and expressions build upon.  For example, there are many different types of scales, such as *pentatonic*, which has 5 notes per octave, or the *Western Major Scale*, with the classic 7 notes most Westerners are used to.  Sound occurs when <u>energy</u> is applied to matter, and notes represent the *dots* that we have identified within that <u>chaos</u> of white <u>noise</u> through our power of reasoning.  We form <u>patterns</u> and connect these dots that exist in the sea of <u>chaos</u> that is all sound, and by doing so we create “music”.  We describe white <u>noise</u> as all <u>frequencies</u> expressed at once, but it is equally accurate to describe white <u>noise</u> as every possible <u>pattern</u> of all possible notes being performed at once, similar to how incoherent white light is an infinite number of coherent frequencies and directions.  This tells us that all possible forms of music, all songs, rhythms, beats, arrangements, etc., already exist within that white <u>noise</u> and all that we can do is discover them.
 
@@ -31,14 +34,20 @@ This discovery is not limited to <u>humans</u>, as we see this same thing in son
 
 In 2012, *<u>Science</u> Magazine* published an article citing a report from the *Journal of Animal Behavior* titled “*Is birdsong music? Evaluating <u>harmonic</u> intervals in songs of a Neotropical songbird*”[^311] that concluded that  any musicality we might hear in a bird’s song is nothing more than projection on the human’s part.  2 years later, however, they published an article that cites a later study from the *Proceedings of the National Academy of Sciences*, titled “*Overtone-based pitch selection in hermit thrush song: Unexpected <u>convergence</u> with scale construction in human music*”[^310], which concluded that birds most likely choose the notes they sing, and that these notes are the same notes that we <u>humans</u> have also selected to create our musical scales.
 
+[^311]: Araya-Salas, M. (2012). Is birdsong music? Evaluating harmonic intervals in songs of a Neotropical songbird. *Animal Behaviour,* *84*(2), 309-313. doi:10.1016/j.anbehav.2012.04.038.  Seience article available at https://www.sciencemag.org/news/2012/08/birdsong-not-music-after-all
+
+[^310]: Emily L. Doolittle, Bruno Gingras, Dominik M. Endres, and W. Tecumseh Fitch, PNAS November 18, 2014 111 (46) 16616-16621; first published November 3, 2014; https://doi.org/10.1073/pnas.1406023111.  Science article available at: https://www.sciencemag.org/news/2014/11/birds-found-using-human-musical-scales-first-time
+
 The <u>tholonic</u> position is simply that some <u>patterns</u> are more stable and efficient than others, such as the <u>harmonic</u> series, so we would expect to see it in music, bird songs, fungal growth, orbits, and countless other contexts.
 
-Even in the world of bacterial meandering, we see a pattern.  Not surprisingly, it is the inverse of a <u>Bell curve</u>, in that a group of <u>bacteria</u> released at the same time starts out relatively <u>coherent</u> and eventually disperses to incoherence.  It’s almost (or exactly) as if the instances of creations emerge from a <u>tholon</u>’s <u>Bell curve</u> in a manner inverse to that <u>Bell curve</u>, like a kind of <u>balancing</u> factor, much like the way a positive charge will automatically create a pairing with a negative charge, or how the amount of water that falls to the <u>earth</u> (rain) is equivalent to the amount of water that rises into the sky (evaporation) from the earth.  States of <u>order</u> create states of <u>chaos</u>, which create new states of order.
+Even in the world of bacterial meandering, we see a pattern.  Not surprisingly, it is the inverse of a <u>Bell curve</u>, in that a group of <u>bacteria</u> released at the same time starts out relatively <u>coherent</u> and eventually disperses to incoherence.  It’s almost (or exactly) as if the instances of creations emerge from a <u>tholon</u>’s <u>Bell curve</u> in a manner inverse to that <u>Bell curve</u>, like a kind of <u>balancing</u> factor, much like the way a positive charge will automatically create a pairing with a negative charge, or how the amount of water that falls to the <u>earth</u> (rain) is equivalent to the amount of water that rises into the sky (evaporation) from the earth.  States of <u>order</u> create states of <u>chaos</u>, which create new states of order.  It also appear that archetypes are always decreasing in entropy, becoming more ordered, while their instance are always increasing in entropy.  This is possible because in teh world of archetypes, there is no *arrow of time*, only *arrow of order*.
 
 #### **Key 79:** <u>Archetypes</u> tend toward <u>order</u>, while instances tend toward chaos.
 
 
 In the early generations of the thologram, the <u>numbers</u> of paths are limited, and with the additional generations, the <u>number</u> of paths increase.  This <u>movement</u> may appear <u>random</u>, but not only does it disperse according to a <u>Bell curve</u>, it actually follows the same rules as the thologram itself in that it is self-similar and <u>fractal</u> in nature.[^179]
+
+[^179]: Lilly, J. M., Sykulski, A. M., Early, J. J., and Olhede, S. C.: **Fractional Brownian motion, the Matérn process, and stochastic modeling of turbulent dispersion**, Nonlin. Processes Geophys., 24, 481-514, <https://doi.org/10.5194/npg-24-481-2017>, 2017.
 
 <center><img src='../Images/105-brownian-growth.png' style='width:100%'/></center>
 
@@ -56,9 +65,13 @@ While every <u>tholon</u> is unique, its instances will usually be very similar.
 
 <u>Tholons</u> are more than just <u>archetypes</u> of things.  They are also <u>archetypes</u> of <u>ideas</u>, contexts, situations, experiences, concepts. Here are some of the more popular or well-known stories of “coincidences” that, when viewed <u>tholonically</u>, might offer insight.[^180]
 
+[^180]: Grabbed from <https://www.oddee.com/item_82923.aspx>
+
 ### Laura Buxton
 
 <img src='../Images/buxtons.png' style='float:right;width:40%'/>In June of 2001, a 10-year-old girl named Laura Buxton released a balloon with her name and address on it.  That balloon floated 140 miles and landed in the back yard of a house where also lived a 10 year old girl named Laura Buxton.  On the day of the meeting, the two girls wore essentially the same outfit — a pink sweater and jeans.  The girls were the same height, which was unusual because they were both tall for their age.  They both had brown hair and wore it in the same style.  They both had three-year-old black Labrador Retrievers at home, as well as gray pet rabbits.  They both had guinea pigs, which were the same color and even had the same orange markings on their hindquarters.  It was almost as though these two Laura Buxtons were the same person.[^181] On the right is a picture of the two Laura Buxtons, who are still friends today.
+
+[^181]: Quited directly from https://www.snopes.com/fact-check/whether-balloon/
 
 *Here there are two contextually separated instances of one <u>tholonic</u> path.  What is fascinating about this is that the two instances, being of one <u>archetype</u>, would naturally have an existing connection with some opposing attributes, like how a photon, when split, has two opposing spins that are forever entangled. This connection, or entanglement, was instantiated via the red balloon that carried the address between the receiving side and the transmission side of this split instance.*
 
@@ -198,14 +211,15 @@ One could argue that these preferences are only a result of <u>evolution</u> as 
 
 The human <u>brain</u>, <u>cellular</u> mechanics, and all <u>life</u> in general, is wired to be both competitive[^182] and cooperative[^183] at the same time, which implies that this is (so far) the most effective manner for an instance to express the <u>intention</u> of its <u>tholonic</u> <u>archetype</u> that has its source in the *primal <u>intention</u>*.
 
-<hr>
-
-[^178]: SCIENCE 313:49 7/7/2006
-[^179]: Lilly, J. M., Sykulski, A. M., Early, J. J., and Olhede, S. C.: **Fractional Brownian motion, the Matérn process, and stochastic modeling of turbulent dispersion**, Nonlin. Processes Geophys., 24, 481-514, <https://doi.org/10.5194/npg-24-481-2017>, 2017.
-[^180]: Grabbed from <https://www.oddee.com/item_82923.aspx>
-[^181]: Quited directly from https://www.snopes.com/fact-check/whether-balloon/
 [^182]: Bowling, Sarah, Katerina Lawlor, and Tristan A. Rodríguez. "**Cell Competition: The Winners and Losers of Fitness Selection.**" *Development* 146, no. 13 (2019). doi:10.1242/dev.167486.
 [^183]: Balconi, Michela, Davide Crivelli, and Maria Elide Vanutelli. **"Why to Cooperate Is Better than to Compete: Brain and Personality Components".** *BMC Neuroscience* 18, no. 1 (2017). doi:10.1186/s12868-017-0386-8.
-[^310]: Emily L. Doolittle, Bruno Gingras, Dominik M. Endres, and W. Tecumseh Fitch, PNAS November 18, 2014 111 (46) 16616-16621; first published November 3, 2014; https://doi.org/10.1073/pnas.1406023111.  Science article available at: https://www.sciencemag.org/news/2014/11/birds-found-using-human-musical-scales-first-time
 
-[^311]: Araya-Salas, M. (2012). Is birdsong music? Evaluating harmonic intervals in songs of a Neotropical songbird. *Animal Behaviour,* *84*(2), 309-313. doi:10.1016/j.anbehav.2012.04.038.  Seience article available at https://www.sciencemag.org/news/2012/08/birdsong-not-music-after-all
+<hr>
+
+
+
+
+
+
+
+
