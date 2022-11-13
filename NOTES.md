@@ -1,6 +1,6 @@
 # TODO
 
-- spell check
+- spell checkBy User:Fropuff~commonswiki - Made with Mathematica, Public Domain, https://commons.wikimedia.org/w/index.php?curid=862362
 - move footnotes
 - format footnotes
 - check quotes (straight to curly), in URL check for single-straight
@@ -27,27 +27,12 @@ certamenbailebarracas@gmail.com
 # FIXES
 
 - law of Motions -> Law of Motion
-- `2 space regex  s/(\.)\s+?(.*)/$1  $2/gmi`
-
--  cp 050-REASON.md 050-REASON.md.bak && perl -pi -e 's/(\.)\s{1}([a-zA-Z]{1})/$1  $2/gis' 050-REASON.md
-
+- “mind viruese” -> mind-virus
+- 
 - spped of light -> speed-of-lght
-
 - stright quotes -> ”
-
 - paragraphs/sentences that start with “this” (“this suggests”, “this tells us”m etc)
-
-​	
-
-By User:Fropuff~commonswiki - Made with Mathematica, Public Domain, https://commons.wikimedia.org/w/index.php?curid=862362
-
-tetra attribute
-
-
-
-I personally ran this test on IBM's Quantum Computer (not that I doubted the results. I just wanted to say I did it), and, indeed, the physicists much more intelligent than me were correct (I know that will be a relief to them). 
-
-
+- “”
 
 # REFS/POINTS
 
@@ -63,8 +48,18 @@ I personally ran this test on IBM's Quantum Computer (not that I doubted the res
 - https://uncommondescent.com/intelligent-design/sequences-probability-calculator-6/  interesting numbes realting to possibiliries
   
 - (FIELDS) bioresonance -> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8892610/
-  
-  
+
+9/11 attention focusing moment
+
+
+
+
+
+
+
+
+
+
 
 Hermeticism (get link)
 

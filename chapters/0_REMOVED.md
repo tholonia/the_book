@@ -13,6 +13,10 @@ JWFIX (below)
 
 This touches on the related concept of weather man-made items are as much a product of nature as anything else, given that mankind is a product of nature.   It is the tholonic position that anything that exists can only be a product of the forces and laws of existence, and therefore is “natural”.  Tupperware, insecticides, genetically modified or invented life forms, computers, AI, cars, nuclear bombs, baseball, mirrors; all these things are as natural as beehives, ant colonies, beaver dams, poisonous volcanic fumes, asteroid collisions, and viruses.  Some creations are simply more sustainable than others.  If we consider that nothing is forever (except energy and maybe black holes), than nothing is ultimately sustainable (except high-entropy chaos).  Just look at our own tiny sliver of reality here on Earth.  In just the short time there has been life on Earth, 99.9% of all species have disappeared.  What percent of everything that ever existed in the Universe turned out to be sustainable? There is no way of knowing, but it’s probably safe to say that what exists now is a very, very small fraction of what has ever existed.  The Universe does not care if we go extinct or even if we destroy the planet, but many of its inhabitants do, as does the planet itself, and by extension our solar system.  There are many forces that have the power to make re-balancing adjustments when, and if, necessary.~~
 
+# MIND
+
+we are off to a dreadful start. This area of research of much more complicated than, say, nuclear physics, and we need only to look at the Castle Bravo atomic detonation in 1954, which turned out to be 2.5 times bigger than expected, contaminating the surrounding 15 islands of the Bikini Atoll, sickening and killing many residents.
+
 # INSTANCES
 
 While there is no such particle made of UUU or DDD quarks (as far as I know, and if one did exist, it would be so imbalanced and unstable it would only exist for an instant), they do exist in an uninstantiated state in the parent, the blue dot, the N-state, which, again, is a state that exists only as a concept, not in material reality.  
