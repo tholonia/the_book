@@ -151,7 +151,7 @@ The Tholonic idea here is that even within random or unpredictable data, the law
 
 These patterns are the same for any series of random numbers.  When I ran these same tests using random numbers between 1 and 1,000,000, the result were visually identical.  The reason it works with market data is because that, too, is random, for all intents and purposes.  So, while these patterns do not tell us anything new about market data specifically, they do tell us something about the cyclical nature of even the most unpredictable events.
 
-# Applying Newton’s 2<sup>nd</sup> Law to the Market
+# Applying Newton’s 2<sup>nd</sup> law to the Market
 
 *Note: This is very ‘beta’.*
 

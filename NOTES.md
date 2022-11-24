@@ -1,18 +1,20 @@
 # TODO
 
-- spell checkBy User:Fropuff~commonswiki - Made with Mathematica, Public Domain, https://commons.wikimedia.org/w/index.php?curid=862362
+- spell check
 - move footnotes
 - format footnotes
 - check quotes (straight to curly), in URL check for single-straight
 - No JWFIX notes
+- search for ‘~~’
 - index words
 - pdf proof
-- 2-space after period
-  - `cp 050-REASON.md 050-REASON.md.bak && perl -pi -e 's/(\.)\s{1}([a-zA-Z]{1})/$1  $2/gis' 050-REASON.md`
-
+- 2-space after 
+  - /home/jw/books/tholonia/bin/2spaces.sh FILENAME
 - check paragraph spacing
+- check for >> or >>> for ‘>’
 - reclaim.py
 - check 1st vs ‘first’
+- footnotes after . preferably at EOS
 
 certamenbailebarracas@gmail.com
 
@@ -26,7 +28,7 @@ certamenbailebarracas@gmail.com
 
 # FIXES
 
-- law of Motions -> Law of Motion
+- Law of Motion -> law of Motions 
 - “mind viruese” -> mind-virus
 - 
 - spped of light -> speed-of-lght
@@ -34,38 +36,35 @@ certamenbailebarracas@gmail.com
 - paragraphs/sentences that start with “this” (“this suggests”, “this tells us”m etc)
 - “”
 
-# REFS/POINTS
+# POINTS
 
 - 7 as the spectrum between 1 and 2 (why?)
+- 
+- **expansio = incoherence, chaos, pulling apart… gravity = pattern, soherence, pulling to=gether.  universe expamsio pulling it apart, gravity holding iot together**
+- **(FIELDS) bioresonance -> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8892610/** (100-fields)
+- **9/11 attention focusing moment** (110-applcation)
+- https://www.youtube.com/watch?v=JTvcpdfGUtQ
 
+  stewart firestein, chair of biological sciecnes ta columbia.  
+
+  it is there that scince begins, where teh facts run out, just beyind them.  it is a mistake to boibble around in the circle of fActs iknstead of riding teh wave to the great expance lying outside the circle
+
+- https://logosconcarne.com/2016/08/17/hunting-tesseracti/  progressions of 1,2,4,8,16 … 1,4,12,32…  
+
+# REFS
+
+- https://uncommondescent.com/intelligent-design/sequences-probability-calculator-6/  interesting numbes realting to possibiliries
+
+- SA article on tholonics (more or less)
+  - https://blogs.scientificamerican.com/observations/the-hippies-were-right-its-all-about-vibrations-man/
 - hidden dimensions: https://www.youtube.com/watch?v=9If-K9R3Ka4
-
+  - relativity turned gravity into geometry 5:03
 - trithagoria: https://www.youtube.com/watch?v=Y5wiWCR9Axc
   26:00 fir dimension stuff
 
-- expansio = incoherence, chaos, pulling apart… gravity = pattern, soherence, pulling to=gether.  universe expamsio pulling it apart, gravity holding iot together
-  
-- https://uncommondescent.com/intelligent-design/sequences-probability-calculator-6/  interesting numbes realting to possibiliries
-  
-- (FIELDS) bioresonance -> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8892610/
-
-9/11 attention focusing moment
 
 
 
-
-
-
-
-
-
-
-
-Hermeticism (get link)
-
-SA article on tholonics (more or less)
-
-https://blogs.scientificamerican.com/observations/the-hippies-were-right-its-all-about-vibrations-man/
 
 
 

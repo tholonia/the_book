@@ -2,7 +2,7 @@
 
 # Part I
 
-Part I of this book introduces the ideas and concepts that form the vocabulary later used to describe the tholonic model presented.  These are not esoteric or niche concepts but the most fundamental concepts known to science, such as energy, chaos, order, waves, and Newton’s Laws.  As we review these basic concepts, we also expand on them and build new concepts that will be critical in describing what role awareness plays in the theater of existence, how and why consciousness *had* to evolve, and the nature of intelligence; artificial, human, or otherwise.
+Part I of this book introduces the ideas and concepts that form the vocabulary later used to describe the tholonic model presented.  These are not esoteric or niche concepts but the most fundamental concepts known to science, such as energy, chaos, order, waves, and Newton’s laws.  As we review these basic concepts, we also expand on them and build new concepts that will be critical in describing what role awareness plays in the theater of existence, how and why consciousness *had* to evolve, and the nature of intelligence; artificial, human, or otherwise.
 
 <div style='page-break-after: always; break-after: always;'></div>
 # 1: CHAOS
@@ -29,7 +29,7 @@ There is also the Ancient Greek mythological definition of the word χάος, *K
 
 In physics, chaos is defined as “*The property of a complex system whose behavior is so unpredictable as to appear random, owing to great sensitivity to small changes in conditions*”,  a.  k.  a. *The Butterfly Effect*, but as science writer James Gleick points out:[^2]
 
-[^2]: Gleick, J.  (1998).  **Making a New Science**.
+[^2]: Gleick, J.  (1998).  “**Making a New Science**”.
 
 > No one [of the chaos scientists he interviewed] could quite agree on [a definition of] the word itself, and so instead gives descriptions from a number of practitioners in the field.  Those scientists that do have a definition are hardly in agreement, as Philip Holmes defined “chaotic” as “The complicated aperiodic attracting orbits of certain, usually low-dimensional dynamical systems.” 
 
@@ -49,7 +49,7 @@ Everyone from scientists to mystics seems to agree on the rather obvious premise
 
 How “big” was this nothingness?  Is there a limit to nothingness?  If there is, how is that defined?  If there is no limit, then is nothingness infinite?  These may sound like silly questions, but they are actively being researched and debated in the worlds of science, philosophy, and mathematics[^376].
 
-[^376]: Sorensen, Roy. “Nothingness.” Stanford Encyclopedia of Philosophy.  Stanford University, February 28, 2022.  https://plato.stanford.edu/entries/nothingness/. 
+[^376]: Sorensen, Roy. “**Nothingness.**” Stanford Encyclopedia of Philosophy.  Stanford University, February 28, 2022.  https://plato.stanford.edu/entries/nothingness/. 
 
 First, we must be clear about what we mean by *nothing* because conceptually, there are numerous types of nothingness (and many types of &infin; as well, possibly infinite).
 
