@@ -296,7 +296,11 @@ Just as an entity will endanger its parent collective to preserve its members, a
 
 This perspective also explains how a person can sacrifice themselves for the sake of another, even though they have no genetic connection to the other person, ruling out genetic preference as is the case when a parent sacrifices themselves for their child.  This would also suggest that our most basic drive is not only the survival of the self but also the survival of something more important than the self, yet still be self-serving.  We see this in cases of honor, country, god, etc., and other examples common in a collective.
 
-You might think this is a trait unique to humans, but this is not the case.  We see instances of this in single-cell organisms[^33], multi-cellular organisms[^34] (such as slime mold, where, when faced with scant resources, specific cells will sacrifice themselves for the sake of the greater organism.[^35]), virulent parasites[^36], plants[^37], to name a few.  In society, this is clearly exemplified in soldiers willing to die for their country or ideology, as well as countries willing to send their soldiers into war.
+You might think this is a trait unique to humans, but this is not the case.  We see instances of this in single-cell organisms[^33], multi-cellular organisms[^34]such as slime mold, where, when faced with scant resources, specific cells will sacrifice themselves for the sake of the greater organism.[^35], virulent parasites[^36], plants[^37], to name a few.  In society, this is clearly exemplified in soldiers willing to die for their country or ideology, as well as countries willing to send their soldiers into war.  In times of scarcity, we can see parallels as well.
+
+<center><img src='../Images/Dictyostelium_discoideum.png' style='width:100%'/></center>
+
+
 
 [^33]: Fiegna, F., &amp; Velicer, G.  J.  (2003).  “**Competitive fates of bacterial social parasites: Persistence and self–induced extinction of Myxococcus xanthuscheaters**”.  Proceedings of the Royal Society of London.  Series B: Biological Sciences, 270(1523), 1527-1534.  doi:10.1098/rspb.2003.2387;
 [^34]: Muir and Howard, 1999 - Rankin, D.  J., López-Sepulcre, A., Foster, K.  R., &amp; Kokko, H.  (2007).  “**Species-level selection reduces selfishness through competitive exclusion.**” Journal of Evolutionary Biology, 20(4), 1459-1468.  doi:10.1111/j.1420-9101.2007.01337.x

@@ -6,6 +6,7 @@
 - check quotes (straight to curly), in URL check for single-straight
 - No JWFIX notes
 - search for ‘~~’
+- check URL image links
 - index words
 - pdf proof
 - 2-space after 
