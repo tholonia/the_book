@@ -1,5 +1,11 @@
 
 
+
+
+However, this metaphorical relationship does have real-world instances, such as teh relationship between gravity and consciousness. We;ll explain how and why below, and hopefully, the pattern will be 
+
+
+
 $\begin{gather}
  \notag\\
 \pi =\sum _{i=0}^{\infty }\frac{1}{16^{i}}\left(\frac{4}{8i+1} -\frac{2}{8i+4} -\frac{1}{8i+5} -\frac{1}{8i+6}\right)
@@ -8,6 +14,12 @@ $\begin{gather}
 https://www.ams.org/journals/mcom/1997-66-218/S0025-5718-97-00856-9/home.html
 
 #060
+
+
+
+
+
+
 
 JWFIX (below)
 
@@ -26,6 +38,58 @@ As a comparison, here are two versions of a square model of the same 12 formulas
 <center><img src='../Images/tri-square.png' style='width:100%'/></center>
 
 ##  —
+
+## Fibonacci Tholon
+
+The Fibonacci formula and its resulting sequence and ratio is especially tholonic, as we’ll show here.
+
+The normal Fibonacci formula is *Fn=Fn-1+Fn-2*, where *Fn* is a value in the sequence of the Fibonacci sequence.  So, is we start with the first 2 values of *F<sub>0</sub>=0* and *F<sub>1</sub>=1*, then *F<sub>2</sub>=F<sub>2-1</sub>+F<sub>2-2</sub>*, or *F<sub>2</sub>=F<sub>1</sub>+F<sub>0</sub>*, which is *1=1+0*.  Repeating this generates the Fibonacci sequence of 0, 1, 1, 2, 3, 5, 8, 13 ,2 1, 34, 55, 89, 144, 233, etc… which creates the Golden Ratio of 1.618, &Phi;
+
+If we lay out these formulas to expose the pattern, as shown in the lower left images, we see that each statement is composed of 3 numbers that not only have a very clear pattern but are easily mapped to the tholonic trigram.  Why it is a tholonic trigram? Because it begins with 0, the N-state, and the two children are opposite each other, +&Phi; and -&Phi;, and when added together equal the parent, 0.  We show this by performing the same math in the upper left image, but subtracting instead of adding.  More relevant is how when we start with the same 0 and 1, but alternate the subtracting and adding of the same Fibonacci sequence, as we would, given how the tholons alternate with each generation and iteration, we get the image on the right.  Here, we start with the 0, but the two children alternate between -1 and +1.  However, only the red, *Contributing* element represents an impossible function, divide by 0.  From the tholonic view, given that 0 represents not only the 0-dimensional point of SAI, but the source and totality of all reality, then clearly, nothing that exists, conceptually or otherwise,  can be divided by it.  The closest we can come to this concept is something divided by inftyity, which then equals 0, and therefore equals the source and totality of existence.  
+
+<center><img src="../Images/phitri.png" style="width:100%"/></center>
+
+This is also tholonically compatible because applying the alternating Fibonacci formula results in a trigram that allows the tholon to be equated to the *God Formula*, as explained in Chapter 7 “*Structure*”.
+
+<center><img src='../Images/ipe.png' style='width:30%'/></center>
+
+The Fibonacci sequence also supports another tholonic concept, that of the two types of dualities.  If you remember back in chapter 2, “Energy”, it was stated:
+
+> there are at least two different types of duality.  The first being the duality of *somethingness* and *nothingness*, 1 and 0, and the second being two states of *somethingness*.  
+
+Before we can begin calculating the sequence, we need 2 values in order to calculate the 3<sup>rd</sup>.  These two values are 0 and 1.  The remaining numbers of the sequence are the resulting products of these two initial values.   
+
+<center><img src='../Images/fib-parts.png' style='width:50%'/></center>
+
+The number 1 can be replaced with any number or fraction, and while it will produce a very different sequence, it will still produce the ratio of &Phi;.  1 is just the simplest representation of *something*, and given that anything other than 0, or *nothing*, is *something*, we can say that &Phi; represents the relationship between *nothing* and *everything* (or *any something*).
+
+&Phi; also represents the relationship between all things as well, because no matter what number we begin with, the ratio remains &Phi;.
+
+This is the pattern that resolves the two poles of 0 and 1, which exists within the limits of 1 and 2:
+
+<center><img src='../Images/phiplot.png' style='width:80%'/></center>
+
+
+
+However, tholonically, the pattern *might* also look something like this:
+
+<center><img src='../Images/phiplot2.png' style='width:70%'/></center>
+
+As we are dealing with a trigram, perhaps the *tribonacci sequence* would be more appropriate.  The tribonacci sequence is just like the Fibonacci sequence, but instead of adding the previous two values, it adds the previous 3 values, so&hellip;0, 1, 2, 3, 6, 11 20, 37, 68, etc., and it arrives at the ratio of 1.83928675521416.  We won’t explore that here, but it worth noting that this is the ratio of the Rauzy Fractal, which describe how matrices (more that one matrix) interact in 3-dimensional space and It also has the curious relationship with the number 2 because when ***η*** = 1.83928675521416 then  ***η + 1/η<sup>3</sup> = 2***.  Also worth noting is how after the original duality of 01, the next numbers are those of the tholonic trigram, 2, 3, 6, the first values in the duality of things.  
+
+This ratio is not really used for much, however, Robert A. M. Gregson, Emeritus professor in Australia, uses this sequence to test what he calls a “new sort of thermodynamics”, which he describes in chapter 6, “Tribonacci and Long Memory”, in his book “Informative Psychometric Filters”.  He begins with a description that sounds uncommonly tholonic:
+
+> Systems that move from edge-of-chaos into a sort of saturated stability as their complexity increases are considered to be a basis for a new sort of thermodynamics where entropy is not always increasing, but the complexity of both a biological system and its connected potential environment are increasing together.
+
+ For the mathematically curious, using 4 values (*quadonacci*?), rather that 3, the ratio is 1.928, and using 5 (*quintonacci*?), the ratio is 1.966.
+
+---
+
+Just to show how these same patterns keep appearing, the *axis of symmetry* for the values in the tetrahedron above 1, √2, and 2, is: JWFIX[cleanup]
+
+<IMG src="../Images/math/377.svg" style="vertical-align: middle;height:140pt;"/>
+
+**Λ** seems to be of quite significance within the tetrahedral and tholonic relationships.  This is similar in the way cross-summed values (See *Appendix F, “An Unexpected Pattern”*) show relationships between numbers.
 
 
 

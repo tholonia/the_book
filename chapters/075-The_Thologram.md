@@ -3,7 +3,7 @@
 
 ###### How the tholonic structure is defined
 
-##### **Synopsis:** This chapter contains detailed explanations of how the thologram came into existence from nothingness and the structures of, and within, the thologram with real-world insWhile there are particles that are composed of 3 UP and 3 DOWN quarks (*delta baryons*), they are extremely unstable and imbalanced and only exist for ~5.63&times;10<sup>-24</sup> seconds.tances.  We explain and explore the thologram using geometry, math, colors, fractals, and numbers and apply some ancient and modern concepts to validate the redundancy of the thologram.
+##### **Synopsis:** This chapter contains detailed explanations of how the thologram came into existence from nothingness and the structures of, and within, the thologram with real-world instances.  We explain and explore the thologram using geometry, math, colors, fractals, and numbers and apply some ancient and modern concepts to validate the redundancy of the thologram.
 
 ##### **Keywords:** generations, iterations, N-states, entropy, matrices, dimensionality, tholons, virtuality, binary, geometry
 
@@ -204,7 +204,7 @@ Besides being an interesting factoid, the tessellating abilities of these forms 
 
  We could call this a fascinating coincidence, or we might wonder if the shapes that can describe all matter and occupy all space might have a relationship to&hellip; all matter and all space.  If so, then dark-matter appears to be how *nothingness* instantiates in our material Universe. 
 
-But there might be much to this incredibly coincidental relationship.  For example, we live in a Newtonian world where *cause* is followed by *effect*, mass and energy follow the rules, and nothing travels faster than the speed of light, thereby preventing “spooky actions at a distance”, to quote Einstein.  Everything we think, believe, and build is based on these laws of reality, and millions upon millions of tests prove that reality is built on these laws.
+But there might be much mote to this incredibly coincidental relationship.  For example, we live in a Newtonian world where *cause* is followed by *effect*, mass and energy follow the rules, and nothing travels faster than the speed of light, thereby preventing “spooky actions at a distance”, to quote Einstein.  Everything we think, believe, and build is based on these laws of reality, and millions upon millions of tests prove that reality is built on these laws.
 
 Then quantum physics crashed the party.  Now, tossing a coin a million times may or may not result in 50/50 heads/tails.  The *Bell Inequality Theorem* make the quite reasonable claim that if the laws of reality can be broken, then reality, truth, and facts as we know them are not what we think they are.  That was in 1964, and  since 1972 scientists have been using reality, truth, and facts to prove that reality, truth, and facts may not be real, true, or factual.
 
