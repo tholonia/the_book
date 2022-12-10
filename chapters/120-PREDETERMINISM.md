@@ -3,9 +3,9 @@
 
 ###### Free will exists, but its options are limited
 
-##### **Synopsis:** JWFIX
+##### **Synopsis:** The path of least resistance on many levels. Emerging paths. The creation and existence of paths. Chaos and order in archetypes. Various concepts of “work”. Tholonic instantiation.
 
-##### **Keywords:** JWFIX
+##### **Keywords:** paths, entropy, music, chaos, order, archetypes, work, energy
 
 Remember the explanation of how a lightning rod works?  It simply creates a path of least resistance between 2 different states that seek balance, and, as energy always travels the path of least resistance, lightning will always seek the lightning rod over a brick chimney.  We can say that the path of the lightning was predetermined by the laws of physics before the lightning event, just as we can say that the lightning only came into existence because such a path even existed in the 1<sup>st</sup> place.  In other words, the instance of lightning is a consequence of the preexisting energy fields.
 
@@ -38,9 +38,9 @@ This discovering is not limited to humans, as we see this same thing in songbird
 
 In 2012, *Science Magazine* published an article citing a report from the *Journal of Animal Behavior* titled “*Is birdsong music?  Evaluating harmonic intervals in songs of a Neotropical songbird*”[^311] that concluded that any musicality we might hear in a bird’s song is nothing more than projection on the human’s part.  2 years later, however, they published an article that cites a later study from the *Proceedings of the National Academy of Sciences*, titled “*Overtone-based pitch selection in hermit thrush song: Unexpected convergence with scale construction in human music*”[^310], which concluded that birds most likely choose the notes they sing and that these notes are the same notes that we humans have also selected to create our musical scales.
 
-[^311]: Araya-Salas, M. (2012).  Is birdsong music?  Evaluating harmonic intervals in songs of a Neotropical songbird. *Animal Behaviour,* *84*(2), 309-313.  doi:10.1016/j.anbehav.2012.04.038.  Science article available at https://www.sciencemag.org/news/2012/08/birdsong-not-music-after-all
+[^311]: Araya-Salas, M. (2012).  “**Is birdsong music? Evaluating harmonic intervals in songs of a Neotropical songbird**”. *Animal Behaviour,* *84*(2), 309-313.  doi:10.1016/j.anbehav.2012.04.038.  Science article available at https://www.sciencemag.org/news/2012/08/birdsong-not-music-after-all
 
-[^310]: Emily L.  Doolittle, Bruno Gingras, Dominik M.  Endres, and W.  Tecumseh Fitch, PNAS November 18, 2014, 111 (46) 16616-16621; first published November 3, 2014; https://doi.org/10.1073/pnas.1406023111.  Science article available at: https://www.sciencemag.org/news/2014/11/birds-found-using-human-musical-scales-first-time
+[^310]: Emily L.  Doolittle, Bruno Gingras, Dominik M.  Endres, and W.  Tecumseh Fitch, “**Birds found using human musical scales for the first time**”, PNAS November 18, 2014, 111 (46) 16616-16621; first published November 3, 2014; https://doi.org/10.1073/pnas.1406023111.  Science article available at: https://www.sciencemag.org/news/2014/11/birds-found-using-human-musical-scales-first-time
 
 The tholonic position is simply that some patterns are more stable and efficient than others, such as the harmonic series, so we would expect to see it in music, bird songs, fungal growth, orbits, and countless other contexts.
 
@@ -63,6 +63,7 @@ There only needs to be a single random event, or random seed, at the beginning o
 But there is another concept to consider regarding paths of least resistance.  As demonstrated in the effort expended listening to a lecture on “*Post-modern Fashion in Appalachia*” vs.  digging a ditch, resistance can vary wildly.  What is least resistant for me is not what is least resistance to a sociology professor teaching “Dr.  Seuss and Y(our) World” (an actual class at, coincidentally, Appalachian State University).  This resistance is not electrical, thermodynamic, or mechanical, nor is the psychic energy it is resisting, but this psychic energy is just as influential in deciding what path will be chosen.  As everything is energy, and energy travels the path of least resistance in the process of balancing itself, whatever this psychic energy is, it must also be traveling the path of least resistance and attempting to balance itself.
 
 Although a bit of a tangent, and undoubtedly worthy of more than a paragraph, it’s worth stating here that the idea of reincarnation has a tholonic explanation, which goes something like the following:
+
 What some people believe to be past-life experiences are collective memories associated with the path we happen to be instantiating, or traveling, if you will, and which we identify with mainly due to our ego’s nature to relate these inherited and embedded memories (and everything else, apparently) to one’s self.  There will naturally be more instances (of people) in these well-worn paths of archetypes simply because these paths are the paths of lesser resistance.  Hence, many individuals will share the same memories of this path, which explains why many believe they were some grand historical figure in a past life.  
 
 This is not an idea limited to reincarnation, as numerous patterns dominate and influence the ideas that make up our view of reality at different times.  For this reason, reality, from atoms to ideas, also differs across time.  Take the concept of an atom which is based on the patterns of reality we happen to be discovering at this point in our journey.  At other times, this concept didn’t exist or did so quite differently.  Perhaps in the future, it may disappear altogether.  There may come a time (or was a time) when what we see as atoms are seen as spirits, bits of intelligence, or 3D projections of a 248D magic crystal, or something we are incapable of imagining at this time.  The laws that apply in the context of atoms, now and in the future, will also apply to “spirits” or bits of intelligence, or however we choose to see them, and these laws will also be understood within the context and scope of the time.  Just in the last 90 years alone, the model of the electron has morphed from a type of “mist” (1905) to little orbiting particles (1911) to standing wave patterns (1924) to the probability fields of quantum mechanics that extend to the edge of an entangled Universe (1926).
@@ -166,7 +167,7 @@ Here we return to the concept of *intention* which was skipped over previously b
 
 #### **Key 38:** The “intention” of energy is to balance itself, this all movement of energy is “intention”.
 
-At the particular point we are in the life syscle fo teh Universe, there is certainly support for the ideas that an ever increasing order is the obvious direction of growth and evolution.  This is because we are still on the ascending side of teh slope where low-entropy chaos form order.  Is is therefore natural for us to believe that existence itself is a journey toward higher order, an unfolding or explication of implicit, embedded, encoded, predestined, hidden orders.  This is basis of the concept behind *Intelligent Design*, and various concept of divine destiny, which presume that the creator of the Universe had a plan, or an personal intention at the moment of creation.  This idea is an anthropomorphic version of the fact that the *intention* of energy is to balance itself, not because of a desire or choice, but because of the laws of nature.   
+At the particular point we are in the life cycle of the Universe, there is certainly support for the ideas that an ever increasing order is the obvious direction of growth and evolution.  This is because we are still on the ascending side of the slope where low-entropy chaos form order.  Is is therefore natural for us to believe that existence itself is a journey toward higher order, an unfolding or explication of implicit, embedded, encoded, predestined, hidden orders.  This is basis of the concept behind *Intelligent Design*, and various concept of divine destiny, which presume that the creator of the Universe had a plan, or an personal intention at the moment of creation.  This idea is an anthropomorphic version of the fact that the *intention* of energy is to balance itself, not because of a desire or choice, but because of the laws of nature.   
 
 However, at some point in the journey,  the *intention* of existence will be sliding down the slope from order to high-entropy chaos, and if there are conscious being around when that happens, they will probably conclude that all of existence, god, and the purpose of reality is to destroy all forms of order.
 
@@ -180,3 +181,4 @@ The human brain, cellular mechanics, and all life, in general, are wired to be b
 [^183]: Balconi, Michela, Davide Crivelli, and Maria Elide Vanutelli. **“Why to Cooperate Is Better than to Compete: Brain and Personality Components”.** *BMC Neuroscience* 18, no. 1 (2017).  doi:10.1186/s12868-017-0386-8.
 
 <hr>
+

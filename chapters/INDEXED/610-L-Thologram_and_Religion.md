@@ -31,15 +31,13 @@ He doubles down on his heretical claims by stating that reality is controlled by
 
 Of course, telling people that angels are anthropomorphized constructs of forms of intelligence and that people were responsible for their own divine providence did not go over so well.  His book was quickly condemned and burned by both Jews and Christians. 
 
-The most fundament tenet of the Judeo-Chrisitan god like a tholonic description:
+The most fundamental tenet of the Judeo-Christian god like a tholonic description:
 
 > Bible: “For in Him all things were created: things in heaven and on earth, visible, and invisible… all things have been created through him and for him”.  Colossians 1:16-17 
 
 > Tholonic: “All things exist within the thologram, from concepts to forms.  All things come into existence through the movement of energy for the sole purpose of attaining balance.”
 
 I want to clarify that this is in no way meant to disparage, disrespect, or even criticize religious beliefs.  The tholonic position is all views, beliefs, and perspectives are equally valid to the degree that they are sustainable, and with each perspective comes certain understandings and limitations.  The significant difference between the tholonic and religious models is a duality of good/evil vs. the duality of nothing/something.  While Judeo-Christianity has a concept of the “will of God”, the thologram has the concept of Awareness and Intention.  The thologram even recognizes an ultimate creator: the Awareness and Intention that is the source of all energy.  In fact, if you replace the concept of “God” with “energy”, the “will of God” with “Intention”, and “tholonic intelligence” and “divine beings” with “tholons”, both models appear remarkably similar.
-
-All tholons are expressions of energy and are created by energy.  Tholons are regulated by tholonic intelligence, and all tholons can create more tholons.  JWFIX[why is this here?]
 
 The 1<sup>st</sup> tholon within which all others are created could be considered as the God Tholon, but that tholon itself was created by Awareness and Intention, which has no traits or characteristics other than A&I. Any concept of a god or divine being that has any traits whatsoever, other than A&I, would by definition be a child tholon that has its own tholonic intelligence and therefore has an agenda of some sort as it requires its own child tholons to exist as well as having to co-exist with its peers and in accordance to its parents context.
 
@@ -71,13 +69,13 @@ This “the end is the beginning, the beginning is the end” idea is metaphoric
 
 If we look at the most ancient of religious texts we see very tholonic concepts  wrapped in the anthropomorphic ideas of divine authority.  For example, in the original Old Testament and the Torah, we see that the term “Elohim” to mean God, as in “In the beginning God (Elohim) created the heavens and earth”.  While Elohim is considered to be singular, most likely due to Judaic and Christian concept of monotheism, the word is, grammatically, a masculine plural form of the noun “gods” or “deities”.   This plurality is (often) considered to be a plural of majesty, similar to the Royal “we”, as the “Most High” god includes with it all other god and deities, who when the singular most high god speaks, he speaks for all, the Elohim.  That singular god was known by the masculine singular form of “Elyon”, which translates to “El most high”, and “El” was the supreme creator god of the Canaanites.  
 
-Without getting into the linguine of ancient biblical translations and interpretations[^485], the ancient legends state that Elyon divided the nations and gave Israel (a word that itself translates to “El’s Glory”) to his son, Yahweh.  Hence, Yahweh is the god of the Israelite, but not the “Most High” god, that being Elyon.
-
-[^485]: Anderson, J. S. c. 2. J. (2017). “**El, Yahweh, and Elohim: The Evolution of God in Israel and its Theological Implications**”. The expository times, 128 (6), 261-267. doi:10.1177/0014524616672624
+Without getting into the linguine of ancient biblical translations and interpretations, the ancient legends state that Elyon divided the nations and gave Israel (a word that itself translates to “El’s Glory”) to his son, Yahweh.  Hence, Yahweh is the god of the Israelite, but not the “Most High” god, that being Elyon.
 
 So, we have El, the “Most High God”, which encompasses the plurality of all other gods and deities, which is known as Elohim.  El had 70 children, each son to be a guardian over 70 nations.  Yahweh was the son who was the guardian of Israel, and Jesus was the son of Yahweh.
 
-OK, that the general outline of history.  Of course, there are numerous variations of this  outline depending on source material, interpretations, beliefs, religions agendas, all exacerbated by the fact that everything we know of the ancient past is puzzled together from only a few remaining pieces of evidence, legend, and culture from 5000 years ago, not to mention the evolution of these ancient concepts have undergone in those 5000 years.  An example of this evolution is how El, Elohim, and Yahweh have become synonymous with each other.
+OK, that the general outline of history.  Of course, there are numerous variations of this  outline depending on source material, interpretations, beliefs, religious agendas, all exacerbated by the fact that everything we know of the ancient past is puzzled together from only a few remaining pieces of evidence, legend, and culture from 5000 years ago, not to mention the evolution of these ancient concepts have undergone in those 5000 years.  An example of this evolution is how El, Elohim, and Yahweh have become synonymous with each other[^485].
+
+[^485]: Anderson, J. S. c. 2. J. (2017). “**El, Yahweh, and Elohim: The Evolution of God in Israel and its Theological Implications**”. The expository times, 128 (6), 261-267. doi:10.1177/0014524616672624
 
 It’s also worth noting the parallels of the Canaanite pantheon with the Ancient Greek Pantheon, for example, we see in the writing of *Sanchoniatho the Berytian* (13<sup>th</sup> c. BC) that:
 
@@ -88,7 +86,7 @@ And we can see just how closely these 2 divine hierarchies reflect each other in
 
 <img src="../Images/elyontree.png" style='width:100%'/>
 
-If it is not obvious already, let’s point out the similarities with the thologram.  Elyon, who was not created by anything and which contains within it all things, is the primary tholon.   That tholon contains a plurality of partons, which are themselves tholons with partons.  Elyon describes the parent tholon from which all is rated within, and Elohim desceines tha same tholon but as a plurality of the partons.
+If it is not obvious already, let’s point out the similarities with the thologram.  Elyon, who was not created by anything and which contains within it all things, is the primary tholon.   That tholon contains a plurality of partons, which are themselves tholons with partons.  Elyon describes the parent tholon from which all is created within, and Elohim describes the same tholon but as a plurality of the partons.  Just as an archetype will, or perhaps must, inevitably instantiate, here, too, there is an instantiation of "The Most High" in Jesus.
 
 Each son of Elyon was to watch over their nation, which describes the relationship between the parent tholon and its partons as the survival and health of the parent tholon depends on the survival and health of the parton.
 
@@ -100,19 +98,84 @@ The concept of “to see, to watch, to know” is synonymous with “to be aware
 
 [^486]: Additional material supplied by Mauro Biglino, author on 19 books on the Old testament, and Paul Wallis, a theological educator, Archdeacon in the Anglican Church in Australia, and a best selling researcher on the Bible.
 
-This concept of Guider and Watcher is repeated throughout the Jewish, Islamic, and Christian teachings in imagery, prayer, and messages such as ‘The Lord is my shepherd” meme.
+This concept of Guider and Watcher is repeated throughout the Jewish, Islamic, and Christian teachings in imagery, prayer, and messages such as ‘The Lord is my shepherd” meme.  Tholonically, “El” and “Elyon” are tholonic intelligences with their own particular expressions of Awareness and Intention. 
 
-Tholonically, “El” and “Elyon” are tholonic intelligences with their own particular expressions of Awareness and Intention. 
+It’s no wonder that the Canaanite “El” equates to the Greek “Cronus”, which is the Roman “Saturn”, as the metaphysical or spiritual significance of Saturn is one of restrictions and limitation for the purpose of achieving maturity, responsibility, discipline, and stewardship, bringing meaning and structure to our lives, with a healthy dose of discipline punishment, karmic justice, and well as being the god of time.  
 
-It’s no wonder that the Canaanite “El” equates to the Greek “Cronus”, which is the Roman “Saturn”, as the metaphysical or spiritual significance of Saturn is one of restrictions and limitation for the purpose of achieving maturity, responsibility, discipline, and stewardship, bringing meaning and structure to our lives, with a healthy dose of discipline punishment, karmic justice, and the god of time.  Tholonically, this is an instance of the *Definition/Limitation*.  However, the creator of the Universe and all things is a “Most High” instance of El.  This would certainly explain why the Old Testament god was the way he was, but we see this same pattern in the thologram as the first creation of the 0-dimensional dot of A&I is *Definition/Limitation*.  This is the ‘Elyon”, and all the subsequent instance of *Definition/Limitation* in the children or the “El’s”.
+Tholonically, this is an instance of the *Definition/Limitation*.  However, the creator of the Universe and all things is a “Most High” instance of El.  This would certainly explain why the Old Testament god was the way he was, but we see this same pattern in the thologram as the first creation of the 0-dimensional dot of A&I is *Definition/Limitation*.  This is the “Elyon”, and all the subsequent instance of *Definition/Limitation* in the children or the “El’s”.  The *Contribution/Form* of this *Definition/Limitation* is the material instance of the archetype, which, as we previously mentioned, would be the incarnate “Most High”, which describes the concept of a Messiah which is core to many religions.  The concept of an incarnate god was originated in Zoroastrianism as the savior who will rid the world of evil (the Saoshyant).  This concept was adopted by Judaism (Mashiach), Christianity (Christ), Islam (Isa Masih), Buddhism (Maitreya), Hinduism (Kalki), Taoism (Li Hong), and other belief systems.
 
-Jupiter, on the other hand, was the god of sky and thunder, and the Roman version of the Greek Zeus, who was the ruler, protector, creator of humans an kings of the gods, a title he earned by freeing his brother from the stomach of Cronus/Saturn.  Jupiter/Zeus is also the Roman/Greek versions of the Canaanite Ba’al, the god of fertility and life, but also at one time a god of war and storms..   Therefore, Jupiter/Zeus/Ba’al represents liberation, freedom, expansion, growth and is generally the opposite of Saturn/Cronus/El.  Given this, it’s quiet predictable that El and Ba’al were antagonistic to each other.  Of course, the Israelites and the Canaanites were constantly bad mouthed each other mercilessly, with the Canaanites claiming the Israelites performed child sacrifice to Yahweh, and the Israelites claiming the same of the Canaanites and Ba’al.  some thing never change, it seems.
+Jupiter, on the other hand, was the god of sky and thunder, and the Roman version of the Greek Zeus, who was the ruler, protector, creator of humans and kings of the gods, a title he earned by freeing his brother from the stomach of Cronus/Saturn.  Jupiter/Zeus is also the Roman/Greek versions of the Canaanite Ba’al-Hadad (a.k.a. Ba’al), the god of fertility and life, but also at one time a god of war and storms.   
 
-Toady, we are left with the winners version of history, so Ba’al is synonymous with   Beelzebub, Lord of the flies, a demon, etc.  Has the Canaanites “won”, we’d be saying the same thing about Yahweh. The tholonic view, and probably the more realistic view, is more like this:
+Historically, Ba’al is a word used to indicate “Lord”, and there are many Ba’al’s.  There is no good archaeological evidence to suggest that Ba’al-Hadad was involved in child sacrifices.  However,  Ba’al-Hamon of the Phoenician North African colony of Carthage *did* receive burnt child offerings, and it was this Ba’al that the Greeks associated with Cronus.  There was also the Ba’al-Zebub, god of the Philistine city of Ekron, and from which we get the word “Beelzebub”, meaning “Lord of the flies”, which was a nice way of saying “Lord of shit”.  Many cities had their own version of Ba’al. Baʿal Berith was the god worshiped by the Israelites when they "went astray".  The list goes on, but the general concept of Ba’al is  a deity that protects community, food, and security, hence, a god of fertility, rain (which came from storms in that area of the world) and war.  How that concept instantiated across cultures varied from temple orgies to burnt sacrifices.  It is this concept of Ba’al that we are referring to when we use the word, and not any particular cultural instance.  The same is true for “El”, Elyon”, Yahweh, etc., as the Israelites also practices burnt animal sacrifice, and as we know from the Bible, human sacrifice of children.
+
+In the Jupiter/Zeus/Ba’al path the follower hopes to ensure fortune, success, growth, luck, etc., by pleasing the gods through gifts and adoration.  This led to a culture of gratification, vanity and personality worship.  Ba’alism culture had degenerated to Sodom and Gomorrah levels.  Here is a common letter sent from a Canaanite mayor to the ruling Egyptian Pharaoh who demanded empty platitudes.  Imagine the type of culture where this sort of grovelling, humiliation, and self-disrespect was not only normal, but expected from your superiors:
+
+> To the king, my lord, my god, my sun … I fall at the feet of the king, my lord, seven times and seven times. I am the dirt under the sandals of the king, my lord. My lord is the sun who comes forth over all lands day by day, according to the way of the sun, his gracious father, who gives life by his sweet breath and returns with his north wind; who establishes the entire land in peace, by the power of his arm: who gives forth his cry in the sky like Baal, and all the land is frightened at his cry. The servant herewith writes to his lord that he heard the gracious messenger of the king who came to his servant, and the sweet breath that came forth from the mouth of the king, my lord, to his servant—his breath came back! Before the arrival of the messenger of the king, my lord, breath had not come back; my nose was blocked. Now that the breath of the king has come forth to me, I am very happy.
+
+and…
+
+> If the king wrote for my wife, how could I hold her back? How, if the king wrote to me, “Put a bronze dagger into your heart and die,” could I not execute the order of the king?
+
+In the Saturn/Cronus/El path, while the God of Abraham also demanded praise, sacrifice and absolute commitment, he also demanded unrelenting discipline.
+
+This is clearly stated in *Hebrews 12:4-11*
+
+> In your struggle against sin, you have not yet resisted to the point of shedding your blood.
+>
+> And you have forgotten that word of encouragement that addresses you as sons: “My son, do not make light of the Lord’s discipline, and do not lose heart when he rebukes you, because the Lord disciplines those he loves, and he punishes everyone he accepts as a son.”
+>
+> Endure hardship as discipline: God is treating you as sons. For what son is not disciplined by his father? If you are not disciplined (and everyone undergoes discipline), then you are illegitimate children and not true sons. Moreover, we have all had human fathers who disciplined us and we respected them for it.
+>
+> How much more should we submit to the Father of our spirits and live! Our fathers disciplined us for a little while as they thought best; but God disciplines us for our good, that we may share in his holiness.
+>
+> No discipline seems pleasant at the time, but painful. Later on, however, it produces a harvest of righteousness and peace for those who have been trained by it. 
+
+William F. Albright,  the American archaeologist, biblical scholar, philologist and considered one of the 20<sup>th</sup> century's most influential American biblical scholars, reiterates this idea more clearly:
+
+> It was fortunate for the future of monotheism that the Israelites of the Conquest
+> were a wild folk, endowed with primitive energy and ruthless will to exist,
+> since the resulting decimation of the Canaanites prevented the complete fusion
+> of the two kindred folk which would almost inevitably have depressed Yahwistic
+> standards to a point where recovery was impossible. Thus the Canaanites, with
+> their orgiastic nature-worship, their cult of fertility in the form of serpent symbols
+> and sensuous nudity, and their gross mythology, were replaced by Israel, with
+> its pastoral simplicity and purity of life, its lofty monotheism, and its severe code
+> of ethics. **~W. F. Albright, “From the Stone Age to Christianity”, p. 281.**
+
+These ideas are further explained in the words of Eugene H. Peterson[^488], an American Presbyterian minister, scholar, theologian, author, poet, and holder of number academic degrees and honorary doctorate degrees.
+
+[^488]: Peterson, E. H. (1972). “**Baalism and Yahwism Updated**”. *Theology Today*, *29*(2), 138–143. https://doi.org/10.1177/004057367202900202
+
+> While the prophetic accusation of "harlotry" had a literal reference
+> to the sacred prostitution of the Baal cult, it extended its
+> meaning into the entire theology of worship. It referred to worship
+> that sought fulfillment through self-expression, worship that accepted
+> the needs and desires and passions of the worshiper as its
+> raw material. "Harlotry" is worship which says, "I will give you
+> satisfaction. You want religious feelings? I will give them to you.
+> You want your needs fulfilled? I'll do it in the form most attractive
+> to you."
+
+In contrast…
+
+> Yahwism established a form of worship which was centered in
+> the proclamation of the word of the covenant God. The appeal
+> was made to the will. Man's rational intelligence was roused to
+> attention as he was called upon to respond as a person to the will
+> of God. In Yahwism something was said--words which called men
+> to serve, love, obey, act responsibly, decide.
+
+In many ways, we can see this polarity in modern politics and culture as the division between the the progressive, permissive, hyper-liberal, woke, left-leaning, post-modern side and the libertarian, traditional, conservative-leaning , classical side.  In the 60s this would have been something like the Hippies/free-love vs. the John Birch Society.
+
+In any case, we end up with something like this:
 
 <center><img src="../Images/123spectrum.png" style='width:50%'/></center>
 
-The larger pint being made is that A&I transcends all gods and deities, or the tholonic intelligences that emerge from A&I.
+However, the broader perspective is recognizing the context of the A&I from which both of these expressions emerge transcends all gods and all politics, and from that perspective, a stable balance between the poles can emerge, in both beliefs and practice.
+
+
+
+~~We see these same tholonic intelligences in other belief systems as well, and sometimes they must compete and cooperate with each other.  An example of this is the cooperation and sharing and the conflict and battling between the Canaanite/Phoenician beliefs and the Abrahamic beliefs.~~  
 
 ## I Am
 
@@ -205,4 +268,4 @@ It’s not surprising then that for a devout 17<sup>th</sup> century Christian, 
 
 For these people, that which did not have the concept of “I” was no more useful than however it was judged to be useful by man.  “I think therefore I am” is simply a contextually abridged version of “I am, therefore I am”, but it does raise the question: is reason the modern-day voice of the gods? Were the ancient voices of the gods an early instance of reason?  
 
-While the thologram has no concept of a divine creator (beyond that of a 0-dimensional dot of A&I in an infinite nothingness), it does have a concept of a hierarchy of intelligences that have awareness and intention.  From the tholonic view, the epiphanies of Moses and Descartes were due to the intentions of a greater intelligence to instantiate itself, but not simply *a* greater intelligence, but many greater intelligences that are constantly in a stage of negotiation via conflict and cooperation.
+While the thologram has no concept of a divine creator (beyond that of a 0-dimensional dot of A&I in an infinite nothingness), it does have a concept of a hierarchy of intelligences that have awareness and intention.  From the tholonic view, the epiphanies of Moses and Descartes were due to the intentions of a greater intelligence to instantiate itself, but not simply *a* greater intelligence, but many greater intelligences that are constantly in a stage of negotiation via conflict and cooperation

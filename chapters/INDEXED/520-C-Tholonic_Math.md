@@ -70,7 +70,7 @@ Let’s apply values to these points to make it clearer.  Above is a tholon map 
 
 The number 1 is unlike every other number and stands in a class all by itself:
 
-- It a composite number, not is it a prime number, however, it used to be consdiered a prime numner and not a prime number.  Even 
+- It a composite number, not is it a prime number, however, it used to be considered a prime number and not a prime number.  Even 
 - Any number multiplied by 1 remains that number.
 - 1 is its own factorial.
 - 1 is its own square and square root, its own cube and cube root, etc.
@@ -107,7 +107,7 @@ Regarding *V<sub>3</sub>*, 216, this is a fascinating number that has a history 
 
 Plato elaborated on this in his “Republic”:
 
-> Now for divine begettings there is a period comprehended by a perfect number, and for mortal by the first in which augmentations dominating and dominated when they have attained to three distances and four limits of the assimilating and the dissimilating, ththeore waxing and the waning, render all things conversable and commensurable with one another, whereof a basal four-thirds wedded to the pempad yields two harmonies at the third augmentation, the one the product of equal factors taken one hundred times, the other of equal length one way but oblong,-one dimension of a hundred numbers determined by the rational diameters of the pempad lacking one in each case, or of the irrational lacking two; the other dimension of a hundred cubes of the triad.  And this entire geometrical number is determinative of this thing, of better and inferior births. 
+> Now for divine begettings there is a period comprehended by a perfect number, and for mortal by the first in which augmentations dominating and dominated when they have attained to three distances and four limits of the assimilating and the dissimilating, the waxing and the waning, render all things conversable and commensurable with one another, whereof a basal four-thirds wedded to the pempad yields two harmonies at the third augmentation, the one the product of equal factors taken one hundred times, the other of equal length one way but oblong,-one dimension of a hundred numbers determined by the rational diameters of the pempad lacking one in each case, or of the irrational lacking two; the other dimension of a hundred cubes of the triad.  And this entire geometrical number is determinative of this thing, of better and inferior births. 
 
 The above has been interpreted to mean 6<sup>3</sup>, which Plato alludes to elsewhere, as 6 (considered the number of marriage back then) is the product of female (2) and male (3), and 2<sup>3</sup> &times; 3<sup>3</sup> = 216.  While 216 is the most accepted answer, great thinkers spanning over 2,000 years, such as Aristotle, Proclus, Marsilio Ficino, Gerolamo Cardano, Eduard Zeller, Friedrich Schleiermacher, Paul Tannery, Friedrich Hultsch, and more, have all tried to decipher Plato’s enigmatic text.  216’s fame may even go back as far as Pythagoras, as it is the sum of cubes of the *Pythagorean triple* (3,4,5, hence 3<sup>3</sup> + 4<sup>3</sup> + 5<sup>3</sup>), or even Ancient Babylon.[^203]
 
@@ -194,7 +194,7 @@ Now we have 2 ratios, the ratio of $\frac{hypotenuse}{side-length}$ or $\frac{\s
 
 If we write these formulas a bit differently to show the value as exponents of 2, we get $\frac{2^0\sqrt 2}{2^0}$ and $\frac{2^1\sqrt 2}{2^1}$.  The obvious next formula would then be $\frac{2^2\sqrt 2}{2^2}$, which also equals $\sqrt 2$, as $\frac{2^n\sqrt 2}{2^n}$ will always equal $\sqrt 2$.  
 
-What stands out is that $2^0$ gives a value of 1.414, which is a single value that describes both *x* and *y* lines of a  the 2-dimensional area of a triangle and is also defines the limits of those lines.  Also, $2^1$ give the value of 2.828, which appears to be the limits of the 3-dimensional quantum space, at least with regards to diverging photons in space-time, and while 2.282 may not describe the 2 of teh 3-dimensional relativistic space, 2 is certainly defined within 2.828 = $\frac{2^1\sqrt 2}{2^1}$.
+What stands out is that $2^0$ gives a value of 1.414, which is a single value that describes both *x* and *y* lines of a  the 2-dimensional area of a triangle and is also defines the limits of those lines.  Also, $2^1$ give the value of 2.828, which appears to be the limits of the 3-dimensional quantum space, at least with regards to diverging photons in space-time, and while 2.282 may not describe the 2 of the 3-dimensional relativistic space, 2 is certainly defined within 2.828 = $\frac{2^1\sqrt 2}{2^1}$.
 
 We’ll alter the formula again to include this dimensionality as *D*; $\frac{2^{D-2}\sqrt 2}{2^{D-2}}$.  In this case, were D=4 and representing a 4<sup>th</sup> dimension, we get $\frac{2^{4-2}\sqrt 2}{2^{4-2}}$ = $\frac{5.65685}{4}$.  
 
@@ -237,7 +237,7 @@ What is $\frac{2}{0.414}$ ?  It is 4.828.  And what is 4.828?
 
 - *Silver Ratio &times; 2*.  
 - $2+2\sqrt{2}$.  This is interesting as 2 and $2\sqrt{2}$ were the limits of relativistic and quantum probability in the previous test. 
-- The area of an octagon (having sides of length 1).  Likewise, $s=\sqrt{\frac{A}{4.828}}$ can be used to approximate the side length $s$ of a regular octagon with area A.  In addidion, an octagon with an area of $\frac{2}{0.414}$ has a perimeter length of 2<sup>3</sup>, or 8.  The octagon is of special interest as it is a 2D version of the 3D octahedron, the shape of nothingness.  Related this this, the surface area of an octahedron is $\sqrt{2}$ when edge length = 0.414.
+- The area of an octagon (having sides of length 1).  Likewise, $s=\sqrt{\frac{A}{4.828}}$ can be used to approximate the side length $s$ of a regular octagon with area A.  In addition, an octagon with an area of $\frac{2}{0.414}$ has a perimeter length of 2<sup>3</sup>, or 8.  The octagon is of special interest as it is a 2D version of the 3D octahedron, the shape of nothingness.  Related this this, the surface area of an octahedron is $\sqrt{2}$ when edge length = 0.414.
 - The *tangent* of $\frac{1}{2^{2^2}}$ of 3 circles (67.5&deg; out of 720&deg;) plus the *cotangent* if $\frac{1}{2^{2^2}}$ of a 1 circle (22.5&deg; out of 360&deg;).  This is interesting as it shows a relationship between 1 and 3.  In this case,, with circles, but we see this in the tholon as well.
 
 &hellip;and a bunch of other stuff as well, for example, see image below.  In that image, notice how, when the height = 1, the red area is $\frac{0.414}{2}$, the green area is $1+\frac{0.414}{2}$, and the base length is $\frac{2}{0.414}-2=4.828-2=2\sqrt{2}=2.828$.  
@@ -413,7 +413,7 @@ The 1<sup>st</sup> value of the center column is the 1<sup>st</sup> instance, wh
 
 The “*Pattern of variance*” charts plots the difference between sequential values in each column of “*Sequential values*”.  For example, the right column has the values 1,5,7,11,13, etc.  The difference between these values is 5-1, 7-2, 11-7, 13,11, or 4,2,4,2,etc.  The center difference between center column values is always 3, and the difference between left columns values is 4-2, 8-4, 10-8, 14-10, or 2,4,2,4, etc., which is exactly the same as the right column difference, but offset by one place. 
 
-This variance is also seen the numbering in teh values along a teh left and right axic of the trigram.
+This variance is also seen the numbering in the values along a the left and right axis of the trigram.
 
 We now have different models of progressions depending on our perspective, because, if you remember how the sequence of the thologram was generated, each child thologram was the inverse of the parent, which creates a different sequence than that created by the column functions.
 

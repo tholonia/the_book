@@ -3,7 +3,7 @@
 
 ###### Some additional information for the curious
 
-I personally experienced similar results to those reviewed in the animal studies.  In my own experiments I created SW simply by spinning 1 liter of water with a chemical stirrer in a magnetic field made of 6 equidistant, and opposing, magnets glued to the outside of the water jar, which was about 6 inches at its widest part.  Each magnet (15mm x 3mm NbFeB 42 MGOe) has a strength 2335 *Gauss* at the closet point inside the jug, which drops to 3 *Gauss* at the center of the jar 3 inches from the magnet, and which drops to about 8 *Gauss* in-between the magnets (which are about 3.5 inches apart each. ) These are a bit weak, considering a magnetic field strength of 1000 to 3000 ie required, but the *Gauss*  drops below 1000 after 7 mm inside the jar.  The water is spinning, so all the water is exposed to the stronger fields, but as it is constantly rotating, that exposure is temporary.   
+I personally experienced similar results to those reviewed in the animal studies.  In my own experiments I created SW simply by spinning 1 liter of water with a chemical stirrer in a magnetic field made of 6 equidistant, and opposing, magnets glued to the outside of the water jar, which was about 6 inches at its widest part.  Each magnet (15mm x 3mm NbFeB 42 MGOe) has a strength 2335 *Gauss* at the closet point inside the jug, which drops to 3 *Gauss* at the center of the jar 3 inches from the magnet, and which drops to about 8 *Gauss* in-between the magnets (which are about 3.5 inches apart each. ) These are a bit weak, considering a magnetic field strength of 1000 to 3000 is required, but the *Gauss*  drops below 1000 after 7 mm inside the jar.  The water is spinning, so all the water is exposed to the stronger fields, but as it is constantly rotating, that exposure is temporary.   
 
 This was the only water I drank for close to a year, and neither my diet nor lifestyle changed in any significant manner during that time.  The difference in the before and after blood tests were compatible with the tests on animals.  My blood panel was generally better regarding cholesterol levels, but the most dramatic change was my triglycerides dropped from 750 to 150.  This is anecdotal, but considering my results matched those of controlled tests on animals, it was enough for me to accept that structured water should be at least be seriously studied.
 
@@ -56,7 +56,7 @@ Pursanova is a company that makes complete water processing system for residenti
 
 Below are the tests I ran myself.  Tests ***(j)*** and ***(k)*** were run numerous times with the same results.  The results showed that the SW had an obvious effect in disintegrating the material faster and more thoroughly.  This would suggest that the SW had lower state of entropy/higher energy potential than the CW.
 
-I suspect this is due to hydrogen bonds which have various lengths, directions, and strengths, and which can change, and even break with kenetic energy and movement.  
+I suspect this is due to hydrogen bonds which have various lengths, directions, and strengths, and which can change, and even break with kinetic energy and movement.  
 
 We know that formation of hydrogen bonds in water can have large effects on the water’s entropy, and that even small changed to water’s entropy can have a considerable influence[^484]. 
 
