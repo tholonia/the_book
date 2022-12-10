@@ -1,11 +1,11 @@
 <div style='page-break-after: always; break-after: always;'></div>
-# 12: PREDETERMINISM
+# 13: PREDETERMINISM
 
 ###### Free will exists, but its options are limited
 
-##### **Synopsis:** 
+##### **Synopsis:** JWFIX
 
-##### **Keywords:** 
+##### **Keywords:** JWFIX
 
 Remember the explanation of how a lightning rod works?  It simply creates a path of least resistance between 2 different states that seek balance, and, as energy always travels the path of least resistance, lightning will always seek the lightning rod over a brick chimney.  We can say that the path of the lightning was predetermined by the laws of physics before the lightning event, just as we can say that the lightning only came into existence because such a path even existed in the 1<sup>st</sup> place.  In other words, the instance of lightning is a consequence of the preexisting energy fields.
 
@@ -25,7 +25,7 @@ What this tells us is that each instance is a 3D perspective of a very multi-dim
 
 Two strangers, Bob and Carol, bump into each other at the butcher shop.  This interaction is the result of countless steps starting with the Big Bang, or whatever the 1<sup>st</sup> event was that kick-started the Universe.  The path from the 1<sup>st</sup> moment of creation to the current instance that it took for Bob and his ancestors to arrive at this point and time we’ll call path B, and the same for Carol we’ll call path C.  Path B, and path C already existed in the thologram, and Bob and Carol happen to be the current instance of the fields of these two paths that connected because it was the path of least resistance, for whatever reasons, like the two fields that connected to create lightning.  There are effectively an infinite number of paths and their fields, but the point where Bob and Carol meet is the only point where the two fields, of which they are the current instances, connect.  If reality itself is the memory store, anything that emerges from this meeting will inherit the “implicit information” of both paths that led to their meeting. 
 
-<img src=’../Images/graphs-vertical.png’ style='float:right;width:30%’/>Every path that can be traveled by any instance already exists because the fields already exist.  The path is the expression of the fields interacting.  We tend to wander through this matrix of possibilities in a manner that appears aimless, similar to the manner bacteria wander about in their puddles of plasma.  From the tholonic perspective, these paths are determined by various cooperative and competing tholonic fields.
+<img src='../Images/graphs-vertical.png' style='float:right;width:30%'/>Every path that can be traveled by any instance already exists because the fields already exist.  The path is the expression of the fields interacting.  We tend to wander through this matrix of possibilities in a manner that appears aimless, similar to the manner bacteria wander about in their puddles of plasma.  From the tholonic perspective, these paths are determined by various cooperative and competing tholonic fields.
 
 Perhaps one of the best instances of this that is easily understood is music.  Consider that a finite number of notes exist, but an almost infinite number of tunes can be written within those notes.  If we mapped every combination of notes, the tune could be seen as a path on that map.  This is more than just a thought experiment&hellip; it’s an actual undertaking by music theorist Julian Hook, who described in his article  “*Exploring Musical Space*” [^178] how the harmonic path of a Beethoven sonata can be visualized on a *Tonnetz* graph (left)&hellip, a graph that happens to look just like a 2D tholon map.  In this example, the notes act like the fields, and the playing of those notes represents energy moving through these fields, forming music, lightning, plants, rivers, neurons, and everything else.
 
@@ -50,7 +50,7 @@ Even in the world of bacterial meandering, we see a pattern.  Not surprisingly, 
 
 In the early generations of the thologram, the number of paths is limited, and with the additional generations, the number of paths increases.  This movement may appear random, but not only does it disperse according to a Bell curve, but it also follows the same self-similar and fractal rules as the thologram[^179].
 
-[^179]: Lilly, J.  M., Sykulski, A.  M., Early, J.  J., and Olhede, S.  C.: **Fractional Brownian motion, the Matérn process, and stochastic modeling of turbulent dispersion**, Nonlin.  Processes Geophys., 24, 481-514, <https://doi.org/10.5194/npg-24-481-2017>, 2017.
+[^179]: Lilly, J.  M., Sykulski, A.  M., Early, J.  J., and Olhede, S.  C.: **Fractional Brownian motion, the Matérn process, and stochastic modeling of turbulent dispersion**, Nonlin.  Processes Geophys., 24, 481-514, https://doi.org/10.5194/npg-24-481-2017, 2017.
 
 <center><img src='../Images/105-brownian-growth.png' style='width:100%'/></center>
 
@@ -72,11 +72,11 @@ While every tholon is unique, its instances will usually be very similar, as the
 Tholons are more than just archetypes of things.  They are archetypes of ideas, contexts, situations, experiences, and concepts.  As such, we should expect to see “clones” or “twins” of situations, contexts, experiences, etc.  We do, and we tend to call them “coincidences”.
 Here are some of the more popular or well-known stories of “coincidences” that, when viewed tholonically, might offer insight.[^180]
 
-[^180]: Grabbed from <https://www.oddee.com/item_82923.aspx>
+[^180]: Grabbed from https://www.oddee.com/item_82923.aspx
 
 ### Laura Buxton
 
-<img src=’../Images/buxtons.png’ style='float:right;width:40%’/>“In June of 2001, a 10-year-old girl named Laura Buxton released a balloon with her name and address on it.  That balloon floated 140 miles and landed in the back yard of a house where also lived a 10 year old girl named Laura Buxton.  On the day of the meeting, the two girls wore essentially the same outfit — a pink sweater and jeans.  The girls were the same height, which was unusual because they were both tall for their age.  They both had brown hair and wore it in the same style.  They both had three-year-old black Labrador Retrievers at home, as well as gray pet rabbits.  They both had guinea pigs, which were the same color and even had the same orange markings on their hindquarters.  It was almost as though these two Laura Buxtons were the same person”.[^181] On the right is a picture of the two Laura Buxtons, who are still friends today.
+<img src='../Images/buxtons.png' style='float:right;width:40%'/>“In June of 2001, a 10-year-old girl named Laura Buxton released a balloon with her name and address on it.  That balloon floated 140 miles and landed in the back yard of a house where also lived a 10 year old girl named Laura Buxton.  On the day of the meeting, the two girls wore essentially the same outfit — a pink sweater and jeans.  The girls were the same height, which was unusual because they were both tall for their age.  They both had brown hair and wore it in the same style.  They both had three-year-old black Labrador Retrievers at home, as well as gray pet rabbits.  They both had guinea pigs, which were the same color and even had the same orange markings on their hindquarters.  It was almost as though these two Laura Buxtons were the same person”.[^181] On the right is a picture of the two Laura Buxtons, who are still friends today.
 
 [^181]: Quoted directly from https://www.snopes.com/fact-check/whether-balloon/
 
@@ -154,24 +154,29 @@ When a tholon “disperses” itself, whether due to loss of energy, destruction
 
 As long as we’re talking about the afterlife, we might as well address the subject of aliens and UFOs.  This will be very short because if the tholonic understanding that the Universe and everything in it are different expressions of intelligence, then asking, “is there intelligent life in the Universe?” would be like wondering if there is such a thing as water while swimming in the ocean.  Aliens, UFOs, etc., are instances of archetypes, and their instantiations will wholly depend on the context and scope they are perceived in.  Here, context includes cultural beliefs and the abilities of the perceiver.  Is/was Earth visited by aliens, and if so, what role have they played in our story?  From the tholonic perspective, asking such a question is valid if the answer brings us closer to a verifiably better understanding of reality.  The tholonic question is, what are the tholons that exist beyond our perception of reality?  How can/will they be perceived, and how will/do they affect our reality?  Are there countless and unimaginable forms of life elsewhere the entirety of existence, and are any of these forms more evolved than we are?  The most reasonable obvious answer is “probably”.
 
-The tholonic view is (to rephrase Richard Feynman): 
-JWFIX[this is an exact dup?]
+The tholonic view is (to requote Richard Feynman): 
+
 > It doesn’t matter how beautiful your theory is.  It doesn’t matter how smart you are.  If it doesn’t agree with experiment, it’s wrong.
 
 ### Direction of Intention
 
-Here we return to the concept of *intention* which was skipped over previously.  Looking at the tholonic model, it would be easy to imagine how it could evolve towards some very “dark” sides of existence just as easily as it could towards “bright” sides because there is no implicit morality or definition of right or wrong.  The tholon is a structure, a machine, so to speak.  While there are plenty of examples of dark instances throughout the history of existence, on the whole, existence has tended towards being a contributing factor to life.  We can say that this is because no matter the direction of intention, it will always tend toward being balanced, so it has a built-in protection against going too far to one side or another, as the laws of physics show us.  
+Here we return to the concept of *intention* which was skipped over previously by asking why the universe is not in a constant state of chaos, why changes result in order, growth and evolution, and not just chaos to chaos.  New science has much to say about this and various books and papers have been written on this subject[^483].
 
-Another understanding can be understood using the same powers of observation and reason that fuels scientific thinking.  In its simplest form, we can say that it has been observed that, for the most part, the body prefers health and pleasure over sickness and suffering, the mind prefers peace and joy over violence and misery, and emotions of love and compassion are preferred over hate.  This would suggest that the original intention of creation was more in the direction of health, peace, and love than sickness, violence, and hate.  
+[^483]: James Gleick, “**Chaos-Making a New Science**” (New York: Viking, 1987); Stan G. Smith, “**Chaos: Making a New Heresy**”, *Creation Research Society Quarterly* (Vol. 30. March 1994); Fritjof Capra, “**The Web of Life**”,  (New York: Anchor Books, 1996); Paul Davies, “**The Cosmic Blueprint**”,  (New York: Simon and Schuster, 1988); Peter V. Coveny, “**The Second Law of Thermodynamics: Entropy, Irreversibility, and Dynamics**” *Nature* (Vol. 333. June 2, 1988); Ilya Prigogine and Isabelle Stengers, “**Order Out of Chaos**” (New York: Bantam Books, 1984); Per Bak, “**How Nature Works: The Science of Self-Organized Criticality**”, (New York. Springer-Verlag, 1996)
 
-One could argue that these preferences are only a result of evolution as they contributed to survival, but that would only support the argument that this was the original intention JWFIX[change ‘intention’].  In reality, we tend to see both sides working together, as in the parasitic relationship between the predatory wasp and the slower cockroaches, but as we also see in that example, it is ultimately a benefit to the cockroach gene pool and tholonic intelligence.  Think of it as Nature’s *tough love*.  The same goes for any synergetic system, from rabbits and coyotes to political systems.  
+#### **Key 38:** The “intention” of energy is to balance itself, this all movement of energy is “intention”.
 
-*Constructive collaboration* only needs a slight edge over *destructive resistance* to ensure that reality will be more constructive than destructive, even if, at times, destruction is winning.  This is similar to how the casino’s “house” only needs a 0.5% edge at the Black Jack table to transfer the player’s money into their coffers.  The house does not care about the individual winners or losers because they know they have that 0.5% advantage, which is all they need to survive and thrive.  Our highly unscientific, unprovable, irrelevantly small sampling in the “Bless or Curse” experiment suggests that *constructive collaboration* has a house edge of about 2.5%, at least among the sample group for that moment in time.
+At the particular point we are in the life syscle fo teh Universe, there is certainly support for the ideas that an ever increasing order is the obvious direction of growth and evolution.  This is because we are still on the ascending side of teh slope where low-entropy chaos form order.  Is is therefore natural for us to believe that existence itself is a journey toward higher order, an unfolding or explication of implicit, embedded, encoded, predestined, hidden orders.  This is basis of the concept behind *Intelligent Design*, and various concept of divine destiny, which presume that the creator of the Universe had a plan, or an personal intention at the moment of creation.  This idea is an anthropomorphic version of the fact that the *intention* of energy is to balance itself, not because of a desire or choice, but because of the laws of nature.   
 
-The human brain, cellular mechanics, and all life, in general, are wired to be both competitive[^182] and cooperative[^183] at the same time, which implies that this is (so far) the most effective manner for an instance to express the intention of its tholonic archetype that has its source in the *primal intention*.
+However, at some point in the journey,  the *intention* of existence will be sliding down the slope from order to high-entropy chaos, and if there are conscious being around when that happens, they will probably conclude that all of existence, god, and the purpose of reality is to destroy all forms of order.
+
+The direction of intention points towards wherever the most efficient movement of energy can be found.  In the cycle of existence, the intention of the first half of the cycle will be in creating order from low-entropy chaos, and in the last half of the cycle, it will be in creating high-entropy chaos from order.
+
+At this point in the cycle, the *intention* of creation favors *constructive collaboration* slightly over *destructive resistance*.  For what it’s worth, our highly unscientific, unprovable, irrelevantly small sampling in the “Bless or Curse” experiment suggests that *constructive collaboration* has a 2.5% edge, at least among the sample group for that moment in time.
+
+The human brain, cellular mechanics, and all life, in general, are wired to be both competitive[^182] and cooperative[^183] at the same time, which implies that this is, for now, the most effective manner for an living instance to express the intention of its tholonic.
 
 [^182]: Bowling, Sarah, Katerina Lawlor, and Tristan A.  Rodríguez. “**Cell Competition: The Winners and Losers of Fitness Selection.**” *Development* 146, no. 13 (2019).  doi:10.1242/dev.167486.
 [^183]: Balconi, Michela, Davide Crivelli, and Maria Elide Vanutelli. **“Why to Cooperate Is Better than to Compete: Brain and Personality Components”.** *BMC Neuroscience* 18, no. 1 (2017).  doi:10.1186/s12868-017-0386-8.
 
 <hr>
-

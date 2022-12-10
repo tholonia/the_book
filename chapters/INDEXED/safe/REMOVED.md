@@ -28,7 +28,27 @@ https://merrimackvalleyhavurah.wordpress.com/philosophy-theology/maimonides/maim
 
 <IMG src="../Images/math/369.svg" style="vertical-align:middle;height:80pt"/>
 
+# 110
 
+The verb “I Am” (<img src="../Images/chapters/Images/iam.png" style='height:10px'/>) in ancient Hebrew can also mean “I Will Be”, as there was no *past* or *future* tense in those days (as present tense was implicit), only *finished* and *unfinished* tense (*perfect* and *imperfect* forms) , so the act of being *what is* and being *what one wills to be*, or *what could be*, are one in the same as far as past and future goes, but has two states, one that is *finished*, and one that is *unfinished*, or *that which is* (awareness) and *that which will be* (intention).  Even more confounding is that there was no verb for the present tense of “being”.  To communicate the message “I am a man” one would say “I man”.  I assume the this is because the “am” part is explicit by the obvious fact that the speaker exists.
+
+So, “I Am” would be something like “I who I”, or just “I-I”, which is pronounced “*Ina ina*“  or “*ana ana*”, or maybe just “*Na na*” as the Aleph (&aleph;) in Hebrew is a consonant, not a vowel.  All of this might sound needlessly obscure, but “*Ina Ina*” is a mantra used by some Christians to this day because, in the original Aramaic that Jesus spoke, it is recorded that when he said “I am the way&hellip;,” , “I am the door …”, etc, he was actually saying “I-I the way&hellip;”, “I-I the door&hellip;”, etc.
+
+<img src="../Images/chapters/Images/iam-grid.png" style='float:right;width:35%'/>There was also blurring of the difference between the seemingly innocent words of “that”, “what” and “who”, as all three concepts were represented as a single word (<img src="../Images/chapters/Images/who.png" style='height:10px'/>), and it was the context that was deterministic. Consequently, there are at least 28 different ways to interpret what God said to Moses (see table), not including the most basic interpretation of “I-I”. 
+
+This is further obfuscated by the fact that the voice speaking to Moses identified itself as “I Am What I Am” (or “I Will Be What I Will be”), but that voice also said it was a messenger of “I Am” (<img src="../Images/chapters/Images/yhvh.png" style='height:10px'/>).  But we can see that the “I Am” (<img src="../Images/chapters/Images/yhvh.png" style='height:10px'/>) of the source is not the same “I Am”  (<img src="../Images/chapters/Images/iam.png" style='height:10px'/>) of the messenger.  This is because the source “I Am” (<img src="../Images/chapters/Images/yhvh.png" style='height:10px'/>) is a singular verb of a stem word that means “to be”, suggesting a active state of beingness, while teh ‘I MA” of te messanger (<img src="../Images/chapters/Images/iam.png" style='height:10px'/>)’
+
+
+
+ So, it’s only reasonable that the voice of God would have to tell Moses that he should tell his people that he was sent not by “I Am That I Am” (<img src="../Images/chapters/Images/iam.png" style='height:10px'/>), but the “I Am” (<img src="../Images/chapters/Images/yhvh.png" style='height:10px'/>).  As that word is made of 3 verbs, it could also mean “He was”, “I was”, “He is”, “He will be”, etc. It is from this word we get the name “Jehovah”, figuratively meaning “He Is God”.  
+
+<center><img src='../Images/ancient-yhvh_2.png' style='width:100%'/></center>
+
+Now we have 56 names for god; 28 in the 1<sup>st</sup> person, and another 28 names in the 3<sup>rd</sup> person, but no matter how you translate any of these names, God is always in the 3<sup>rd</sup> person.  This concept of God as being something outside and external to one’s self is reinforced in language and in our consciousness (and what keeps the Abrahamic religions, as well as other beliefs sustainable).
+
+# 100 
+
+**G&rarr;V**: The **gravitational constant**, which is measured in newtons, equates to **volts**, or the pressure of energy that is inherent in all mass in the form of gravity.  However, the value arrived at by the calculations is 62,772,597.14, while the **G** is measured as 6.67×10<sup>−11</sup> m<sup>3</sup> kg<sup>-1</sup> s<sup>-2</sup> (newtons per cubic meter per kilogram per second squared) .  That is a bit off, by a factor of 9.41&times;10<sup>17</sup> to be exact.  The only real difference between these two values is the units of measure.  The GC value is *newtons&times;meters<sup>2</sup>&div;kilograms<sup>2</sup>*, but this calculated value is obviously using much smaller, yet unknown units… perhaps something related to *Planck’s force&times;Planck’s length<sup>2</sup>&times;Planck’s mass<sup>2</sup>*  ?
 
 # 590
 
@@ -70,7 +90,7 @@ As prime numbers are themselves unique “seeds” that are not only core to nat
 
 The relationship between 2 and 5 is very close, so close, that 5 may be the closest value to 2 in how is function.  The reason for this is obvious once we see it.  Whenever we divide anything by 2, it is the same as multiplying by 5 and diving by 10, because 5/10 = $\frac{1}{2}$.  This is why we have a base-10 system today
 
-This 2/5 relationship defines a fundamental pattern in math and in nature which we can see in many instances, including our own 5 fingers in 2 hands; a trait which is common among most species of mammals, and exists in many birds, fish, and insects, going back *pentadactyl tetrapods* Devonian Age 400,000,000 years ago.  Leading experts in the field of human anatomy, developmental biology, and evolution are mystified by this 5-finger phenomena, and can only say:
+This 2/5 relationship defines a fundamental pattern in math and in nature which we can see in many instances, including our own 5 fingers in 2 hands; a trait which is common among most species of mammals, and exists in many birds, fish, and insects, going back *pentadactyl tetrapods* Devonian Age 400,000,000 years ago.  xleading experts in the field of human anatomy, developmental biology, and evolution are mystified by this 5-finger phenomena, and can only say:
 
 > “… we simply don't 100% know the 'why' or 'how' of the narrowing of hand morphology to five digit rays in the Devonian.  [Any hypothesis] would be highly speculative without a lot of data on the types of selective pressures organisms at the time were facing… [^348] 
 

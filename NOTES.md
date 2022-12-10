@@ -63,6 +63,12 @@ certamenbailebarracas@gmail.com
 - trithagoria: https://www.youtube.com/watch?v=Y5wiWCR9Axc
   26:00 fir dimension stuff
 
+https://tasmaniantimes.com/2015/08/order-emerges-out-of-chaos-the-fundamental-d1/
+
+https://www.icr.org/article/can-order-come-out-chaos
+
+
+
 
 
 

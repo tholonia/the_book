@@ -394,7 +394,7 @@ argv = sys.argv[1:]
 #     if opt in ['-n']:
 #         print(f"NEW VERSION: {update_ver()}")
 
-pl.chapters = pl.chapters_test
+pl.chapters = pl.chapters_prod
 try:
     opts, args = getopt.getopt(argv, "hnf",["help","new","full"])
 except getopt.GetoptError as err:

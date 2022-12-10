@@ -53,3 +53,16 @@ Tests with the MWV have shown positive results, such as a rise in pH, oxygen con
 Pursanova is a company that makes complete water processing system for residential, commercial and industrial applications.  Their products range from &dollar;20 to many thousands.  They have a number of case studies on their website (pursanova.com) which are astounding.
 
 *Disclaimer: I have no relationship with any of these companies and am not promoting any of their products.  I refer to them simply because my research seems to indicate they are legitimate products in an industry filled with wild and dubious claims.*
+
+Below are the tests I ran myself.  Tests ***(j)*** and ***(k)*** were run numerous times with the same results.  The results showed that the SW had an obvious effect in disintegrating the material faster and more thoroughly.  This would suggest that the SW had lower state of entropy/higher energy potential than the CW.
+
+I suspect this is due to hydrogen bonds which have various lengths, directions, and strengths, and which can change, and even break with kenetic energy and movement.  
+
+We know that formation of hydrogen bonds in water can have large effects on the water’s entropy, and that even small changed to water’s entropy can have a considerable influence[^484]. 
+
+[^484]: Martin.chaplin@btinternet.com, Martin Chaplin: “**Hydrogen bonding in water**”. Accessed December 8, 2022. http://water.lsbu.ac.uk/water/water_hydrogen_bonding.html. 
+
+Hydrogen bonds in water are still a matter of debate in the science community. 
+
+<center><img src='../Images/awtest1.png' style='width:100%'/></center>
+

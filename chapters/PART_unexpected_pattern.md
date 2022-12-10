@@ -20,7 +20,7 @@ Millions of samples were recorded and reduced to one number per sample.  The inp
 
 Next, each single digit number (1-9) was assigned a color from the spectrum and then plotted such that each dot occupied one consecutive pixel on one line, and when that line was full, the plot advanced to the next line, just like a dot-matrix printer.  This was an extremely simple plot.  The below-left plot shows only one number being plotted at a time, and the below-right plot shows cumulative numbers.  The distribution of the numbers within the data set of 33,000,000 is shown in the bar chart.
 
-The data was also tested against Benford’s law, which states that the first digit in a naturally occurring set of values will be distributed in a manner dependent on the log of that number.  We looked at three sets of data; the crossed-sums of the Sun, Moon, and combined, by counting the number of each digit 1 through 9 in a data set of 33,575,635 data samples.  While the numbers were similar in count, they were not similar enough to suggest an even distribution as we would see in random numbers, and not in accordance with Benford’s law.  To see the difference in these totals, we plotted the difference between the lowest and and highest counts (charts below) for each number 1-9.  As you can see, there is some very patterned behavior, especially in the first chart and even more so in the last charts which s, as the prime numbers are reduced .
+The data was also tested against Benford’s Law, which states that the first digit in a naturally occurring set of values will be distributed in a manner dependent on the log of that number.  We looked at three sets of data; the crossed-sums of the Sun, Moon, and combined, by counting the number of each digit 1 through 9 in a data set of 33,575,635 data samples.  While the numbers were similar in count, they were not similar enough to suggest an even distribution as we would see in random numbers, and not in accordance with Benford’s Law.  To see the difference in these totals, we plotted the difference between the lowest and and highest counts (charts below) for each number 1-9.  As you can see, there is some very patterned behavior, especially in the first chart and even more so in the last charts which s, as the prime numbers are reduced .
 
 <center><img src='../Images/2cspos.png' style='width:100%'/></center>
 
@@ -78,15 +78,15 @@ For those not familiar with Fresnel diffraction, it is the way that light interf
 
 Having no idea where to look for more information, I posted this to various mathematics forums, and even though the question was read by many, no one had an answer.  I then sent this question to my old friend who is an accomplished physicist, but who also considers these speculative ideas to be a waste of time, so I knew any answer he gave would include an unabashed commentary on the silliness of it all.
 
-He did not disappoint on either front.  I’ll forego the commentary and just focus on the relevant part of his reply, which was very short.  Essentially he told me that no matter how hard you try to create random numbers from non-random data, you will always end up with some sort of a pattern.  “Why?” was my naive response, to which he replied only “Look into Zipf’s law”.
+He did not disappoint on either front.  I’ll forego the commentary and just focus on the relevant part of his reply, which was very short.  Essentially he told me that no matter how hard you try to create random numbers from non-random data, you will always end up with some sort of a pattern.  “Why?” was my naive response, to which he replied only “Look into Zipf’s Law”.
 
-Zipf’s law is (from Wikipedia):
+Zipf’s Law is (from Wikipedia):
 
 >  an *empirical law*… that refers to the fact that many types of data …can be approximated with [certain types of] power law probability distributions.  Zipf distribution is related to the *zeta distribution*, but is not identical.
 
 There are two very significant points in this definition.  The first is that it is an *empirical law.*  Something is called an *empirical law* when it can be observed, but not proven (yet).  The second important detail is that *Zipf distribution* is related to *Zeta distribution*.  We’ll get to that in a moment.
 
-Zipf’s law was not discovered by physicists or even within the hard sciences.  It was a French stenographer, Jean-Baptiste Estoup (1868 - 1950) that first discovered the patterns of words which became Zipf’s law after it was popularized by the American linguist George Kingsley Zipf (1902 - 1950).
+Zipf’s Law was not discovered by physicists or even within the hard sciences.  It was a French stenographer, Jean-Baptiste Estoup (1868 - 1950) that first discovered the patterns of words which became Zipf’s Law after it was popularized by the American linguist George Kingsley Zipf (1902 - 1950).
 
 It seems that languages, all languages, from every corner of the world, both modern and ancient, follow Zipf’s law in the way words are distributed in both writing and speaking (and by inference, some implicit pattern in the way we think).  We don’t need to drill into the details, but what is significant is that this same distribution pattern is also seen in city populations, solar flare intensities, protein sequences and immune receptors, the amount of traffic websites get, earthquake magnitudes, the number of times academic papers are cited, last names, the firing patterns of neural networks, ingredients used in cookbooks, the number of phone calls people received, the diameter of Moon craters, the number of people that die in wars, the popularity of opening chess moves, even the rate at which we forget… and countless more.[^198]
 
@@ -111,7 +111,7 @@ What value would we get if we applied the RZF to the series of square roots of n
 
 <center><img src='../Images/sqrt2pi.png' style='width:50%'/></center>
 
-This is the inverse of <IMG src="../Images/math/305.svg" style="vertical-align: middle;height:14pt;"/>, and is especially interesting because now we have a formula that fits into Ohm’s law and Newton’s laws of motions.  
+This is the inverse of <IMG src="../Images/math/305.svg" style="vertical-align: middle;height:14pt;"/>, and is especially interesting because now we have a formula that fits into Ohm’s Law and Newton’s laws of motions.  
 
 (content omitted as it is only relevant for other topics in the book)
 

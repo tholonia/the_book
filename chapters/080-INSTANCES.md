@@ -1,5 +1,5 @@
 <div style='page-break-after: always; break-after: always;'></div>
-# 8: INSTANCES
+# 9: INSTANCES
 ###### Examples of how tholonic archetypes instantiate
 ##### **Synopsis:** The nature of archetypes and their instantiation in various dimensions; the nature of dimensions in general; the geometry of archetypes; instances of archetypes, including quarks, atoms, molecules, batteries, consciousness, society; circuits and society as functional tholonic archetypes;  the archetypes of knowledge and form.
 
@@ -232,7 +232,7 @@ The 1<sup>st</sup> instance of matter in the Newtonian sense (vs. the quantum se
 
 <img src='../Images/haxagon.png' style='float:right;width:50%'/>Water is a particularly good substance for exploring tholonic structures because it is one of the first, if not *the* first, tetrahedral structures that all life depends upon.  Another early structure that is tetrahedral as a molecule alone is methane, one of the first organic molecules and not just a building block of life on Earth, but quite possibly the basis for an entirely different form of life, as pictured in the *Azotosome* above, and one we might discover on the Saturn moon of Titan.
 
-<img src='../Images/ heliumcrystal.png' style='float:right;width:30%'/>It’s worth noting that the very original atom to come into existence was not hydrogen, but helium, with 2 protons, 2 neutrons, and 2 electrons, as helium is the 1<sup>st</sup> *noble* gas, meaning it is perfectly balanced energetically, and therefore less vulnerable to the wild energies flying around after the Big Bang.  Helium also forms a hexagonal crystal, so the helium crystal is (probably) the original form to come into existence in the Universe (image right).  Also significant is that the 1<sup>st</sup> creation of matter, as atoms, started with 2 protons, not 1.  
+<img src='../Images/heliumcrystal.png' style='float:right;width:30%'/>It’s worth noting that the very original atom to come into existence was not hydrogen, but helium, with 2 protons, 2 neutrons, and 2 electrons, as helium is the 1<sup>st</sup> *noble* gas, meaning it is perfectly balanced energetically, and therefore less vulnerable to the wild energies flying around after the Big Bang.  Helium also forms a hexagonal crystal, so the helium crystal is (probably) the original form to come into existence in the Universe (image right).  Also significant is that the 1<sup>st</sup> creation of matter, as atoms, started with 2 protons, not 1.  
 
 Getting back to water, we saw that in the 1<sup>st</sup> generation of a tholon, we have 4 trigrams, 3 of which are descending, or downward-pointing trigrams, and 1 is ascending, or upward-pointing trigram (“up” and “down” have only relative meaning here as it simply refers to the way the trigrams were drawn).  If we have 2 tholons, we also have a total of 8 trigrams made up of 6 descending and 2 ascending trigrams.
 

@@ -2,7 +2,7 @@
 
 # Part I
 
-Part I of this book introduces the ideas and concepts that form the vocabulary later used to describe the tholonic model presented.  These are not esoteric or niche concepts, but the most fundamental concepts known to science, such as energy, chaos, order, waves, and Newton’s laws.  As we review these basic concepts, we also expand on them and build new concepts that will be critical in describing what role awareness plays in the theater of existence, how and why consciousness *had* to evolve, and the nature of intelligence; artificial, human, or otherwise.
+Part I of this book introduces the ideas and concepts that form the vocabulary later used to describe the tholonic model presented.  These are not esoteric or niche concepts, but the most fundamental concepts known to science, such as energy, chaos, order, waves, and Newton’s Laws.  As we review these basic concepts, we also expand on them and build new concepts that will be critical in describing what role awareness plays in the theater of existence, how and why consciousness *had* to evolve, and the nature of intelligence; artificial, human, or otherwise.
 
 <div style='page-break-after: always; break-after: always;'></div>
 # 1: CHAOS

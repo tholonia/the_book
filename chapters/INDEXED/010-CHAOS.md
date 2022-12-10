@@ -2,12 +2,12 @@
 
 # Part I
 
-Part I of this book introduces the ideas and concepts that form the vocabulary later used to describe the tholonic model presented.  These are not esoteric or niche concepts but the most fundamental concepts known to science, such as energy, chaos, order, waves, and Newton’s Laws.  As we review these basic concepts, we also expand on them and build new concepts that will be critical in describing what role awareness plays in the theater of existence, how and why consciousness *had* to evolve, and the nature of intelligence; artificial, human, or otherwise.
+Part I of this book introduces the ideas and concepts that form the vocabulary later used to describe the tholonic model presented.  These are not esoteric or niche concepts but the most fundamental concepts known to science, such as energy, chaos, order, waves, and Newton’s laws.  As we review these basic concepts, we also expand on them and build new concepts that will be critical in describing what role awareness plays in the theater of existence, how and why consciousness *had* to evolve, and the nature of intelligence; artificial, human, or otherwise.
 
 <div style='page-break-after: always; break-after: always;'></div>
 # 1: CHAOS
 
-###### Everything begins and ends in chaos.
+##### **Everything begins and ends in chaos.**
 
 ##### **Synopsis:** In the fundamental trinity of reality, that of chaos, energy, and order, chaos comes first.  By definition, it exists before any *thing* exists.  It is the engine of creation and annihilation, and the always-present foundation of all existence.  Chaos exists across a spectrum that stretches between the 0 of nothingness and the &infin; of somethingness.  This is the 1<sup>st</sup> duality of creation from which all that ever was, is, or will emerge.  
 
@@ -18,9 +18,7 @@ Part I of this book introduces the ideas and concepts that form the vocabulary l
 The Oxford English Dictionary gives three definitions of the word *chaos*:
 
 -   The formless matter supposed to have existed before the creation of the Universe.
-
 -   The formless and disordered state of matter before the creation of the cosmos.
-
 -   A state of extreme confusion and disorder.
 
 I am not sure what the difference is between the first two definitions.  Regardless, we’ll skip over the apparent contradiction of “formless matter” existing before creation&hellip; for now.
@@ -29,9 +27,9 @@ Some colloquial, older definitions of chaos describe it as matter before there w
 
 There is also the Ancient Greek mythological definition of the word χάος, *Khaos*, referring to the void state preceding the creation of the Universe or cosmos and personified in the Greek creation myths as the god who was “*the first created being, from which came the primeval deities Gaia, Tartarus, Erebus, and Nyx.”*
 
-In physics, chaos is defined as “*The property of a complex system whose behavior is so unpredictable as to appear random, owing to great sensitivity to small changes in conditions*”,  a. k.  a. *The Butterfly Effect*, but as science writer James Gleick points out:[^2]
+In physics, chaos is defined as “*The property of a complex system whose behavior is so unpredictable as to appear random, owing to great sensitivity to small changes in conditions*”,  a.  k.  a. *The Butterfly Effect*, but as science writer James Gleick points out:[^2]
 
-[^2]: Gleick, J.  (1998).  **Making a New Science**.
+[^2]: Gleick, J.  (1998).  “**Making a New Science**”.
 
 > No one [of the chaos scientists he interviewed] could quite agree on [a definition of] the word itself, and so instead gives descriptions from a number of practitioners in the field.  Those scientists that do have a definition are hardly in agreement, as Philip Holmes defined “chaotic” as “The complicated aperiodic attracting orbits of certain, usually low-dimensional dynamical systems.” 
 
@@ -51,7 +49,7 @@ Everyone from scientists to mystics seems to agree on the rather obvious premise
 
 How “big” was this nothingness?  Is there a limit to nothingness?  If there is, how is that defined?  If there is no limit, then is nothingness infinite?  These may sound like silly questions, but they are actively being researched and debated in the worlds of science, philosophy, and mathematics[^376].
 
-[^376]: Sorensen, Roy. “Nothingness.” Stanford Encyclopedia of Philosophy.  Stanford University, February 28, 2022.  https://plato.stanford.edu/entries/nothingness/. 
+[^376]: Sorensen, Roy. “**Nothingness.**” Stanford Encyclopedia of Philosophy.  Stanford University, February 28, 2022.  https://plato.stanford.edu/entries/nothingness/. 
 
 First, we must be clear about what we mean by *nothing* because conceptually, there are numerous types of nothingness (and many types of &infin; as well, possibly infinite).
 
@@ -59,7 +57,7 @@ According to various authorities, there are multiple levels of nothing, but a go
 
 <center><img src='../Images/9levels.png' style='width:90%'/></center>
 
-[^399]: Hossenfelder, Sabine. “**What Is ‘Nothing’?**” Backreaction, September 24, 2022. https://backreaction.blogspot.com/2022/09/what-is-nothing.html. 
+[^399]: Hossenfelder, Sabine. “**What Is ‘Nothing’?**” Backreaction, September 24, 2022.  https://backreaction.blogspot.com/2022/09/what-is-nothing.html. 
 
 What level would “I have nothing in my bank account” be categorized?  Having a measurable balance of 0 puts your absolutely empty bank account in Level 6, and being a measure of the non-physical entity of credit puts it in level 7.  Although being flat broke may feel like absolute nothingness, finances are a value that is derived from material things and is the transference of energy between things (people, businesses, etc.), and could even be considered a “field”, making your poverty a relative form of nothingness.
 
@@ -93,14 +91,14 @@ Just as nothing must precede something, 0 precedes 1, so we can say that everyth
 
 ### Zero
 
-The general concept of nothingness is represented by the number 0, but it was only recently in human history that we could even grasp the concept of nothingness, and even then, its adoption took thousands of years and was hotly debated.  It is officially recognized that 0 was first recorded in Mesopotamia around 3 B.C.. Still, the ancient Indian *Bakshali manuscript*  from 1500 B.C. appears to use the symbol of a dot (&bull;) to represent 0.  In either case, these were followed by 0’s appearance in Mayan Meso-America circa 4 A.D., again in Mayan Meso-America in the 5<sup>th</sup> century, Cambodia in the 7<sup>th</sup> century, and China and the Islamic countries in the 8<sup>th</sup> century.  The concept of 0 didn’t reach Western Europe until the 12<sup>th</sup> century, and even then, it was not entirely accepted as a legitimate number concept for hundreds of years, which is a bit embarrassing considering that bees[^397], monkeys [^378]<sup>,</sup>[^379]<sup>,</sup>[^380], and crows[^381] have no problem with the concept of 0.  
+The general concept of nothingness is represented by the number 0, but it was only recently in human history that we could even grasp the concept of nothingness, and even then, its adoption took thousands of years and was hotly debated.  It is officially recognized that 0 was first recorded in Mesopotamia around 3 B.C..  Still, the ancient Indian *Bakshali manuscript*  from 1500 B.C.  appears to use the symbol of a dot (&bull;) to represent 0.  In either case, these were followed by 0’s appearance in Mayan Meso-America circa 4 A.D., again in Mayan Meso-America in the 5<sup>th</sup> century, Cambodia in the 7<sup>th</sup> century, and China and the Islamic countries in the 8<sup>th</sup> century.  The concept of 0 didn’t reach Western Europe until the 12<sup>th</sup> century, and even then, it was not entirely accepted as a legitimate number concept for hundreds of years, which is a bit embarrassing considering that bees[^397], monkeys [^378]<sup>,</sup>[^379]<sup>,</sup>[^380], and crows[^381] have no problem with the concept of 0.  
 
-Similar to Dr. Elisabeth Kübler-Ross’ well-known 5 stages of grief; denial, anger, bargaining, depression, acceptance, the adoption of the number 0, according to animal physiologist Andreas Nieder, went through its own 4 stages[^377], which seems appropriate as the concept of nothing, on an existential level, it not unlike death.
+Similar to Dr.  Elisabeth Kübler-Ross’ well-known 5 stages of grief; denial, anger, bargaining, depression, acceptance, the adoption of the number 0, according to animal physiologist Andreas Nieder, went through its own 4 stages[^377], which seems appropriate as the concept of nothing, on an existential level, it not unlike death.
 
 - **Stage 1:** Recognition of the absence of something. 
-- **Stage 2:** Recognition of nothing vs. something (5<sup>th</sup> c. BC, Greece).
-- **Stage 3:** Recognition of 0 preceding 1 (7<sup>th</sup> c. AD, India ).
-- **Stage 4:** Ability to assign rules and properties to a symbolic representations (13<sup>th</sup> c. AD, North Africa).
+- **Stage 2:** Recognition of nothing vs.  something (5<sup>th</sup> c.  BC, Greece).
+- **Stage 3:** Recognition of 0 preceding 1 (7<sup>th</sup> c.  AD, India ).
+- **Stage 4:** Ability to assign rules and properties to a symbolic representations (13<sup>th</sup> c.  AD, North Africa).
 
 *Note: these dates are best-guess estimates based on documented references.*
 
@@ -109,17 +107,17 @@ Curiously, humans achieved such an advanced state of intelligence yet never deve
 It is not a coincidence that the modern world and the concept of 0 arrived simultaneously, as it was 0 that allowed for the creation of things like modern math and calculus.  This ability of 0 began to eclipse the philosophical objections that you can’t get something from nothing, much to the chagrin of the Christian church, which was not very happy that this handy number was being introduced by the Muslims, not to mention that if something can come from nothing, what does that say about god? [^366].
 
 [^366]: Seife, Charles. “**Zero: The Biography of a Dangerous Idea**”.  London: Souvenir Press, 2019.
-[^397]: Howard, Scarlett R., Aurore Avarguès-Weber, Jair E. Garcia, Andrew D. Greentree, and Adrian G. Dyer.  “**Numerical Ordering of Zero in Honey Bees.**” *Science* 360, no. 6393 (2018): 1124–26.  https://doi.org/10.1126/science.aar4975. 
-[^377]: Nieder, Andreas. “**Representing Something out of Nothing: The Dawning of Zero.**” Trends in Cognitive Sciences 20, no. 11 (2016): 830–42. https://doi.org/10.1016/j.tics.2016.08.008,  https://homepages.uni-tuebingen.de/andreas.nieder/Nieder%20(2016)%20TICS.pdf
+[^397]: Howard, Scarlett R., Aurore Avarguès-Weber, Jair E.  Garcia, Andrew D.  Greentree, and Adrian G.  Dyer.  “**Numerical Ordering of Zero in Honey Bees.**” *Science* 360, no. 6393 (2018): 1124–26.  https://doi.org/10.1126/science.aar4975. 
+[^377]: Nieder, Andreas. “**Representing Something out of Nothing: The Dawning of Zero.**” Trends in Cognitive Sciences 20, no. 11 (2016): 830–42.  https://doi.org/10.1016/j.tics.2016.08.008,  https://homepages.uni-tuebingen.de/andreas.nieder/Nieder%20(2016)%20TICS.pdf
 [^378]: Sulkowski, G.  “**Can Rhesus Monkeys Spontaneously Subtract?**” Cognition 79, no. 3 (2001): 239–62.  https://doi.org/10.1016/s0010-0277(00)00112-8. 
-[^379]: Tsutsumi, Sayaka, Tomokazu Ushitani, and Kazuo Fujita. “**Arithmetic-like Reasoning in Wild Vervet Monkeys: A Demonstration of Cost-Benefit Calculation in Foraging.**” International Journal of Zoology 2011 (2011): 1–11. https://doi.org/10.1155/2011/806589. 
+[^379]: Tsutsumi, Sayaka, Tomokazu Ushitani, and Kazuo Fujita. “**Arithmetic-like Reasoning in Wild Vervet Monkeys: A Demonstration of Cost-Benefit Calculation in Foraging.**” International Journal of Zoology 2011 (2011): 1–11.  https://doi.org/10.1155/2011/806589. 
 [^380]: Biro, Dora, and Tetsuro Matsuzawa.  “**Use of Numerical Symbols by the Chimpanzee (Pan Troglodytes): Cardinals, Ordinals, and the Introduction of Zero.**” Animal Cognition 4, no. 3-4 (2001): 193–99.  https://doi.org/10.1007/s100710100086. 
-[^387]: As hypothesized by Dr. Immanuel Velikovsky, Erich von Däniken, and biblical scholar Zecharia Sitchin.
+[^387]: As hypothesized by Dr.  Immanuel Velikovsky, Erich von Däniken, and biblical scholar Zecharia Sitchin.
 [^388]: As hypothesized by entheogenist Terrence McKenna and ethnopharmacologist Dennis McKenna in their “Stoned Ape” theory of evolutionary leaps.
 
 ### The Complexity of Nothing
 
-0 is challenging enough without the added confusion that comes from the clearly ridiculous yet mathematically correct answer to 0<sup>0</sup>=1 that many calculators provide (including Google’s calculator.  The more realistic answer is *0<sup>0</sup>=undefined*).  However, X<sup>0</sup> is always 0 as long as X!=0. Although this may look like math mumbo-jumbo, it’s pretty straight forward: X<sup>0</sup>=X<sup>1-1</sup>=$\frac{X^1}{X^1}$=$\frac{X}{X}$=1.  In addition to 0 representing nothing, this proof shows us how 0 also represents a state of nothing that *results from something*, as 1-1=0,  or conceptually speaking, *something-something=nothing*.  Hence, 0 is not only the “womb” from which all numbers emerge but also where numbers go when they disappear from context.
+0 is challenging enough without the added confusion that comes from the clearly ridiculous yet mathematically correct answer to 0<sup>0</sup>=1 that many calculators provide (including Google’s calculator.  The more realistic answer is *0<sup>0</sup>=undefined*).  However, X<sup>0</sup> is always 0 as long as X!=0.  Although this may look like math mumbo-jumbo, it’s pretty straight forward: X<sup>0</sup>=X<sup>1-1</sup>=$\frac{X^1}{X^1}$=$\frac{X}{X}$=1.  In addition to 0 representing nothing, this proof shows us how 0 also represents a state of nothing that *results from something*, as 1-1=0,  or conceptually speaking, *something-something=nothing*.  Hence, 0 is not only the “womb” from which all numbers emerge but also where numbers go when they disappear from context.
 
 I wonder if this is what Lao Tzu was also referring to in the *Tao Te Ching* when he said:
 
@@ -143,12 +141,11 @@ The truth is, or rather *a* truth is,  the numbers 0 and 1 are remarkably flexib
 
 #### **Key 1:** chaos is a state lacking any order, time, or energy;  total nothingness;  0.
 
-
 #### **Key 2:** chaos is a state of total energy and matter; total somethingness; &infin;
 
 ## Order and the chaos of 0 and &infin;
 
-It was Newton’s contemplation of $\frac{0}{0}$ that led to his invention of calculus, and while we are taught that equations with 0 or &infin; are problematic and best to stay away from, calculus can prove that &infin;<sup>&infin;</sup>,1<sup>&infin;</sup>,0<sup>0</sup>,$\frac{\infty}{\infty}$,0&times;&infin;,&infin;-&infin; all equal $\frac{0}{0}$ , and yet, even today, we are not sure what $\frac{0}{0}$ actually is.  We can see evidence of this in current research, such as the research of the Chief Editor of the publication *Causation*, Ilija Barukčić, titled “*Zero Divided by Zero Equals One*”[^367], which starts with:
+It was Newton’s contemplation of $\frac{0}{0}$ that led to his invention of calculus, and while we are taught that equations with 0 or &infin; are problematic and best to stay away from, calculus can prove that &infin;<sup>&infin;</sup>, 1<sup>&infin;</sup>, 0<sup>0</sup>, $\frac{\infty}{\infty}$, 0&times;&infin;, &infin;-&infin; all equal $\frac{0}{0}$, and yet, even today, we are not sure what $\frac{0}{0}$ actually is.  We can see evidence of this in current research, such as the research of the Chief Editor of the publication *Causation*, Ilija Barukčić, titled “*Zero Divided by Zero Equals One*”[^367], which starts with:
 
 >  Objective: Accumulating evidence **indicates** that zero divided by zero equals 1
 
@@ -161,10 +158,10 @@ Or, in a paper co-authored by Ilija Barukčić that appeared in *Journal of Appl
 > A solution of the philosophically, logically, mathematically and physically far reaching problem of the division of zero by zero (0/0) is still not in sight.
 
 [^367]: Barukčić, Ilija. “**Zero Divided by Zero Equals One.**” Journal of Applied Mathematics and Physics 06, no. 04 (2018): 836–53.  https://doi.org/10.4236/jamp.2018.64072. 
-[^368]: Barukčić, J. and Barukčić, I. (2016) “**Anti Aristotle—The Division of Zero by Zero**”.  Journal of Applied Mathematics and Physics, 4, 749-761. doi: 10.4236/jamp.2016.44085.
+[^368]: Barukčić, J.  and Barukčić, I. (2016) “**Anti Aristotle—The Division of Zero by Zero**”.  Journal of Applied Mathematics and Physics, 4, 749-761.  doi: 10.4236/jamp.2016.44085.
 [^381]: Kirschhock, Maximilian E.; Ditz, Helen M.; Nieder, Andreas, “**Behavioral and Neuronal Representation of Numerosity Zero in the Crow**” Journal of Neuroscience 2 June 2021, 41 (22) 4889-4896; DOI: https://doi.org/10.1523/JNEUROSCI.0090-21.2021, https://www.jneurosci.org/content/41/22/4889
 
-In addition to this ambiguity, not only can 0 = &infin;, it can equal any number.  That is actually a true math statement (I didn’t just make it up).  In math, when an answer can be many values, it is called an *indeterminate* answer, meaning an equation, like $\frac{0}{0}$, has no single or fixed value that can be determined (even though it looks likes the answer should be 1).  The same can be said for $\frac{\infty}{\infty},\frac{\infty}{0}$,0&times;&infin;, 0<sup>0</sup>,&infin;<sup>0</sup>,1<sup>&infin;</sup>,&infin;=&infin;, as they are all *indeterminate*.  Indeterminism is the equivalent of mathematical chaos, which supports our claim that 0 and &infin; are qualitative representations of chaos.  They are also the only numbers that represent a concept that has no value; 0 being the explicit lack of any value, and &infin; which is a concept that represents the opposite of 0 and yet can have many different forms.  In general, and how it si used in this book, &infin; is meant as a frame for all positive numbers, as in  *0 < positive_numbers < &infin;.*
+In addition to this ambiguity, not only can 0 = &infin;, it can equal any number.  That is actually a true math statement (I didn’t just make it up).  In math, when an answer can be many values, it is called an *indeterminate* answer, meaning an equation, like $\frac{0}{0}$, has no single or fixed value that can be determined (even though it looks likes the answer should be 1).  The same can be said for $\frac{\infty}{\infty},\frac{\infty}{0}$ ,0&times;&infin;, 0<sup>0</sup>, &infin;<sup>0</sup>, 1<sup>&infin;</sup>, &infin;=&infin;, as they are all *indeterminate*.  Indeterminism is the equivalent of mathematical chaos, which supports our claim that 0 and &infin; are qualitative representations of chaos.  They are also the only numbers that represent a concept that has no value; 0 being the explicit lack of any value, and &infin; which is a concept that represents the opposite of 0 and yet can have many different forms.  In general, and how it is used in this book, &infin; is meant as a frame for all positive numbers, as in  *0 < positive_numbers < &infin;.*
 
 While the above is a mathematical argument for why 0 and $\infty$ represent states of chaos, we can also use the current definitions of chaos to make the same argument.  While we can say that nothingness has no order or periodicity and is therefore chaotic, *chaos* also has another definition that means precisely the opposite, similar to the *&infin;=0* concept.  Take, for example, the study of chaos in the origins of the Universe that was undertaken by Chicago’s Northwestern University physicist Adilson Motter, who concluded that 10<sup>-36</sup> seconds after the Big Bang happened; there was a state of *total chaos*.  Do you know what was happening at 10<sup>-36</sup> seconds after the Big Bang?  Everything, and in a temperature of over 1 trillion degrees.  Motter concluded from his study:[^5]
 
@@ -181,16 +178,15 @@ The definition of chaos that works for both is *“the degree that order is pres
 
 But this is still too vague for our purposes because it is more reasonable to consider *chaos* as a spectrum from 0 to &infin;.  More correctly, the spectrum of *chaos* is the inverse of the spectrum of *order* (which is further defined later on), because just as there is no such *thing* as darkness, only a lack of the *thing* that is is light, chaos is the lack of order.  For this reason, we initially define using a slightly inaccurate definition shown below.  However, we will be refining this concept as we continue.
 
-
 #### **Key 3:** chaos as a measure of pattern, order, and predictability.
 
 Chaos is not the same as randomness.  A random event is *non-deterministic*, meaning it can’t be determined when it will happen because it has no pattern, rule, or reason (that we can discover) and no known immediate cause.  At least, that is how we define the word as it is used in this book.    It may be the case that the concept of randomness simply exists to label unexplainable events that are actually chaotic in nature but far beyond our current abilities to understand, like a super-chaotic event.  An example of this is from the website RANDOM.ORG, which generates random numbers.  In order to make them more truly-random, they use atmospheric noise as an input.  That ambient noise is not random, but is chaotic.  Another example is how computer random number generators use electrical noise and heat as inputs to their number generator.  Again, these are chaotic inputs.  
 
 Another way to understand the difference between randomness and chaos is in the value of &pi; (pi).  The value of &pi; is infinite in numbers and the sequence of those numbers is quite predictable using simple math, which is how we can calculate the value of &pi;, but there is no pattern to the numbers, so there is no way to determine the following number based on the previous numbers.  This is similar to how prime numbers can only be calculated as they have no pattern.  This makes the value of &pi; chaotic because the value is deterministic yet produces a series of numbers that appear random and uniformly distributed (a.k.a. *normal* distribution).  We say “appear” because there is no way to prove that &pi; is random or *normal*, just as there is no way to prove that the infinite numerical sequence contains every possible combination of numbers that can ever exist, but evidence suggests that’s *probably* the case[^393].  So, chaos has a pattern, but it is unpredictable, and **randomness has no pattern and therefore contains *every* pattern**.  Here we see an instance of the concept of not only 0=&infin;, but that &infin; exist *within* 0.
 
-> There’s a beauty to Pi that keeps us looking at it... the digits of Pi are extremely random.  They have no pattern, and in mathematics that’s really the same as saying they have every pattern.” **~Jonathan Borwein, mathematician**
+> There’s a beauty to Pi that keeps us looking at it...  the digits of Pi are extremely random.  They have no pattern, and in mathematics that’s really the same as saying they have every pattern.” **~Jonathan Borwein, mathematician**
 
-[^393]: Bailey, David H., Jonathan M. Borwein, Cristian S. Calude, Michael J. Dinneen, Monica Dumitrescu, and Alex Yee.  “**An Empirical Approach to the Normality of π.**” Experimental Mathematics 21, no. 4 (2012): 375–84.  https://doi.org/10.1080/10586458.2012.665333,  https://carmamaths.org/resources/jon/normality.pdf
+[^393]: Bailey, David H., Jonathan M.  Borwein, Cristian S.  Calude, Michael J.  Dinneen, Monica Dumitrescu, and Alex Yee.  “**An Empirical Approach to the Normality of π.**” Experimental Mathematics 21, no. 4 (2012): 375–84.  https://doi.org/10.1080/10586458.2012.665333,  https://carmamaths.org/resources/jon/normality.pdf
 
 Depending on who you ask, you can get a number of different definitions of “random”, but the definition we will be referring to is:
 
@@ -198,10 +194,11 @@ Depending on who you ask, you can get a number of different definitions of “ra
 
 Of course, this leaves a lot of room for speculation as to the randomness of an event, as there are undoubtedly many cases where we just can’t see the cause.  What appears as random could easily be related to the *butterfly effect*, which states that small changes can have a growing and cascading effect.  This idea is often exemplified in the question, “*Does the flap of a butterfly’s wings in Brazil set off a tornado in Texas?*”, which was also the title of a 1972 talk[^392] given by Edward Norton Lorenz, a mathematician, meteorologist, and founder of chaos theory.
 
-[^392]: Lorenz, Edward N.  “**The Essence of Chaos**”.  Seattle: Univ. of Washington Press, 2008.  Appendix 1 “**The Butterfly Effect**”, http://climate.envsci.rutgers.edu/climdyn2017/LorenzButterfly.pdf.  Lorenz was the founder of chaos theory which began with his 1963 paper  “**Deterministic Nonperiodic Flow**”, https://journals.ametsoc.org/view/journals/atsc/20/2/1520-0469_1963_020_0130_dnf_2_0_co_2.xml
+[^392]: Lorenz, Edward N.  “**The Essence of Chaos**”.  Seattle: Univ.  of Washington Press, 2008.  Appendix 1 “**The Butterfly Effect**”, http://climate.envsci.rutgers.edu/climdyn2017/LorenzButterfly.pdf.  Lorenz was the founder of chaos theory which began with his 1963 paper  “**Deterministic Nonperiodic Flow**”, https://journals.ametsoc.org/view/journals/atsc/20/2/1520-0469_1963_020_0130_dnf_2_0_co_2.xml
 
 While this is a bit of an aside, it is a fascinating piece of history and an excellent example of the *butterfly effect* in so far as how it can affect society and how a candid meeting of two strangers in a ball in Prague in 1896 would be responsible for World War I and World War II.  
-<img src=’../Images/sophie.png’ style='float:right;width:20%’/>The two strangers were Arch Duke Franz Ferdinand and Sophie Chotek, a duchess and the daughter of a Bohemian Count, who met, fell in love, and got married.  The problem was Sophia, being a mere duchess was not royalty, and given royalty’s strict adherence to their self-aggrandizing customs, it was forbidden that she appear next to the Archbishop in any official royal ceremonies.  The Arch Duke may have loved Sophie, but he was still an obedient autocrat, and so he followed the rules.  However, this meant he *was* allowed to have her by his side during non-royal ceremonies, such as when he was acting as the Inspector-General of the Austria-Hungarian Army.  Taking advantage of this loophole, he decided to show off his wife to the world by taking a public trip to inspect the Bosnian army with his wife by his side.  To ensure everyone saw them together, they traveled in an open car for all to see.  It was during this public demonstration of his undying love that the Serbian nationalist, Gavrilo Princip, ran up to the car and shot both of them at point blank range, killing them instantly.
+
+<img src='../Images/sophie.png' style='float:right;width:20%'/>The two strangers were Arch Duke Franz Ferdinand and Sophie Chotek, a duchess and the daughter of a Bohemian Count, who met, fell in love, and got married.  The problem was Sophia, being a mere duchess was not royalty, and given royalty’s strict adherence to their self-aggrandizing customs, it was forbidden that she appear next to the Archbishop in any official royal ceremonies.  The Arch Duke may have loved Sophie, but he was still an obedient autocrat, and so he followed the rules.  However, this meant he *was* allowed to have her by his side during non-royal ceremonies, such as when he was acting as the Inspector-General of the Austria-Hungarian Army.  Taking advantage of this loophole, he decided to show off his wife to the world by taking a public trip to inspect the Bosnian army with his wife by his side.  To ensure everyone saw them together, they traveled in an open car for all to see.  It was during this public demonstration of his undying love that the Serbian nationalist, Gavrilo Princip, ran up to the car and shot both of them at point blank range, killing them instantly.
 
 Austria was outraged, demanding an apology from Serbia.  Serbia, while denouncing the assassinations, refused to apologize, stating they had nothing to do with the plot.  Austria responded by declaring war on Serbia, which forced treaty-bound Russia to ally with Serbia.  Germany, who was treaty-bound to Austria, declared war on Russia, causing France and Great Britain to come to Russia’s aid.  World War I devastated Germany, which laid the fertile ground for the rise of nationalism and Hitler, which resulted in World War II.
 
@@ -211,7 +208,7 @@ One of the classic “truly random” events in the Universe is radioactive deca
 
 A more common example of this is the idea of a stock market.  The price of a stock is unpredictable, but it is not truly random, as the price is determined by the individual actions of thousands of buyers and sellers, each making non-random decisions based on their financial interests.  Each of these cause/effect chains is a system in and of itself, and all these systems combined form the larger system of a stock market.  
 
-<img src='../Images/L-sys-2.png' style='float:right;width:25%'/>Chaos is *deterministic* because it adheres to rules, and even has a pattern, but the effects over time create unpredictable results.  chaos does not happen in one moment.  It happens over time, and what happens next depends on what happened before, making chaos a self-similar or self-referencing process.  Because it is *change* that happens over time, there are two components to consider; a *growth factor* and a *limiting factor*.  For example, in the image to the right, we start with a simple pattern that never changes but can replicate itself in its children, and after 10 generations, it turns into a tree.  The *growth factor* is self-generating, and the *limiting factor* is that all of the variables (length, angle, color) are permanently fixed.  Popular real-world chaotic systems are things like the weather, economics, growth patterns, etc.. Still, in actuality, everything that grows, moves, or has energy moving through it has elements of chaos in its system that are influenced by millions of variables forever changing.  
+<img src='../Images/L-sys-2.png' style='float:right;width:25%'/>Chaos is *deterministic* because it adheres to rules, and even has a pattern, but the effects over time create unpredictable results.  chaos does not happen in one moment.  It happens over time, and what happens next depends on what happened before, making chaos a self-similar or self-referencing process.  Because it is *change* that happens over time, there are two components to consider; a *growth factor* and a *limiting factor*.  For example, in the image to the right, we start with a simple pattern that never changes but can replicate itself in its children, and after 10 generations, it turns into a tree.  The *growth factor* is self-generating, and the *limiting factor* is that all of the variables (length, angle, color) are permanently fixed.  Popular real-world chaotic systems are things like the weather, economics, growth patterns, etc..  Still, in actuality, everything that grows, moves, or has energy moving through it has elements of chaos in its system that are influenced by millions of variables forever changing.  
 
 Below are some diagrams to help make this concept clearer.  
 
