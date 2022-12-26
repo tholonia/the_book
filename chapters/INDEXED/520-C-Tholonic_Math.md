@@ -180,39 +180,17 @@ These definitions are verbatim from the research paper, and depend on the very s
 
 Bringing this back to squares and square roots, squaring a number is metaphorically equivalent to something using its own properties to evaluate its own existence, not unlike the 1<sup>st</sup> dot that became aware of itself through the 2<sup>nd</sup> dot, creating the 2 states of objective and subjective.  
 
-Can we say that when something is squared, it is the objective measure of a subjective existence?  Can we see these 2 conditions, subjective and objective, as 2 dimensions of something’s existence? We know that 2 dimensions defines an area, and we also know that when 2 1-dimensional (lines) are at their two most contrasting position (90&deg;) they automatically define a 3<sup>rd</sup> dimension that is a multiple of <IMG src='../Images/math/324.svg' style='vertical-align: middle;height:10pt;'/>.
+Can we say that when something is squared, it is the objective measure of a subjective existence?  Can we see these two conditions, subjective and objective, as 2 dimensions of something’s existence? We know that 2 dimensions defines an area, and we also know that when two 1-dimensional (lines) are at their two most contrasting position (90&deg;) they automatically define a 3<sup>rd</sup> dimension that is a multiple of <IMG src='../Images/math/324.svg' style='vertical-align: middle;height:10pt;'/>.
 
 <center><img src='../Images/squares.png' style='width:80%'/></center>
 
-We can see a fascinating example of this if we look back to *Chapter 7.5 The Thologram* and revisit the CHSH experiment which shows that $2\sqrt 2$ is the difference between relativistic and quantum realities.
+We can see a fascinating example of this if we look back to *Chapter 7.5 The Thologram* and revisit the CHSH experiment which shows that $\frac{2\sqrt 2}{2}$ is the difference between relativistic and quantum realities. 
 
 <center><img src='../Images/CSHS-sm.png' style='width:100%'/></center>
 
-The relevant part is how the relationship between the 2 extreme ends of maximally separated lines of an equal length of 1, as shown in the diagram of the right angle triangle, is $\sqrt 2$, the length of the hypotenuse.
+The relevant part is how, when looking as the diagram of right angles and equilateral trigrams above, we see that in the RA trigram, which represents the maximum separation of the lines, we always have a connecting like (hypotenuse) that is a multiple of $\sqrt 2$, but in the equilateral trigram, where all lines are equally distributed, all lines are equal.
 
-Now we have 2 ratios, the ratio of $\frac{hypotenuse}{side-length}$ or $\frac{\sqrt 2}{1}$ or 1.414 or $\sqrt 2$, and $\frac{quantum-probabilities}{relative-probabilities}$ or $\frac{2\sqrt 2}{2}$ or 1.414 or $\sqrt 2$.
-
-If we write these formulas a bit differently to show the value as exponents of 2, we get $\frac{2^0\sqrt 2}{2^0}$ and $\frac{2^1\sqrt 2}{2^1}$.  The obvious next formula would then be $\frac{2^2\sqrt 2}{2^2}$, which also equals $\sqrt 2$, as $\frac{2^n\sqrt 2}{2^n}$ will always equal $\sqrt 2$.  
-
-What stands out is that $2^0$ gives a value of 1.414, which is a single value that describes both *x* and *y* lines of a  the 2-dimensional area of a triangle and is also defines the limits of those lines.  Also, $2^1$ give the value of 2.828, which appears to be the limits of the 3-dimensional quantum space, at least with regards to diverging photons in space-time, and while 2.282 may not describe the 2 of the 3-dimensional relativistic space, 2 is certainly defined within 2.828 = $\frac{2^1\sqrt 2}{2^1}$.
-
-We’ll alter the formula again to include this dimensionality as *D*; $\frac{2^{D-2}\sqrt 2}{2^{D-2}}$.  In this case, were D=4 and representing a 4<sup>th</sup> dimension, we get $\frac{2^{4-2}\sqrt 2}{2^{4-2}}$ = $\frac{5.65685}{4}$.  
-
-If we continue this, we end up with a sequence like below, where the nominator grows by only odd exponents (1,3,5,7,9), while the denominator grows incrementally by 1.  Of course, this is not a mystery, but it is no less fascinating.
-
-$\frac{2^0\sqrt 2}{2^0}$ = $\frac{1.414}{1}$ = $\frac{\sqrt 2}{1}$= $\frac{\sqrt{2^1}}{2^0}$= 1.414 = $\sqrt{2}$ 
-
-$\frac{2^1\sqrt 2}{2^1}$ = $\frac{2.828}{2}$ = $\frac{\sqrt 8}{2}$ = $\frac{\sqrt{2^3}}{2^1}$= 1.414 = $\sqrt{2}$ 
-
-$\frac{2^2\sqrt 2}{2^2}$ = $\frac{5.657}{4}$ = $\frac{\sqrt 32}{4}$= $\frac{\sqrt {2^5}}{2^2}$= 1.414 = $\sqrt{2}$
-
-$\frac{2^3\sqrt 2}{2^3}$ = $\frac{11.314}{8}$ = $\frac{\sqrt 128}{8}$= $\frac{\sqrt{2^7}}{2^3}$= 1.414 = $\sqrt{2}$
-
-$\frac{2^4\sqrt 2}{2^4}$ = $\frac{22.627}{16}$ = $\frac{\sqrt 512}{16}$= $\frac{\sqrt {2^9}}{2^4}$= 1.414 = $\sqrt{2}$
-
-is the the CHSH experiment of $\frac{1}{\sqrt 2}$.  If nothing else, we can say that the relationship between 2 dimensions (*x* and *y*) and the relationship between 2 different models of reality (relativistic and quantum probabilities) are both  $\sqrt 2$.  Applying our metaphor, we can speculate that the relationship between any 2 defining polarities may be based on $\sqrt 2$ in some way.
-
-In the right-angle trigram, the hypotenuse of $\sqrt{2}$ is like an instance of a higher dimension as it able to connect the extreme ends of the *x* and *y* lines, which are separated by a distance of 2 in a 1-dimensional space.  This higher dimensions is, of course, the 2<sup>nd</sup> dimension. This makes the diagonal $\sqrt{2}$ act like a kind of mathematical “wormhole”.
+<img src='../Images/2squares.png' style='float:right;width:35%'/>Does this suggests that the quantum model is related to a RA triangle with sides of length 2, and the relativistic model is related to an equilateral triangle of with sides of length 2?  Mathematically, they do seem related, as $\frac{quantum-probabilities}{relative-probabilities}$ and $\frac{hypotenuse}{side-length}$ both have a $\frac{n\sqrt 2}{n}$ relationship.
 
 From the ancient Greeks to modern philosophers, geometry and math has been fundamental in describing and understanding the world not just from a technical perspective, but even a moral, ethical, legal and social perspective.  What follows is similar in that it uses math and geometry to support a philosophical premise.  It needs to be stressed, again, that this exploration is not intended to shed new light on math or geometry, but rather, uses math and geometry as guideposts of reason.  With that said, here is another view of the extra-mathematical significance of the number 2.
 
@@ -279,6 +257,24 @@ This value of **Λ** (lambda, 0.414) *might* be a good example of a tholonic *qu
 <center><img src="../Images/tvoids.png" style="width:70%"/></center>
 
 Another interesting point about 0.414 is that if we calculate the *axis of symmetry* between the values 1, 2, and 3, using the standard quadratic equation of *ax<sup>2</sup>+bx+c=0*, we get the two values of <IMG src='../Images/math/378.svg' style='vertical-align: middle;height:7pt;'/> and <IMG src='../Images/math/379.svg' style='vertical-align: middle;height:7pt;'/>, or <IMG src='../Images/math/380.svg' style='vertical-align: middle;height:10pt;'/> and  <IMG src='../Images/math/381.svg' style='vertical-align: middle;height:10pt;'/>.  Notice how these 2 results match the 2 values in the above 2D tholon map where **1** connects to **&Lambda;**, the difference being the addition of ***i***. 
+
+**Black Holes and Electricity**
+
+While we are on the topic of the number 2, there is another interesting pattern related to black holes.
+
+The formula to calculate the radius of a black hole is quite simple: $radius=\frac{2G\times mass}{c^{2}}$, where *G* is the gravitational constant.  Because we know that $mass=E/c^2$, we can write this formula as $\frac{2G\times(E/c^2)}{c^{2}}$.  If we apply the rules described in *Chapter 5: Gravity* where we claim that *G* is equivalent to *V* (voltage), and in *Chapter 5: The Laws*, where we claim that *c* (speed of light) is equivalent to *I* (current) and equate *E* with *P* (power), we can write this formula as: $\ \frac{2V\times(P/I^{2})}{I^{2}}$ . Because $\frac{P}{I^2}=R\ (resistance)$, we can then say $\ \frac{2V\times R}{I^{2}}$.  Using the smallest integer values that can be applied to *I*, *V*, and *R*, as described in *Chapter 5: The Laws*, we can write this formula several ways: 
+
+$\frac{(2\times 6)\times 2}{3^{2}}$ =  $\frac{12\times 2}{9}$ = $\frac{24}{9}$ = $\frac{8}{3}$ = $\frac{2^3}{3}$ =  $2\frac{2}{3}$ = 2.666&hellip;
+
+$\frac{2^2\times 6}{3^{2}}$ = $\frac{R^2\times V}{I^{2}}$ (using all properties of *R*, *V*, *I*) 
+
+$\frac{2^3\times 3}{3^{2}}$ = $\frac{R^3\times I}{I^{2}}$ (using factorials)
+
+$\frac{64/3}{8}$ = $\frac{8^2/3}{8}$ = $\frac{2^6/3}{2^3}$ = $\frac{R^V/I}{R^I}$ (based on 8)
+
+There are many more ways to express this, each pattern exposing a different aspect of the same thing.  Whether this “means” anything I can’t say.  Perhaps this is just *data* waiting to be turned into *information*, but I find it interesting how in describing the virtual radius of a black hole (being it’s in the context of electricity), we end up with a cube of length 2 and a volume of 8 (i.e., $2^3$), and how $\frac{volume\ of\ cube}{dimensions}$ = *radius* of black hole in a different context.  Given that the cube is also the archetypal geometry of *Contribution/form*/*integration*, and that black holes not only create galaxies, but may well create universes, this is an especially coincidental relationship.  The cube is also associated with *acceleration* in Newton’s 2<sup>nd</sup> law, *effect* in the cause/effect chain, and the archetype of *movement*, according to the association made in *Chapter 5: The Laws*.
+
+It’s worth pointing out that when we use a trigram with side lengths of 2, we get the ratios of $\frac{quantum-probabilities}{relative-probabilities}$ as described above.  
 
 ## Prime Numbers
 
@@ -587,6 +583,34 @@ If we apply these forms to the trigram, we get the following:
 
 <center><img src='../Images/forms_spectrum.png' style='width:50%'></center>
 
+
+
+There is another relationship between these forms that is worth looking as well, but we will want to look at all 5 Platonic solids for this.
+
+
+
+We can add the degrees of the angles of each of these forms to get their total number of degrees.  For example, a tetrahedron is made of 4 triangles and each triangle as 3 angles of 60&deg;, so 60&times;3&times;4 = 720.  Applying this to all the platonic solids we get: tetrahedron = 720&deg;, octahedron = 1440&deg;, cube = 2160&deg;, icosahedron = 3600&deg;, dodecahedron = 6480&deg;, and totaled all together = 7920&deg;.    
+
+As a reminder…
+
+- **Tetrahedron**: 4 faces of triangles (@ 60&deg;&times;3=180&deg;)
+- **Octahedron**: 8 faces of triangles (@ 60&deg;&times;3=180&deg;).
+- **Cube**: 6 faces of squares (@ 90&deg;&times;4=360&deg;)
+- **Dodecahedron**: 12 faces of pentagons (@ 108&deg;&times;5=580&deg;).
+- **Icosahedron**: 20 faces of triangles (@ 60&deg;&times;3=180&deg;).
+
+You can see they that are all a perfect multiples of 10 of commonly known values, but more interesting is that they have the same relationship to each other as the numbers 1, 2, 3, 5, 9, 11.
+
+<center><img src='../Images/platonics.png' style='width:100%'></center>
+
+As well, every total number when divided by 60 = 12.  This might lend a clue as to why we have 60 minutes in two 12 hour periods to define a day, as per the ancient Babylonian system that our time system is based on.
+
+Now, here is some crazy coincidence… the mean diameter of the Earth is 7920, the total of all the angles of the platonic solids, and the mean diameter of the Moon is 2160 miles, the angles of the cube!  What’s really crazy about this coincidence is that the mile was a totally arbitrary length that started out as 1000 paces of a Roman soldier, so we would never suspect that a human’s pace would relate to planets sizes… but they do because the same patterns that create the platonic solids, are the patterns that create the planets, and life.  Contrary to accepted history, the base 10 counting system (which the 1000 paces is based on) is not because humans have 5 fingers on 2 hands.  Humans have 5 fingers and 2 hands because 5 x 2 is one of those fundamental patterns that we see on all of life, and the base 10 *is* the most efficient system of counting simply because 0-9 is the most contiguous set of values that can be defined with 2 trigrams.
+
+“Arbitrary” is like “coincidence”… neither actually exists.
+
+We can also see that the dodecahedron is the only form that is the perfect multiple of 3 of the cube, which is itself a perfect multiple of 3 of the tetrahedron, and if we add the degrees of these 3 forms, we get 9360, which is the degrees of the tetrahedron, or 720, &times; 13.
+
 ## And this finally brings us back to &hellip;
 
 With all that said, let’s return now to the tholonic formulas for &pi;, which are based on the Leibniz model for &pi;.  This model provides a way to measure the difference between each generation of tholons.  While Leibniz used odd numbers, the tholonic perspective is to consider the generations of tholons because the thologram is a model of creation, growth, and the movement of energy from an originating point (the parent tholon) to a destination point (the child tholon).  <img src="../Images/family-3.png" style='float:right;width:30%'/>As such, we are using the size of each sequential pair of parent and children, or *family* of tholons, i.e., 1 tholon generates 2 (*real*) child tholons, hence, a *family* of 3.  These 2 child tholons generate 3 children for a *family* of 5 (*real*) tholons, etc.  The quantitative values are the same in both equations, but the qualitative values are radically different.  For the record, while we are calling them a *family*, technically, they are more like siblings as they were all created in the same generation and by the same parent.  Still, there is a natural hierarchy within this generation simply by their positioning relative to one another.
@@ -631,3 +655,4 @@ This suggests that the spectrum where new N-states appear can be seen as an octa
 The natural number system in the thologram appears to be binary, so binary math and binary logic are probably the most applicable for tholonic calculations.  If all creation exists within the thologram, and the thologram is binary in nature, then this might lead to some insights into the “reality is a simulation” hypothesis.
 
 *Note: More on the significance of the number 5 in the section of this appendix titled “Prime Numbers”*.
+

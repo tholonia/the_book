@@ -114,7 +114,7 @@ Suppose we look at meditation, prayer, and other forms of coherent thought.  In 
 
 From a thermodynamic perspective, focus, concentration, prayer, etc., only uses 5% of the calories needed to power the brain, or 0.65 calories an hour, no matter how hard you concentrate.  This means a single chocolate chip cookie could power a year’s worth of meditation or focused attention if someone meditated for 20 minutes daily.  Yet, focused thinking accounts for almost everything humanity has created since he thought, “hmm… I wonder if farming is easier than hunting and gathering?” and started the *Neolithic Revolution* that changed humanity forever.  It was not the 0.65 cal/hr our hunter/gatherer ancestors spent coming up with that idea of farming that challenged the 2<sup>nd</sup> law, it was the implementations of the idea which created more ordered, lower entropy, systems of food procurement.
 
-Similarly, if one happened to reach enlightenment during meditation, we certainly would not say they achieved 2.7214 watts (which is 0.65 calories) of enlightenment. 
+Similarly, if one happened to have a brilliant idea during deep thought or meditation, we certainly would not say the was was 2.7214 watts (which is 0.65 calories) worth of brilliance. 
 
 This brings us back to the question, “How can a system become more organized in an ever-increasingly chaotic system?”.  This argument is called the *Schrödinger paradox*, as it was introduced to the world by Erwin Schrödinger in 1933 in his book “What is Life?”.  But Schrödinger had the answer (it’s not clear why it is called a paradox considering the question is rhetorical, making it more of a *Schrödinger’s rhetoric*).  We briefly touched on this earlier, but here is a paraphrased version of Schrödinger’s explanation:
 
@@ -290,7 +290,6 @@ There have been several studies of SW using animals.  One review does a meta-ana
 
 >  The animal research conducted to date consistently demonstrated beneficial effects of SW consumption.
 
-
 <img src='../Images/bullied_plant.png' style='float:right;width:25%'/>There is another conclusion that also needs to be looked at, and that is the inability for some people, including scientists, to accept the possibility, or worse, attack not only any finding, but even the question as “worms of heretical perversity!”.  It almost as if science is suffering of *sophophobia* (fear of learning), or worse, *rogophobia*( fear of asking questions). 
 
 An example of this is the very simple “experiment” produced by IKEA (yes, the furniture store), where they placed 2 identical plants side by side for 30 days in many K-12 GEMS schools (Global Education Management Systems[^420]) across the United Arab Emirates (U.A.E).  Signs near each plant instructed the viewer to either “compliment” the plant (right) or “bully” the plant (left).  The short YouTube video[^421] had 1.2 million views, with 6,700 likes and 625 dislikes, and many of the comments were as vile as YouTube will allow.  Granted, this exhibition will never get published in the *Journal for Experimental Science*, but it the clearest demonstration of the concept.  
@@ -299,6 +298,30 @@ It is certainly sufficient to raise the question, “Do emotions effect life?”
 
 [^420]: https://en.wikipedia.org/wiki/GEMS_Education
 [^421]: https://www.youtube.com/watch?v=Yx6UgfQreYY
+
+## Gravity
+
+If it is true, as mentioned in *Chapter 11: Fields*, that gravity and Awareness are two instances of teh same archetype, then we should be able to adapt experiments on gravity to Awareness.  We could start with the first experiment to measure the force of gravity between masses in 1797, the *Cavendish experiment*.  This experiment was the first to determine accurate values for the gravitational constant (G).
+
+As a reminder, in *Chapter 11* we correlated the following properties:
+
+- Gravitational constant (G) -> volts (V)
+- Gravitational field of mass (g) -> power (P), energy transfer over time.
+- Force of gravity (F) -> resistance (R)
+- Distance (S) -> current (I)
+
+The Cavendish experiment is both simple and fascinating.  Simply hang a balanced bar holding two masses from a string and let them rest.  Then place large masses, such as bowling balls, next to each mass on each side, and watch the balanced masses get drawn to the bowling balls due the gravitational field of the bowling balls.  
+
+Now, if we correlate according to our initial associations (“initial” because these will certainly need tweaking and adjusting):
+
+- Awareness (A) -> Gravitational constant (G)
+- Consciousness (C) -> Gravitational field of mass (g)
+
+We end up with a models that look like:
+
+<center><img src='../Images/cavandish2.png' style='width:75%'/></center>
+
+This tholonic model experiment suggests that a “small” consciousness” will be attracted to a “large”, which might make sense, but is difficult to test as we have no standardized metric for consciousness, either individual, collective, hive, or otherwise.  We have the concept of an expanded consciousness, which correlates to problem solving, planning, and reasoning, but as this applies as much to bee hives and ants as it does to humans or plants, we still have the same problem. nevertheless, this is a potential example of shifting the concept of gravity to Awareness.
 
 **Other Experiments**
 
@@ -504,15 +527,22 @@ What we have referred to as an uninstantiated tholon can be considered a type of
 
 You may have heard phrases like  “*If it looks like a duck and quacks like a duck, its probably a duck.*”, “*When you hear hooves, think horses, not zebras.*”, or “*The simplest explanation is most likely the right one*”, otherwise known as *Occam’s Razor*.  Applying the wisdom of these *abductive reasonings*, what are we to make of the fact that research out of Princeton University supports the theory that ideas, in the form of social media networks, follow the same growth models as viruses (in the form of diseases)? [^171] 
 
+[^171]: Cannarella, John, and Joshua A.  Spechler. “**Epidemiological Modeling of Online Social Network Dynamics.**” Department of Mechanical and Aerospace Engineering, Princeton University, Princeton, NJ, USA, January 17, 2004.  http://arxiv.org/pdf/1401.4208v1.pdf.
+
 Outside of the conclusion that perhaps Facebook and Twitter are some form of viral disease, it tells us that ideas follow the same patterns as existing natural growth patterns, suggesting we might learn more about the life of archetypes if we considered them living.  OK, viruses *may* not be “alive”, but I say *may* because some experts in the field are redefining “life” to include viruses. [^172]<sup>,</sup>[^173] Regardless, the growth, survival, and creation of ideas follow the same patterns as everything else that grows, survives, and creates.  For this reason, a clever researcher might be able to find correlations between the life cycle of a galaxy and something as seemingly unrelated as, say, the life cycle of a tomato plant. 
 
-One such researcher might be Tokyo Institute of Technology’s Maruyama Shigenori, a Leading geophysicist and founder of the *Center for Bio-Earth Planetology*, who, by connecting the theories of astronomy with those of the life sciences, has shown how entire planets may well be living super-organisms.
-
-[^171]: Cannarella, John, and Joshua A.  Spechler. “**Epidemiological Modeling of Online Social Network Dynamics.**” Department of Mechanical and Aerospace Engineering, Princeton University, Princeton, NJ, USA, January 17, 2004.  http://arxiv.org/pdf/1401.4208v1.pdf.
 [^172]: Forterre P. (2010). **Defining life: the virus viewpoint. *Origins of life and evolution of the biosphere : the journal of the International Society for the Study of the Origin of Life***, *40*(2), 151–160.  https://doi.org/10.1007/s11084-010-9194-1
 [^173]: Pearson H. “**Virophage**” suggests viruses are alive. *Nature*. 2008;454(7205):677.  doi:10.1038/454677a
 
-However, this idea that archetypes are alive has a dark side because so many of our beliefs are manipulated and controlled by others whose agenda is less than altruistic, hidden, and aware of the mechanics of reality and consciousness.  From the most powerful laser in the world named after the Hindu god of destruction to trivial tarot cards based on movie stars, we can find countless examples of how these imposed archetypes infiltrate our understanding and view of the world.
+One such researcher might be Tokyo Institute of Technology’s Maruyama Shigenori, a Leading geophysicist and founder of the *Center for Bio-Earth Planetology*, who, by connecting the theories of astronomy with those of the life sciences, has shown how entire planets may well be living super-organisms.  Another effort is from Department of Physics and Astronomy researchers at the University of Kansas who theorize on the relationship between biodiversity and cosmic rays[^490]. 
+
+[^490]: Medvedev, Mikhail V., and Adrian L. Melott. “**Do Extragalactic Cosmic Rays Induce Cycles in Fossil Diversity?**” *The Astrophysical Journal* 664, no. 2 (2007): 879–89. https://doi.org/10.1086/518757. 
+
+It’s quite surprising that these new ideas are considered ground-breaking or radical in the science community considering as our own biological processes, such as sleeping, menstruating, secretion of the melatonin from the pineal gland, stress levels, memory and genetic encodings [^491] are driven and controlled by cosmic conditions such as the Sun, Moon, the spinning of the earth, and even energies from the Milky Way and far off supernovas.
+
+[^491]: Youri G. Bolsius, Matias D. Zurbriggen, Jae Kyoung Kim, Martien J. Kas, Peter Meerlo, Sara J. Aton, Robbert Havekes, “**The role of clock genes in sleep, stress and memory**”, Biochemical Pharmacology, Volume 191, 2021, 114493, ISSN 0006-2952, https://doi.org/10.1016/j.bcp.2021.114493.
+
+However, this idea that archetypes are alive raises some concerns regarding mechanics of reality and consciousness as we can find countless examples of how these imposed archetypes infiltrate our understanding and view of the world, such as the most powerful laser in the world named after the Hindu god of destruction to trivial tarot cards based on movie stars.
 
 So, what kind of world are we creating with our awareness, desires, and beliefs as a planet? To find out, I wrote a mobile phone app that allows people to send out a blessing or a curse into the “ether”.  The app was creatively named “Bless or Curse”.
 

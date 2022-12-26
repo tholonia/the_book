@@ -54,6 +54,8 @@ certamenbailebarracas@gmail.com
 
 # REFS
 
+- https://www.youtube.com/watch?v=OlD2rcm971U Fractal/God
+
 - https://uncommondescent.com/intelligent-design/sequences-probability-calculator-6/  interesting numbes realting to possibiliries
 
 - SA article on tholonics (more or less)
