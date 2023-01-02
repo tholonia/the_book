@@ -11,11 +11,11 @@ Prior to modern science, it was religion that provided that lens, and over thous
 
 Not surprisingly, we can see several parallels between the ancient understanding of God, the creations of God, and the thologram.  One of the more obvious parallels can be seen in the traditional and current Christian model (the Jewish model is similar but not exactly the same) of the hierarchy of Christian saints composed of 9 angelic choirs made up of 3 spheres of responsibility, with each sphere having 3 classes of angels.
 
-<img src="../Images/9choirs.png" style='width:100%'/>
+<img src='../Images/9choirs.png' style='width:100%'/>
 
 This is remarkably similar to the tholonic model but limited to a single tholon.
 
-<img src="../Images/9choirs_tet.png" style='width:100%'/>
+<img src='../Images/9choirs_tet.png' style='width:100%'/>
 
 We can even see how the class of angles fits neatly into the tholonic trinity of *Negotiation/Definition/Contribution* (or *Balance/Limitation/Form*):
 
@@ -84,7 +84,7 @@ It’s also worth noting the parallels of the Canaanite pantheon with the Ancien
 
 And we can see just how closely these 2 divine hierarchies reflect each other in the charts below ascribed to *Sanchoniatho*:
 
-<img src="../Images/elyontree.png" style='width:100%'/>
+<img src='../Images/elyontree.png' style='width:100%'/>
 
 If it is not obvious already, let’s point out the similarities with the thologram.  Elyon, who was not created by anything and which contains within it all things, is the primary tholon.   That tholon contains a plurality of partons, which are themselves tholons with partons.  Elyon describes the parent tholon from which all is created within, and Elohim describes the same tholon but as a plurality of the partons.  Just as an archetype will, or perhaps must, inevitably instantiate, here, too, there is an instantiation of "The Most High" in Jesus.
 
@@ -92,7 +92,7 @@ Each son of Elyon was to watch over their nation, which describes the relationsh
 
 The name “El” is composed of 2 ancient Semitic characters, *Ayin*, and *Lamed*, which were originally pictographs based on the “eye” and “shepherd's staff”, representing the concepts of “To watch, to see” and “to guide”.  Together, they clearly represent the ideas of a shepherd watching over and controlling his flock.
 
-<center><img src="../Images/elyon.png" style='width:100%'/></center>
+<center><img src='../Images/elyon.png' style='width:100%'/></center>
 
 The concept of “to see, to watch, to know” is synonymous with “to be aware of”, i.e., am expressions of awareness.   Guiding, teaching, binding, or to presume authority, are also very clear intentions.  This strongly suggests that “El” is an instance of awareness and intention, and “Elyon” is the “Most High” Awareness and Intention[^486].
 
@@ -169,7 +169,7 @@ In many ways, we can see this polarity in modern politics and culture as the div
 
 In any case, we end up with something like this:
 
-<center><img src="../Images/123spectrum.png" style='width:50%'/></center>
+<center><img src='../Images/123spectrum.png' style='width:50%'/></center>
 
 However, the broader perspective is recognizing the context of the A&I from which both of these expressions emerge transcends all gods and all politics, and from that perspective, a stable balance between the poles can emerge, in both beliefs and practice.
 
@@ -185,9 +185,9 @@ This simplest of insights, “I am” vs. “I am not”, or “is” vs. “is 
 
 The most important detail about this line is that it can only be understood if read in Hebrew.  We don’t know what language the message was delivered in or if Moses even knew Hebrew.  All we know it our current sources were written in Hebrew 1000 years after Moses.  The claim that the message was delivered in Hebrew because God only spoke in Hebrew is suspect.  In any case, the languages of the day, Aramaic, Canaanite, Phoenician, are similar to Hebrew.
 
-In Hebrew, the root word that means “to exist” or “to be” is HWH (*Ehyeh*, <img src="../Images/heb_HWH.png" style='height:10px'/>).  Adding an A (<img src="../Images/heb_A.png" style='height:10px'/>) at the beginning makes it *1<sup>st</sup> person*, as in “I exist”.  Adding a T (<img src="../Images/heb_TAU.png" style='height:10px'/>) makes it *2<sup>nd</sup> person*, as in “you exist”, and adding a Y (<img src="../Images/heb_YOD.png" style='height:10px'/>) makes it *3<sup>rd</sup> person*, as in “he exists”.
+In Hebrew, the root word that means “to exist” or “to be” is HWH (*Ehyeh*, <img src='../Images/heb_HWH.png' style='height:10px'/>).  Adding an A (<img src='../Images/heb_A.png' style='height:10px'/>) at the beginning makes it *1<sup>st</sup> person*, as in “I exist”.  Adding a T (<img src='../Images/heb_TAU.png' style='height:10px'/>) makes it *2<sup>nd</sup> person*, as in “you exist”, and adding a Y (<img src='../Images/heb_YOD.png' style='height:10px'/>) makes it *3<sup>rd</sup> person*, as in “he exists”.
 
-Here, God tells Moses his name is “I AM WHO I AM” (*Ehyeh-Asher-Ehyeh*, <img src="../Images/iamthatiam.png" style='height:10px'/>), which can be interpreted as:
+Here, God tells Moses his name is “I AM WHO I AM” (*Ehyeh-Asher-Ehyeh*, <img src='../Images/iamthatiam.png' style='height:10px'/>), which can be interpreted as:
 
 I will exist because I will exist
 I exist because I exist
@@ -197,7 +197,7 @@ I am that which exists
 
 It is not a matter of choosing which interpretation is correct.  Given that Hebrew only has tenses for *finished* (perfect) and *unfinished* (imperfect) and no *future* or *past* tenses, all these (and more) interpretations are simultaneously correct.
 
-But God also said, “Thus you shall say to the Israelites, ‘I AM has sent me to you.’”.  “I AM” here is spelled like YHWH (*Yih’weh*, <img src="../Images/yhvh.png" style='height:10px'/>, YHWH), which is the *3<sup>rd</sup> person* form of “to be” (HWH, *Ehyeh*, <img src="../Images/heb_HWH.png" style='height:10px'/>) .  This translates to “He exists” *and* “He will exist”.  It is unclear if the voice of *Ehyeh-Asher-Ehyeh* was speaking as the messenger for the even greater God of “He Is” or, as pointed out by Jaynes, refers to itself in the *3<sup>rd</sup> person* because human consciousness at that time could only conceive of a god as someone/something outside of themselves, a projection of the “I Am” concept.
+But God also said, “Thus you shall say to the Israelites, ‘I AM has sent me to you.’”.  “I AM” here is spelled like YHWH (*Yih’weh*, <img src='../Images/yhvh.png' style='height:10px'/>, YHWH), which is the *3<sup>rd</sup> person* form of “to be” (HWH, *Ehyeh*, <img src='../Images/heb_HWH.png' style='height:10px'/>) .  This translates to “He exists” *and* “He will exist”.  It is unclear if the voice of *Ehyeh-Asher-Ehyeh* was speaking as the messenger for the even greater God of “He Is” or, as pointed out by Jaynes, refers to itself in the *3<sup>rd</sup> person* because human consciousness at that time could only conceive of a god as someone/something outside of themselves, a projection of the “I Am” concept.
 
 In either case, we have instances of Awareness (I am, I exist) and instances of Intention (I will).  This correlation fits so nicely that we could say that *finished* is a description of *Awareness*, in that awareness, in its pure form, is finished, perfect, in the present.  There is nothing for *Awareness* to “do” other than “to be”.  *Intention* is unfinished, a work-in-progress, the future, something that requires “work”.
 
@@ -205,9 +205,9 @@ In either case, we have instances of Awareness (I am, I exist) and instances of 
 
 After thousands of years and thousands of volumes of opinion, doctrine, and religious law, and despite the deliberate hiding, misspelling, encrypting, and misinterpreting of the name of God (as it was forbidden to be spoken and often forbidden to be written), there is still heated debate as to the “real” and/or “secret” significance of these words.  
 
-And if this subject wasn’t already shrouded in the mystical symbolism of Moses’s isolated vision, it has been orally passed on for centuries before it was translated from Phoenician to Hebrew to Greek to English and dozens of other languages, none of which hold the same significance as the language of Moses.  For example, historians say that the Phoenician alphabet evolved out of symbols for things like fish (<img src="../Images/p_fish.png" style='height:10px'/>), eye (<img src="../Images/p_eye.png" style='height:10px'/>), tooth (<img src="../Images/p_tooth.png" style='height:10px'/>), weapon (<img src="../Images/p_weapon.png" style='height:10px'/>), etc., and even though the symbols and order are similar to Hebrew (and Greek), the legend is that Hebrew came from the words that were written with black fire on white fire in the presence of god, and that these words are the Torah as well as all the names of God, and so powerful with this language that, as the legend goes, the 1<sup>st</sup> letter of the Hebrew alphabet, ALEPH, was created by God opening his mouth to speak, but even that was so overwhelming it caused the people to fall to the ground (is this why the word “Aleph” is the joining of 2 words, “al”, meaning “god” (i.e. the god of Israel.  The etymology is unclear, but not to be confused with “El”, the generic Semitic word meaning “god”, although it seems likely they are connected) , and “p”, meaning “mouth”? <img src="../Images/alephgodmouth.png" style='height:15px'/>).  The cultural significance of letters, words, and sentences will differ dramatically even between these similar languages.  
+And if this subject wasn’t already shrouded in the mystical symbolism of Moses’s isolated vision, it has been orally passed on for centuries before it was translated from Phoenician to Hebrew to Greek to English and dozens of other languages, none of which hold the same significance as the language of Moses.  For example, historians say that the Phoenician alphabet evolved out of symbols for things like fish (<img src='../Images/p_fish.png' style='height:10px'/>), eye (<img src='../Images/p_eye.png' style='height:10px'/>), tooth (<img src='../Images/p_tooth.png' style='height:10px'/>), weapon (<img src='../Images/p_weapon.png' style='height:10px'/>), etc., and even though the symbols and order are similar to Hebrew (and Greek), the legend is that Hebrew came from the words that were written with black fire on white fire in the presence of god, and that these words are the Torah as well as all the names of God, and so powerful with this language that, as the legend goes, the 1<sup>st</sup> letter of the Hebrew alphabet, ALEPH, was created by God opening his mouth to speak, but even that was so overwhelming it caused the people to fall to the ground (is this why the word “Aleph” is the joining of 2 words, “al”, meaning “god” (i.e. the god of Israel.  The etymology is unclear, but not to be confused with “El”, the generic Semitic word meaning “god”, although it seems likely they are connected) , and “p”, meaning “mouth”? <img src='../Images/alephgodmouth.png' style='height:15px'/>).  The cultural significance of letters, words, and sentences will differ dramatically even between these similar languages.  
 
-<img src="../Images/iamtri_rings.png" style='float:right;width:35%'/>The other reason is to show how tholonic concepts find form in not only scientific understanding but religious and spiritual beliefs and even language itself.  Any belief, including scientific, that advances dogma and confusion of any kind is a belief that is detrimental to understanding the nature of reality, but such beliefs have existed for thousands of years and appear to be very sustainable.  What follows is a simple description of the tholonic concept that is linguistically and conceptually compatible with many belief systems and which may shed light on their cryptic symbolism. 
+<img src='../Images/iamtri_rings.png' style='float:right;width:35%'/>The other reason is to show how tholonic concepts find form in not only scientific understanding but religious and spiritual beliefs and even language itself.  Any belief, including scientific, that advances dogma and confusion of any kind is a belief that is detrimental to understanding the nature of reality, but such beliefs have existed for thousands of years and appear to be very sustainable.  What follows is a simple description of the tholonic concept that is linguistically and conceptually compatible with many belief systems and which may shed light on their cryptic symbolism. 
 
 **What? That!**
 
@@ -217,7 +217,7 @@ The word “that” is, grammatically, a *determiner* and a *relative pronoun* b
 
 “I Am **That** I Am” is stating that the existence of “I Am” is, and only is, awareness of “I” and that the entirety of that awareness is, and only is, the singularity of that awareness.  There is no context for that which is “I Am” other than “I Am”.  It is perfectly self-referential as “I Am” consists only of that singularity that is “I Am”.  On the other hand, “I Am **What** I Am” means that the entirety of “I Am” is the sum of its parts.  Even if those parts are instances of “I Am”, it is not a singularity because “what” explicitly refers to a plurality in contrast to the singularity of “that”. 
 
-<img src="../Images/popeye.png" style='float:right;width:35%'/>Tholonically, “I Am **That** I Am” describes an instance or a concept from the perspective of a tholon as a whole, a *holon*.  “I Am **What** I Am” describes an instance or concept as a collection of parts, or *partons*, that make the whole.  It is the difference between the creator and the created (e.g., God and *Popeye the Sailorman*, who’s fond of saying, “I yam what I yam, and that’s all what I yam”).  In the thologram, as the parts are identical to the whole, we can say that the parts most definitely are made in the image of the whole.  
+<img src='../Images/popeye.png' style='float:right;width:35%'/>Tholonically, “I Am **That** I Am” describes an instance or a concept from the perspective of a tholon as a whole, a *holon*.  “I Am **What** I Am” describes an instance or concept as a collection of parts, or *partons*, that make the whole.  It is the difference between the creator and the created (e.g., God and *Popeye the Sailorman*, who’s fond of saying, “I yam what I yam, and that’s all what I yam”).  In the thologram, as the parts are identical to the whole, we can say that the parts most definitely are made in the image of the whole.  
 
 There is only a single instance where the *holons* and *partons*, the context and contents, are identical, and that is the initial instance of the trigram.  This is the only valid instance of “I Am **That** I Am”, and everything that follows is “I Am **What** I Am”.  The Aramaic name of God can be interpreted as either as we are being told that Jehovah is both the creator and the created.  Ironically, this is antithetical to the Abrahamic concept of a god, which believes that the creator and the created are distinctly and vastly different.
 
