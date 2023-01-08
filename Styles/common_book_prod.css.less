@@ -1,0 +1,323 @@
+/*@page-size: 481.68pt 717.12pt;*/
+/*@page-size: 6.69in  9.61in;*/
+
+/* Amazon complanes the page is too wide.  Made smaller, but only app;lies to "prod" CSS, not "dev"*/
+@page-size: 7in  10in; /* 175mm x 244.094mm */
+/* this create even more probnlem with border overlapping :/ */
+/*@page-size: 6.70in  9.61in;*/
+
+@main-font:"Times New Roman",Times, serif;
+@h4-font:Tahoma,Verdana,Segoe,sans-serif;
+@h6-font:Tahoma,Verdana,Segoe,sans-serif;
+@zero:0px;
+@proof-borders: 0px solid pink;
+@proof-padding:0px;
+// @orphans:2;
+// @widows:2;
+@orphans:0;
+@widows:0;
+
+@h6-padding-top:4px;
+@h6-padding-bottom:4px;
+@default_font_size: 9pt;
+@default_line_height: 12pt;
+@toc_fone_size: 10pt;
+@h1_font_size: 14pt;
+@h2_font_size: 13pt;
+@h3_font_size: @default_font_size;
+@h4_font_size: @default_font_size;
+@h5_font_size: @default_font_size;
+@h6_font_size: 12pt;
+
+
+/* negative values just make it easier to edit - they effectively are 0 */
+/*@red1border: -1px solid red;
+@red2border: -2px solid red;
+@grn1border: -1px solid green;
+@grn2border: -2px solid green;*/
+
+@list-vert-margins: 4pt;
+@list-margin-left: 5%;
+
+
+
+@media print {
+    @page {
+        border:@proof-borders;
+/*        @top-left {
+            content: "THOLONIA 7.0.3";
+
+            text-align:center;
+            font-family: serif;
+            font-size: 11pt;
+            color:gray;
+            font-style: italic;
+        }*/
+        @bottom-right {
+            border:@proof-borders;
+/*            height:.25in;
+            line-height:.25in;*/
+            font-size: @default_font_size;
+            content: counter(page);
+            text-align:center;
+            font-family: serif;
+            color:gray;
+            /*bottom: 0.25in;*/
+
+            /*margin-bottom:10pt;*/
+            padding-bottom:0.25in;
+        }
+    }
+}
+@page {
+    border:@proof-borders;
+    size: @page-size;
+    margin-top: 0.6in;
+    margin-bottom: 0.4in;
+    margin-left: 0.3in;
+    margin-right: 0.3in;
+    padding: @zero;
+    /*height: auto;*/
+    bottom: @zero;
+    top: @zero;
+    left: @zero;
+    right: @zero;
+}
+body {
+    border:@proof-borders;
+    padding:@proof-padding;
+    size: @page-size;
+    font-family: @main-font;
+    font-size: @default_font_size;
+    background: inherit;
+    tab-size: 2;
+    line-height: @default_line_height;
+    max-width: 165.1mm  !important; /* 39em = 624px*/
+    /* PRINCE-only tags */
+    margin-inside: 0.635in !important;
+    margin-outside: 0.32in !important;
+}
+p {
+    /*border:1px solid red;*/
+    font-family: @main-font;
+    page-break-before: auto;
+    text-align: justify;
+    line-height: @default_line_height;
+    margin: @zero;
+    padding-top: 8pt;
+    padding-bottom: 8pt;
+    hyphens: auto;
+    prince-hyphenate-lines: 2;
+    prince-hyphenate-before: 3;
+    prince-hyphenate-after: 2;
+    orphans: @orphans;
+    widows: @widows;
+}
+/************************************************/
+/* FONTS                                        */
+/************************************************/
+h1 {
+    font-size: @h1_font_size;
+    text-align: center;
+}
+h2 {
+    font-size: @h2_font_size;
+}
+h3 {
+    font-size: @h3_font_size;
+}
+h4 {
+    /* this is the CLAIM format */
+    font-family: @h4-font !important;
+    border: 1px solid lightgrey !important;
+    background-color: #ddd !important;
+    font-size: @h4_font_size  !important;
+    font-weight: 200 !important;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+h5 {
+    /* this is the author's quote format */
+    font-size: @h5_font_size;
+    font-weight:100;
+    font-style: italic;
+    color:grey;
+    text-align: center !important;
+    position:relative !important;
+    right:0 !important;
+    margin-left: 6.4mm; /* .25 inch */
+    /* THIS IS TO ADJUST THE AUTHORS ATTRIBUTION */
+    margin-top: @zero;
+    margin-bottom: 13px !important;
+    /*line-height: 0px;*/
+    position:relative !important;
+    top: -15;
+}
+h6 {
+    /* this is the sub-headimg */
+    font-style:normal;
+    font-family: @h6-font !important;
+    text-align: center !important;
+    color: black;
+    font-size: @h6_font_size;
+    border-left: 0px solid white;
+    border-right: 0px solid white;
+    border-top: 1px solid black !important;
+    border-bottom: 1px solid black !important;
+    padding-bottom:@h6-padding-bottom;
+    padding-top:@h6-padding-top;
+    font-weight: 100;
+}
+/************************************************/
+/* BLOCKQUOTE                                   */
+/************************************************/
+/* this is only meant to adjust the author's attribution block */
+blockquote {
+    margin-left: 6.4mm; /* .25 inch */
+    display: block;
+    margin-top:@zero;
+    margin-bottom:@zero;
+}
+blockquote p {
+    font-style: italic;
+    color: grey;
+    text-indent: @zero;
+}
+/************************************************/
+/* MISC                                         */
+/************************************************/
+.break {page-break-before:never;}
+.title {display: hidden;}
+/************************************************/
+/* LISTS                                        */
+/************************************************/
+ol ul {list-style-position: inside;}
+
+ul { /* first Level */
+    /*border:@red1border;*/
+    margin-top:@list-vert-margins;
+    margin-bottom:@list-vert-margins;
+    margin-left:@list-margin-left;
+}
+
+ul ul{ /* Second Level */
+    /*border:@red2border;*/
+    margin-left:@list-margin-left;
+    margin-top: @list-vert-margins;
+    margin-bottom: @list-vert-margins;
+}
+
+li {
+    /*border:@grn1border;*/
+    display: list-item;
+    text-align: -webkit-match-parent;
+    margin-top:@list-vert-margins;
+    margin-bottom:@list-vert-margins;
+}
+li ul li {
+    /*border:@grn2border;*/
+    text-align: -webkit-match-parent;
+    margin-top: @list-vert-margins;
+    margin-bottom:@list-vert-margins;
+}
+
+ol {margin-left:@list-margin-left;}
+ol ol{ margin-left:@list-margin-left;} /* Second Level */
+/************************************************/
+/* TOC                                          */
+/************************************************/
+#TOC ul {
+    list-style: none;
+}
+
+html body nav#TOC ul li ul li ul {
+    display:none;
+}
+/*  L1 titles bold */
+#TOC li {
+    line-height:9pt;
+    margin-bottom:@zero;
+}
+#TOC li a {
+    text-decoration:  none;
+    color: black;
+    font-weight: bold;
+    font-size: @toc_fone_size;
+    line-height:9pt;
+}
+
+#TOC li li a {
+    text-decoration:  none;
+    color: black;
+    font-weight: 100;
+    font-size:@toc_fone_size;
+}
+/************************************************/
+/* FOOTNOTES                                    */
+/************************************************/
+.footnotes {
+    font-size: 8pt;
+    padding-left:0px !important;
+    margin-left:10px !important;
+}
+
+.footnotes ol li p {
+    line-height: 11pt;
+    text-align: left;
+    margin:0px;  /* for epub */
+    padding:0px; /* for epub */
+}
+
+/* we override these valued when we compile with EPUB setting */
+@footnote-ref-vertical-align: bottom;
+@footnote-ref-font-size: 8pt;
+@footnote-ref-text-decoration: none;
+@footnote-ref-font-style: normal;
+@footnote-ref-font-weight: 100;
+@footnote-ref-margin-left: 2px !important;
+
+.footnote-ref {
+    vertical-align: @footnote-ref-vertical-align;
+    font-size: @footnote-ref-font-size;
+    text-decoration: @footnote-ref-text-decoration;
+    font-style: @footnote-ref-font-style;
+    font-weight: @footnote-ref-font-weight;
+    margin-left: @footnote-ref-margin-left;
+}
+
+/***********************************************************/
+/* This is just to hide the title on the first page        */
+/* after the TOC with already has the image with the title */
+/***********************************************************/
+
+.unnumbered {
+    visibility:hidden;
+}
+img {
+    visibility:visible !important; /* override 'hidden' when images are part of unnumbered classes */
+}
+
+// <HR>is now pagebreak
+hr{opacity:0;page-break-after: always;}
+
+/* hide the anchor HTML */
+a[name]:empty + .md-raw-inline {
+  display:none;
+}
+a[name]:empty {
+  text-decoration: none;
+}
+a[name]:empty:before {
+ content:"⚓";
+}
+/* show the anchor HTML when cursor is inside */
+.md-expand .md-raw-inline {
+    display: inline !important;
+}
+
+/* no underline for links */
+a { text-decoration: none; }
